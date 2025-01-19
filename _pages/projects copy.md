@@ -1,11 +1,11 @@
 ---
 layout: page
-title: BIM
-permalink: /BIM/
+title: Architecture
+permalink: /Architecture/
 description: A growing collection of your cool projects.
 nav: true
-nav_order: 1
-display_categories: [BIM]
+nav_order: 2
+display_categories: [Design]
 horizontal: false
 ---
 

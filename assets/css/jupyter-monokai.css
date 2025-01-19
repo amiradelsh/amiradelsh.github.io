@@ -2640,7 +2640,7 @@ div.nbext-readme > .nbext-readme-contents:not(:empty) {
   margin-top: 0.5em;
   margin-bottom: 2em;
   border: none;
-  border-top-color: rgba(148, 204, 114, 0.2);
+  border-top-color: rgba(255, 255, 255, 0);
 }
 
 .nbext-showhide-incompat {

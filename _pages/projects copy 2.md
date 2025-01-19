@@ -1,11 +1,11 @@
 ---
 layout: page
-title: BIM
-permalink: /BIM/
-description: A growing collection of your cool projects.
+title: Graphics
+permalink: /Graphics/
+description: A Small collection of your cool projects.
 nav: true
-nav_order: 1
-display_categories: [BIM]
+nav_order: 3
+display_categories: [Graphic]
 horizontal: false
 ---
 
