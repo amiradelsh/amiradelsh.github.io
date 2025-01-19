@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 8
-description: with background image
+description: with a background image
 img: assets/img/Postheader45.jpg
 importance: 8
 category: Graphics
