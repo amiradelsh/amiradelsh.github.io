@@ -2,7 +2,7 @@
 layout: page
 title: project 7
 description: with background image
-img: assets/img/4.jpg
+img: assets/img/Postheader60.jpg
 importance: 7
 category: Architecture
 related_publications: true
