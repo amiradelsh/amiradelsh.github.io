@@ -263,6 +263,13 @@ Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut T
 > —Anais Nin
 
 Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+<!-- Another Row of Images -->
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="/assets/img/MelalSTR9.jpg" title="Example Image 4" class="img-fluid rounded" %}
+    </div>
+  </div>
+
 Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
 
 <div class="slider-container">
@@ -318,33 +325,7 @@ Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxide
 </div>
 
 
-<!-- Image Slider -->
-<div class="slider-container">
-  <div class="swiper mySwiper">
-    <div class="swiper-wrapper">
-      <!-- Slide 1 -->
-      <div class="swiper-slide">
-        <img src="/assets/img/MelalRender1920-3.jpg" alt="Render 1">
-        <div class="caption">Render View 1</div>
-      </div>
-      <!-- Slide 2 -->
-      <div class="swiper-slide">
-        <img src="/assets/img/MelalDiagram1920.jpg" alt="Diagram">
-        <div class="caption">Project Diagram</div>
-      </div>
-      <!-- Slide 3 -->
-      <div class="swiper-slide">
-        <img src="/assets/img/MelalplanGroundfloor.jpg" alt="Plan">
-        <div class="caption">Ground Floor Plan</div>
-      </div>
-    </div>
-    <!-- Navigation Buttons -->
-    <div class="swiper-button-next"></div>
-    <div class="swiper-button-prev"></div>
-    <!-- Pagination Dots -->
-    <div class="swiper-pagination"></div>
-  </div>
-</div>
+<div style="padding:46.17% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1053053646?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Architecture_BIM_Model_Overview"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 <!-- Include Swiper.js Library -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css">
