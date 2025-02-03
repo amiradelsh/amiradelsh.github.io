@@ -16,13 +16,13 @@ client: "XYZ Architecture Firm"
 
   <div class="row">
     <div class="col-md-6">
-      <p><strong>Project Location:</strong> {{ page.location }}</p>
-      <p><strong>Date:</strong> {{ page.date }}</p>
-      <p><strong>Team Members:</strong> {{ page.team_members }}</p>
+      <p><strong>Project Location:</strong> Tehran, Iran</p>
+      <p><strong>Period of Contribution:</strong> 10/2019 – 11/2021</p>
+      <p><strong>Team Members:</strong> 3 Architecture and 5 Structure & MEP BIM modelers</p>
     </div>
     <div class="col-md-6">
-      <p><strong>Responsibilities:</strong> {{ page.responsibilities }}</p>
-      <p><strong>Client:</strong> {{ page.client }}</p>
+      <p><strong>My Responsibilities:</strong> Architecture BIM modeler, Clash detection tests & meetings</p>
+      <p><strong>Client:</strong> Melal Hotel Group, Investment Department</p>
     </div>
   </div>
 
@@ -45,7 +45,7 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
       {% include figure.liquid path="/assets/img/MelalDiagram1920.jpg" title="Example Image 4" class="img-fluid rounded" %}
     </div>
   </div>
-      <!-- PLANS ARCHITECUTRE -->
+
 <div class="slider-container">
   <div class="swiper mySwiper">
     <div class="swiper-wrapper">
@@ -368,48 +368,66 @@ Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxide
 </script>
 
 <!-- CSS for Styling -->
-<style>
-  .slider-container {
-    width: 100%;
-    max-width: 900px; /* Adjust width as needed */
-    margin: auto;
-  }
+<style>/* Slider Container */
+.slider-container {
+  width: 100%;
+  max-width: 900px; /* Controls max width on larger screens */
+  margin: auto;
+}
 
+/* Slider Images */
+.swiper-slide {
+  position: relative;
+  width: 100%;
+  height: 100vh; /* Use relative height for responsiveness */
+  max-height: 700px; /* Prevents excessive stretching */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Image Styling */
+.swiper-slide img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ensures full coverage without distortion */
+  border-radius: 8px;
+}
+
+/* Navigation Arrows */
+.swiper-button-next,
+.swiper-button-prev {
+  color: black !important; /* Changes arrow color to black */
+}
+
+/* Caption */
+.caption {
+  position: absolute;
+  bottom: 10px;
+  left: 15px;
+  background: rgba(0, 0, 0, 0.49);
+  color: white;
+  padding: 5px 10px;
+  font-size: 18px;
+  border-radius: 5px;
+}
+
+/* Responsive Design for Mobile */
+@media (max-width: 768px) {
   .swiper-slide {
-    position: relative;
-    width: 100%;
-    height: 700px; /* Fixed height for consistency */
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    height: 40vh; /* Reduce height on smaller screens */
   }
 
   .swiper-slide img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover; /* Ensures images fit while maintaining aspect ratio */
-    border-radius: 8px;
-  }
-.swiper-button-next,
-  .swiper-button-prev {
-    color: black !important;  /* Changes the arrow color to black */
-  }
-  .caption {
-    position: absolute;
-    bottom: 10px;
-    left: 15px;
-    background: rgba(0, 0, 0, 0.49);
-    color: white;
-    padding: 5px 10px;
-    font-size: 18px;
-    border-radius: 5px;
+    object-fit: contain; /* Avoid excessive cropping on small screens */
   }
 
-  /* Adjust Navigation Arrows */
-  .swiper-button-next,
-  .swiper-button-prev {
-    color: #fff;
+  .caption {
+    font-size: 14px; /* Adjust caption size */
+    padding: 4px 8px;
   }
+}
+
 </style>
 
 
