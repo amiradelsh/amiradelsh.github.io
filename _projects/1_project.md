@@ -1,7 +1,7 @@
 ---
 layout: page
-title: <strong>[PARKSIDE]</strong>
-description: 
+title: <strong>[MELAL BUSINESS HOTEL]</strong>
+description: 2019 - 2021
 img: /assets/img/MelalTumbnail.jpg
 importance: 1
 category: BIM
@@ -37,19 +37,148 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
     </div>
   </div>
 
+Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon.
+
   <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
       {% include figure.liquid path="/assets/img/MelalDiagram1920.jpg" title="Example Image 4" class="img-fluid rounded" %}
     </div>
   </div>
-
-  <!-- Another Row of Images -->
-  <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/MelalplanGroundfloor.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      <!-- PLANS ARCHITECUTRE -->
+<div class="slider-container">
+  <div class="swiper mySwiper">
+    <div class="swiper-wrapper">
+      <!-- Slides -->
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalplanParking3.jpg" alt="Render 1">
+        <div class="caption">-3 Parking Finishing Plan</div>
+      </div>
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalplanParking2.jpg" alt="Diagram">
+        <div class="caption">-2 Parking Finishing Plan</div>
+      </div>
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalplanParking1.jpg" alt="Plan">
+        <div class="caption">-1 Parking Finishing Plan</div>
+      </div>
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalplanGroundfloor.jpg" alt="Ground Floor">
+        <div class="caption">Ground Floor Finishing Plan</div>
+      </div>
+      <div class="swiper-slide">
+        <img src="/assets/img/Melalplanfloor6.jpg" alt="First Floor">
+        <div class="caption">Sixth Floor Finishing Plan</div>
+      </div>
+      <div class="swiper-slide">
+        <img src="/assets/img/Melalplanfloor26.jpg" alt="Second Floor">
+        <div class="caption">Twenty Sixth Floor Finishing Plan</div>
+      </div>
+      <div class="swiper-slide">
+        <img src="/assets/img/Melalplanfloor28.jpg" alt="Third Floor">
+        <div class="caption">Twenty Eighth Floor Finishing Plan</div>
+      </div>
+      <div class="swiper-slide">
+        <img src="/assets/img/Melalplanflooring24.jpg" alt="Roof Plan">
+        <div class="caption">Twenty Fourth Floor Finish Plan</div>
+      </div>
+      <div class="swiper-slide">
+        <img src="/assets/img/Melalplanceilingplan25.jpg" alt="Section 1">
+        <div class="caption">Twenty Fifth Ceiling Plan</div>
+      </div>
+      <div class="swiper-slide">
+        <img src="/assets/img/Melalplanfloor4.jpg" alt="Section 2">
+        <div class="caption">Fourth Floor Finishing Plan</div>
+      </div>
     </div>
+    <!-- Navigation -->
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-pagination"></div>
   </div>
+</div>
+
+> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
+> —Anais Nin
+
+<div class="slider-container">
+  <div class="swiper mySwiper">
+    <div class="swiper-wrapper">
+      <!-- Slides -->
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalRoomdetail3.jpg" alt="Hotel Room Details3">
+        <div class="caption">Hotel Room Details</div>
+      </div>
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalRoomdetail.jpg" alt="Hotel Room Details1">
+        <div class="caption">Hotel Room Details</div>
+      </div>
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalRoomdetail2.jpg" alt="Hotel Room Details2">
+        <div class="caption">Hotel Room Details</div>
+      </div>
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalRoomdetail4.jpg" alt="Hotel Room Details4">
+        <div class="caption">Hotel Room Details</div>
+      </div>
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalRoomdetail5.jpg" alt="Hotel Room Details5">
+        <div class="caption">Hotel Room Details</div>
+      </div>
+    </div>
+    <!-- Navigation -->
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-pagination"></div>
+  </div>
+</div>
+
+> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
+> —Anais Nin
+
+<div class="slider-container">
+  <div class="swiper mySwiper">
+    <div class="swiper-wrapper">
+      <!-- Slides -->
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalRenderLounge.jpg" alt="Lounge">
+        <div class="caption">Lounge Space</div>
+      </div>
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalRenderMixedused.jpg" alt="Mixused">
+        <div class="caption">Mixed-Use Space</div>
+      </div>
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalRenderGym.jpg" alt="Gym">
+        <div class="caption">Sport Facilities and Gym</div>
+      </div>
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalRenderExterior.jpg" alt="Exterior">
+        <div class="caption">Street View of the Entrance</div>
+      </div>
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalRenderInterior.jpg" alt="Interior">
+        <div class="caption">Room Interior Design</div>
+      </div>
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalRenderInterior2.jpg" alt="Interior2">
+        <div class="caption">Room Interior Design</div>
+      </div>
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalRenderInterior3.jpg" alt="Interior3">
+        <div class="caption">Room Interior Design</div>
+      </div>
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalRenderPool.jpg" alt="Pool">
+        <div class="caption">Spas, Pool, and Wellness</div>
+      </div>
+    </div>
+    <!-- Navigation -->
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-pagination"></div>
+  </div>
+</div>
 
 
 #### Hipster list
@@ -69,14 +198,219 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
 
 Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
 
+ <!-- Another Row of Images -->
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="/assets/img/MelalMEP.jpg" title="Example Image 4" class="img-fluid rounded" %}
+    </div>
+  </div>
+
 <hr>
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+<div class="slider-container">
+  <div class="swiper mySwiper">
+    <div class="swiper-wrapper">
+      <!-- Slides -->
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalMEP3.jpg" alt="Render 1">
+        <div class="caption">MEP BIM Model</div>
+      </div>
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalMEP2.jpg" alt="Diagram">
+        <div class="caption">MEP BIM Model</div>
+      </div>
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalMEP4.jpg" alt="Plan">
+        <div class="caption">MEP BIM Model</div>
+      </div>
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalMEP5.jpg" alt="Ground Floor">
+        <div class="caption">MEP BIM Model</div>
+      </div>
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalMEP6.jpg" alt="First Floor">
+        <div class="caption">MEP BIM Model</div>
+      </div>
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalMEP7.jpg" alt="Second Floor">
+        <div class="caption">MEP BIM Model</div>
+      </div>
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalMEP8.jpg" alt="Third Floor">
+        <div class="caption">MEP BIM Model</div>
+      </div>
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalMEP9.jpg" alt="Roof Plan">
+        <div class="caption">MEP BIM Model</div>
+      </div>
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalMEP10.jpg" alt="Section 1">
+        <div class="caption">MEP BIM Model</div>
+      </div>
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalMEP11.jpg" alt="Section 2">
+        <div class="caption">MEP BIM Model</div>
+      </div>
+    </div>
+    <!-- Navigation -->
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-pagination"></div>
+  </div>
+</div>
 
 > We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
 > —Anais Nin
 
 Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+
+<div class="slider-container">
+  <div class="swiper mySwiper">
+    <div class="swiper-wrapper">
+      <!-- Slides -->
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalSTR1.jpg" alt="Render 1">
+        <div class="caption">Structure BIM Model</div>
+      </div>
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalSTR2.jpg" alt="Diagram">
+        <div class="caption">Structure BIM Model</div>
+      </div>
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalSTR3.jpg" alt="Plan">
+        <div class="caption">Structure BIM Model</div>
+      </div>
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalSTR4.jpg" alt="Ground Floor">
+        <div class="caption">Structure BIM Model</div>
+      </div>
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalSTR5.jpg" alt="First Floor">
+        <div class="caption">Structure BIM Model</div>
+      </div>
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalSTR6.jpg" alt="Second Floor">
+        <div class="caption">Structure BIM Model</div>
+      </div>
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalSTR7.jpg" alt="Third Floor">
+        <div class="caption">Structure BIM Model</div>
+      </div>
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalSTR8.jpg" alt="Roof Plan">
+        <div class="caption">Structure BIM Model</div>
+      </div>
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalSTR9.jpg" alt="Section 1">
+        <div class="caption">Structure BIM Model</div>
+      </div>
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalSTR10.jpg" alt="Section 2">
+        <div class="caption">Structure BIM Model</div>
+      </div>
+    </div>
+    <!-- Navigation -->
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-pagination"></div>
+  </div>
+</div>
+
+
+<!-- Image Slider -->
+<div class="slider-container">
+  <div class="swiper mySwiper">
+    <div class="swiper-wrapper">
+      <!-- Slide 1 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalRender1920-3.jpg" alt="Render 1">
+        <div class="caption">Render View 1</div>
+      </div>
+      <!-- Slide 2 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalDiagram1920.jpg" alt="Diagram">
+        <div class="caption">Project Diagram</div>
+      </div>
+      <!-- Slide 3 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/MelalplanGroundfloor.jpg" alt="Plan">
+        <div class="caption">Ground Floor Plan</div>
+      </div>
+    </div>
+    <!-- Navigation Buttons -->
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+    <!-- Pagination Dots -->
+    <div class="swiper-pagination"></div>
+  </div>
+</div>
+
+<!-- Include Swiper.js Library -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css">
+<script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
+
+<!-- Initialize Swiper -->
+<script>
+  var swiper = new Swiper(".mySwiper", {
+    slidesPerView: 1,
+    spaceBetween: 10,
+    loop: true,
+    navigation: {
+      nextEl: ".swiper-button-next",
+      prevEl: ".swiper-button-prev",
+    },
+    pagination: {
+      el: ".swiper-pagination",
+      clickable: true,
+    },
+  });
+</script>
+
+<!-- CSS for Styling -->
+<style>
+  .slider-container {
+    width: 100%;
+    max-width: 900px; /* Adjust width as needed */
+    margin: auto;
+  }
+
+  .swiper-slide {
+    position: relative;
+    width: 100%;
+    height: 700px; /* Fixed height for consistency */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .swiper-slide img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ensures images fit while maintaining aspect ratio */
+    border-radius: 8px;
+  }
+.swiper-button-next,
+  .swiper-button-prev {
+    color: black !important;  /* Changes the arrow color to black */
+  }
+  .caption {
+    position: absolute;
+    bottom: 10px;
+    left: 15px;
+    background: rgba(0, 0, 0, 0.49);
+    color: white;
+    padding: 5px 10px;
+    font-size: 18px;
+    border-radius: 5px;
+  }
+
+  /* Adjust Navigation Arrows */
+  .swiper-button-next,
+  .swiper-button-prev {
+    color: #fff;
+  }
+</style>
 
 
   <!-- Google Fonts -->
