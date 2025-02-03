@@ -2,22 +2,22 @@
 layout: default
 title: Home
 permalink: /
-
-# Optional metadata for social media
 meta_description: "Welcome to Amiradel's personal homepage."
 meta_keywords: "portfolio, minimalist, Amiradel, modern design"
 ---
 
 <head>
   <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet" rel="stylesheet" rel="stylesheet">
   
   <!-- Add your custom styles -->
   <style>
     /* General Styling */
     body {
-      font-family: 'Montserrat', sans-serif;
-      font-size: 16px;
+       font-family: "Work Sans", serif;
+        font-optical-sizing: auto;
+        font-weight: <weight>;
+        font-style: normal;
       color: #333;
       margin: 0;
       padding: 0;
@@ -54,7 +54,42 @@ meta_keywords: "portfolio, minimalist, Amiradel, modern design"
       max-width: 600px;
     }
 
-    /* Project Section */
+    /* Section with image and text */
+    .section-with-image {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 40px 20px;
+    }
+
+    .text-left {
+      flex: 1;
+      padding-right: 40px;
+    }
+
+    .text-left h2 {
+      font-size: 2em;
+      font-weight: Bold;
+    }
+
+    .text-left p {
+      font-size: 1.1em;
+      color: #555;
+    }
+
+    .image-right {
+      flex: 1;
+      max-width: 50%;
+    }
+
+    .image-right img {
+      width: 100%;
+      height: auto;
+      border-radius: 12px;
+      object-fit: cover;
+    }
+
+    /* Projects Section */
     .projects-section {
       padding: 40px 20px;
     }
@@ -110,6 +145,20 @@ meta_keywords: "portfolio, minimalist, Amiradel, modern design"
     }
 
     @media (max-width: 768px) {
+      .section-with-image {
+        flex-direction: column;
+        text-align: center;
+      }
+
+      .image-right {
+        max-width: 100%;
+        margin-top: 20px;
+      }
+
+      .text-left {
+        padding-right: 20;
+      }
+
       .project-card {
         flex: 1 1 100%;
         max-width: 100%;
@@ -118,17 +167,19 @@ meta_keywords: "portfolio, minimalist, Amiradel, modern design"
   </style>
 </head>
 
-<!-- Hero Section -->
-<div class="hero-section">
-  <img src="assets/img/facebook.png" alt="Amiradel's Logo" class="logo">
-  <div class="text-content">
-    <h1>Amiradel Shamshirgaran</h1>
-    <p>
-      Licensed architect and project manager with over 4 years of experience in solution-driven architectural design, BIM-based collaboration, visual presentations, and sustainability research.
+
+
+<!-- Section with image on the right and text on the left -->
+<div class="section-with-image">
+  <div class="text-left">
+    <h2><strong>Hello, I'm</strong> AMIRADEL SHAMSHIRGARAN</h2>
+    <p style="text-align: justify;">
+      
+      Licensed architect with 3+ years of experience in solution-driven architectural design, BIM-based collaboration, and sustainability research. Proven track record of delivering BIM models up to LOD 350 and conducting clash detection tests. Skilled in enhancing stakeholder engagement through immersive AR/VR/XR and effective graphic communication.
     </p>
-    <p>
-      Feel free to reach out at <a href="mailto:shamshirgaran@campus.tu-berlin.de">shamshirgaran@campus.tu-berlin.de</a>.
-    </p>
+  </div>
+  <div class="image-right">
+    <img src="assets/img/14.jpg" alt="About Me Image" />
   </div>
 </div>
 
