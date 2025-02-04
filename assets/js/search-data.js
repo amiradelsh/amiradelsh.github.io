@@ -407,14 +407,14 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-melal-business-hotel",
-          title: '[MELAL BUSINESS HOTEL]',
-          description: "2019 - 2021",
+          section: "News",},{id: "projects-melal",
+          title: '[MELAL]',
+          description: "Business Hotel",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-parkside",
           title: '[PARKSIDE]',
-          description: "2019 - 2021",
+          description: "Office Building",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3",
