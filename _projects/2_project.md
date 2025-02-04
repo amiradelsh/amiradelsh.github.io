@@ -1,11 +1,11 @@
 ---
 layout: page
 title: <strong>[PARKSIDE]</strong>
-description: 2019 - 2021
-img: /assets/img/MelalTumbnail.jpg
+description: Office Building
+img: /assets/img/ParksideTumbnail.jpg
 importance: 2
 category: BIM
-related_publications: true
+related_publications: False
 location: Tehran, Iran
 date: "2023-08-15"
 team_members: "John Doe, Jane Smith, Alex Brown"
@@ -34,13 +34,19 @@ images:
 
 Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. [Pinterest](https://www.pinterest.com) DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
 
-## Image Comparison Slider
-<img-comparison-slider>
-  {% include figure.liquid path="assets/img/ParksideNightComp.jpg" class="img-fluid rounded z-depth-1" slot="first" %}
-  {% include figure.liquid path="assets/img/ParksideDayComp.jpg" class="img-fluid rounded z-depth-1" slot="second" %}
-</img-comparison-slider>
-
-
+  <!-- Another Row of Images -->
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="/assets/img/ParksideDay.jpg" title="Example Image 4" class="img-fluid rounded" %}
+    </div>
+  </div>
+<!-- Another Row of Images -->
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="/assets/img/ParksideNight.jpg" title="Example Image 4" class="img-fluid rounded" %}
+    </div>
+  </div>
+Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon.
 
   <!-- Another Row of Images -->
   <div class="row">
@@ -51,293 +57,126 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
 
 Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon.
 
+## Image Comparison Slider
+<img-comparison-slider>
+  {% include figure.liquid path="assets/img/ParksideNightComp.jpg" class="img-fluid rounded z-depth-1" slot="first" %}
+  {% include figure.liquid path="assets/img/ParksideDayComp.jpg" class="img-fluid rounded z-depth-1" slot="second" %}
+</img-comparison-slider>
 
 
 
-  <!-- Another Row of Images -->
-  <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/ParksideDay.jpg" title="Example Image 4" class="img-fluid rounded" %}
-    </div>
-  </div>
-
-<div class="slider-container">
-  <div class="swiper mySwiper">
-    <div class="swiper-wrapper">
-      <!-- Slides -->
-      <div class="swiper-slide">
-        <img src="/assets/img/MelalplanParking3.jpg" alt="Render 1">
-        <div class="caption">-3 Parking Finishing Plan</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="/assets/img/MelalplanParking2.jpg" alt="Diagram">
-        <div class="caption">-2 Parking Finishing Plan</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="/assets/img/MelalplanParking1.jpg" alt="Plan">
-        <div class="caption">-1 Parking Finishing Plan</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="/assets/img/MelalplanGroundfloor.jpg" alt="Ground Floor">
-        <div class="caption">Ground Floor Finishing Plan</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="/assets/img/Melalplanfloor6.jpg" alt="First Floor">
-        <div class="caption">Sixth Floor Finishing Plan</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="/assets/img/Melalplanfloor26.jpg" alt="Second Floor">
-        <div class="caption">Twenty Sixth Floor Finishing Plan</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="/assets/img/Melalplanfloor28.jpg" alt="Third Floor">
-        <div class="caption">Twenty Eighth Floor Finishing Plan</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="/assets/img/Melalplanflooring24.jpg" alt="Roof Plan">
-        <div class="caption">Twenty Fourth Floor Finish Plan</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="/assets/img/Melalplanceilingplan25.jpg" alt="Section 1">
-        <div class="caption">Twenty Fifth Ceiling Plan</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="/assets/img/Melalplanfloor4.jpg" alt="Section 2">
-        <div class="caption">Fourth Floor Finishing Plan</div>
-      </div>
-    </div>
-    <!-- Navigation -->
-    <div class="swiper-button-next"></div>
-    <div class="swiper-button-prev"></div>
-    <div class="swiper-pagination"></div>
-  </div>
-</div>
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-<div class="slider-container">
-  <div class="swiper mySwiper">
-    <div class="swiper-wrapper">
-      <!-- Slides -->
-      <div class="swiper-slide">
-        <img src="/assets/img/MelalRoomdetail3.jpg" alt="Hotel Room Details3">
-        <div class="caption">Hotel Room Details</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="/assets/img/MelalRoomdetail.jpg" alt="Hotel Room Details1">
-        <div class="caption">Hotel Room Details</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="/assets/img/MelalRoomdetail2.jpg" alt="Hotel Room Details2">
-        <div class="caption">Hotel Room Details</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="/assets/img/MelalRoomdetail4.jpg" alt="Hotel Room Details4">
-        <div class="caption">Hotel Room Details</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="/assets/img/MelalRoomdetail5.jpg" alt="Hotel Room Details5">
-        <div class="caption">Hotel Room Details</div>
-      </div>
-    </div>
-    <!-- Navigation -->
-    <div class="swiper-button-next"></div>
-    <div class="swiper-button-prev"></div>
-    <div class="swiper-pagination"></div>
-  </div>
-</div>
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-<div class="slider-container">
-  <div class="swiper mySwiper">
-    <div class="swiper-wrapper">
-      <!-- Slides -->
-      <div class="swiper-slide">
-        <img src="/assets/img/MelalRenderLounge.jpg" alt="Lounge">
-        <div class="caption">Lounge Space</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="/assets/img/MelalRenderMixedused.jpg" alt="Mixused">
-        <div class="caption">Mixed-Use Space</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="/assets/img/MelalRenderGym.jpg" alt="Gym">
-        <div class="caption">Sport Facilities and Gym</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="/assets/img/MelalRenderExterior.jpg" alt="Exterior">
-        <div class="caption">Street View of the Entrance</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="/assets/img/MelalRenderInterior.jpg" alt="Interior">
-        <div class="caption">Room Interior Design</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="/assets/img/MelalRenderInterior2.jpg" alt="Interior2">
-        <div class="caption">Room Interior Design</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="/assets/img/MelalRenderInterior3.jpg" alt="Interior3">
-        <div class="caption">Room Interior Design</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="/assets/img/MelalRenderPool.jpg" alt="Pool">
-        <div class="caption">Spas, Pool, and Wellness</div>
-      </div>
-    </div>
-    <!-- Navigation -->
-    <div class="swiper-button-next"></div>
-    <div class="swiper-button-prev"></div>
-    <div class="swiper-pagination"></div>
-  </div>
-</div>
-
-
-#### Hipster list
-
-- brunch
-- fixie
-- raybans
-- messenger bag
-
-#### Check List
-
-- [x] Brush Teeth
-- [ ] Put on socks
-  - [x] Put on left sock
-  - [ ] Put on right sock
-- [x] Go to school
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
 
  <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/MelalMEP.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/ParksideFacade.jpg" title="Example Image 4" class="img-fluid rounded" %}
     </div>
   </div>
 
-<hr>
 
-<div class="slider-container">
-  <div class="swiper mySwiper">
-    <div class="swiper-wrapper">
-      <!-- Slides -->
-      <div class="swiper-slide">
-        <img src="/assets/img/MelalMEP3.jpg" alt="Render 1">
-        <div class="caption">MEP BIM Model</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="/assets/img/MelalMEP2.jpg" alt="Diagram">
-        <div class="caption">MEP BIM Model</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="/assets/img/MelalMEP4.jpg" alt="Plan">
-        <div class="caption">MEP BIM Model</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="/assets/img/MelalMEP5.jpg" alt="Ground Floor">
-        <div class="caption">MEP BIM Model</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="/assets/img/MelalMEP6.jpg" alt="First Floor">
-        <div class="caption">MEP BIM Model</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="/assets/img/MelalMEP7.jpg" alt="Second Floor">
-        <div class="caption">MEP BIM Model</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="/assets/img/MelalMEP8.jpg" alt="Third Floor">
-        <div class="caption">MEP BIM Model</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="/assets/img/MelalMEP9.jpg" alt="Roof Plan">
-        <div class="caption">MEP BIM Model</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="/assets/img/MelalMEP10.jpg" alt="Section 1">
-        <div class="caption">MEP BIM Model</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="/assets/img/MelalMEP11.jpg" alt="Section 2">
-        <div class="caption">MEP BIM Model</div>
-      </div>
+
+
+> We do not grow absolutely, chronologically. We grow sometimes in one dimension,
+> —Anais Nin
+
+
+ <!-- Another Row of Images -->
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="/assets/img/ParksideMEPOverview.jpg" title="Example Image 4" class="img-fluid rounded" %}
     </div>
-    <!-- Navigation -->
-    <div class="swiper-button-next"></div>
-    <div class="swiper-button-prev"></div>
-    <div class="swiper-pagination"></div>
   </div>
-</div>
+
+
+
+
+
+ <!-- Another Row of Images -->
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="/assets/img/ParksideMEP2.jpg" title="Example Image 4" class="img-fluid rounded" %}
+    </div>
+  </div>
+
+
+
+
+
+
+<!-- Another Row of Images -->
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="/assets/img/ParksideMEP.jpg" title="Example Image 4" class="img-fluid rounded" %}
+    </div>
+  </div>
+
+
+
+
 
 > We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
 > —Anais Nin
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
 <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/MelalSTR9.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/ParksideSTR1.jpg" title="Example Image 4" class="img-fluid rounded" %}
     </div>
   </div>
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
 
+
+
+
+
+
+
+> We do not grow absolutely, chronologically. We grow sometimes in one dimension,
+> —Anais Nin
+
+
+
+<!-- Another Row of Images -->
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="/assets/img/ParksideSTR5.jpg" title="Example Image 4" class="img-fluid rounded" %}
+    </div>
+  </div>
+
+
+<!-- Image Slider -->
 <div class="slider-container">
   <div class="swiper mySwiper">
     <div class="swiper-wrapper">
-      <!-- Slides -->
+      <!-- Slide 1 -->
       <div class="swiper-slide">
-        <img src="/assets/img/MelalSTR1.jpg" alt="Render 1">
-        <div class="caption">Structure BIM Model</div>
+        <img src="/assets/img/ParksideSTR3.jpg" alt="Render 1">
+        <div class="caption"></div>
       </div>
+      <!-- Slide 2 -->
       <div class="swiper-slide">
-        <img src="/assets/img/MelalSTR2.jpg" alt="Diagram">
-        <div class="caption">Structure BIM Model</div>
+        <img src="/assets/img/ParksideSTR2.jpg" alt="Diagram">
+        <div class="caption"></div>
       </div>
+      <!-- Slide 3 -->
       <div class="swiper-slide">
-        <img src="/assets/img/MelalSTR3.jpg" alt="Plan">
-        <div class="caption">Structure BIM Model</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="/assets/img/MelalSTR4.jpg" alt="Ground Floor">
-        <div class="caption">Structure BIM Model</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="/assets/img/MelalSTR5.jpg" alt="First Floor">
-        <div class="caption">Structure BIM Model</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="/assets/img/MelalSTR6.jpg" alt="Second Floor">
-        <div class="caption">Structure BIM Model</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="/assets/img/MelalSTR7.jpg" alt="Third Floor">
-        <div class="caption">Structure BIM Model</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="/assets/img/MelalSTR8.jpg" alt="Roof Plan">
-        <div class="caption">Structure BIM Model</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="/assets/img/MelalSTR9.jpg" alt="Section 1">
-        <div class="caption">Structure BIM Model</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="/assets/img/MelalSTR10.jpg" alt="Section 2">
-        <div class="caption">Structure BIM Model</div>
+        <img src="/assets/img/ParksideSTR4.jpg" alt="Plan">
+        <div class="caption"></div>
       </div>
     </div>
-    <!-- Navigation -->
+    <!-- Navigation Buttons -->
     <div class="swiper-button-next"></div>
     <div class="swiper-button-prev"></div>
+    <!-- Pagination Dots -->
     <div class="swiper-pagination"></div>
   </div>
 </div>
+
+
+> We do not grow absolutely, chronologically. We grow sometimes in one dimension,
+> —Anais Nin
+
+
 
 
 <div style="padding:46.17% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1053053646?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Architecture_BIM_Model_Overview"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
