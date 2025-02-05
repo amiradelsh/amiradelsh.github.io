@@ -18,7 +18,7 @@ client: "XYZ Architecture Firm"
     <div class="col-md-6">
       <p><strong>Project Location:</strong> Tehran, Iran</p>
       <p><strong>Period of Contribution:</strong> 10/2019 – 11/2021</p>
-      <p><strong>Team Members:</strong> 3 Architecture and 5 Structure & MEP BIM modelers</p>
+      <p><strong>Team Members:</strong> Three Architecture and five Structure & MEP BIM modelers</p>
     </div>
     <div class="col-md-6">
       <p><strong>My Responsibilities:</strong> Architecture BIM Modeler | Clash Detection & Coordination Leads</p>

@@ -20,19 +20,22 @@ images:
   <div class="row">
     <div class="col-md-6">
       <p><strong>Project Location:</strong> Tehran, Iran</p>
-      <p><strong>Period of Contribution:</strong> 10/2019 – 11/2021</p>
-      <p><strong>Team Members:</strong> 3 Architecture and 5 Structure & MEP BIM modelers</p>
+      <p><strong>Period of Contribution:</strong> 02/2024 – Present</p>
+      <p><strong>Team Members:</strong> Three BIM Modelers and one Site Engineer </p>
     </div>
     <div class="col-md-6">
-      <p><strong>My Responsibilities:</strong> Architecture BIM modeler, Clash detection tests & meetings</p>
-      <p><strong>Client:</strong> Melal Hotel Group, Investment Department</p>
+      <p><strong>My Responsibilities:</strong> Architectural Design | BIM Team Lead (3 BIM Modelers for Architecture, Structure & MEP) | Feasibility Study & Project Evaluation | Real Estate Marketing & Branding Coordinator</p>
+      <p><strong>Client:</strong> Private Client</p>
     </div>
   </div>
 
 
 
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. [Pinterest](https://www.pinterest.com) DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+Parkside is a six-story office building with a total built-up area of 3,500 square meters, located in a newly developed neighborhood west of Tehran, Iran. The project received municipal approval ten years ago; however, due to a lack of investment appeal, financing through pre-selling— a common method in the local real estate market—was unsuccessful.
+
+A year ago, the owner awarded a comprehensive Design + BIM contract to RENA Engineering & Construction Management. Under my lead as Managing Director, RENA took full responsibility for feasibility studies, sales programs, and financing strategies. Upon ensuring the project's feasibility, the architectural design process commenced alongside LOD 350 BIM modeling.
+
 
   <!-- Another Row of Images -->
   <div class="row">
@@ -76,9 +79,7 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
 
 
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension,
-> —Anais Nin
-
+> The structural BIM model was developed using Tekla Structures, ensuring precision in steel detailing. The MEP and architectural models were subsequently completed in Revit based on the Structure Model in IFC2x3 Steel Detailing View file, enabling seamless coordination and integration among disciplines.This approach ensured an optimized workflow, improved constructibility, and enhanced project efficiency.
 
  <!-- Another Row of Images -->
   <div class="row">
