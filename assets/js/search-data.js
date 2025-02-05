@@ -417,9 +417,9 @@ ninja.data = [{
           description: "Office Building",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3",
-          title: 'Project 3',
-          description: "A project with a background image",
+            },},{id: "projects-ava",
+          title: '[AVA]',
+          description: "Office Hub",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
