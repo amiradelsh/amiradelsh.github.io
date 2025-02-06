@@ -2,7 +2,7 @@
 layout: page
 title: <strong>[AVA]</strong>
 description: Office Hub
-img: /assets/img/OfficeThumbnail2.jpg
+img: /assets/img/OfficeThumbnail4.jpg
 importance: 3
 category: BIM
 related_publications: False
@@ -46,7 +46,7 @@ The building’s structural system consists of a reinforced concrete core combin
  <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/OfficeDiagram.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/OfficeDiagram3.jpg" title="Example Image 4" class="img-fluid rounded" %}
     </div>
   </div>
 
@@ -62,6 +62,12 @@ The building’s structural system consists of a reinforced concrete core combin
 The building’s structural system consists of a reinforced concrete core combined with a steel frame, ensuring both seismic resilience and construction efficiency.
 Currently in the under-construction phase, the project is progressing with the facade installation, marking a significant milestone toward completion. The architectural design emphasizes functionality, spatial efficiency, and contemporary aesthetics, contributing to Tehran’s evolving urban landscape.
 
+ <!-- Another Row of Images -->
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="/assets/img/OfficeDiagram.jpg" title="Example Image 4" class="img-fluid rounded" %}
+    </div>
+  </div>
 
 The diagram presents three orthographic axonometric views (West, South, and East) of the Melal Business Hotel, illustrating the vertical organization and spatial distribution of its core functions.
 
