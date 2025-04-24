@@ -1,10 +1,10 @@
 ---
 layout: page
-title: <strong>[SIMIN COMMERCIAL]</strong>
+title: <strong>[PAINTINGS]</strong>
 description: Office Building
-img: /assets/img/Postheader15.jpg
-importance: 3
-category: Architecture
+img: /assets/img/Postheader4.jpg
+importance: 2
+category: Graphics
 related_publications: False
 location: Tehran, Iran
 date: "2023-08-15"

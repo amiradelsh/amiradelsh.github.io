@@ -222,7 +222,7 @@ meta_keywords: "portfolio, minimalist, Amiradel, modern design"
 
   <!-- Graphics Projects -->
   <div class="projects">
-    <h2>Graphics Projects</h2>
+    <h2>Visual Designs</h2>
     <div class="project-container">
       {% assign graphics_projects = site.projects | where: "category", "Graphics" %}
       {% for project in graphics_projects %}

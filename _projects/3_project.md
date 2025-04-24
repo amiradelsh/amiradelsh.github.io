@@ -49,7 +49,7 @@ The building’s structural system consists of a reinforced concrete core combin
       {% include figure.liquid path="/assets/img/OfficeDiagram3.jpg" title="Example Image 4" class="img-fluid rounded" %}
     </div>
   </div>
-
+  
   <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">

@@ -12,7 +12,7 @@ description: Amiradel Shamshirgaran personal website  # the ">" symbol means to 
 footer_text: 
 keywords: Amiradel, Shamshirgaran, academic-website, portfolio-website, Architecture # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: favicon.ico
 
 url: https://amiradelsh.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Graphics
-permalink: /Graphics/
+title: Visuals
+permalink: /Visuals/
 description: A Small collection of your cool projects.
 nav: true
 nav_order: 3

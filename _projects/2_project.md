@@ -179,9 +179,15 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
 
 
 
+<div style="padding:46.17% 0 0 0;position:relative;">
+  <iframe src="https://www.youtube.com/embed/boUGCuRIPxE" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Architecture_BIM_Model_Overview"></iframe>
+</div>
 
-<div style="padding:46.17% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1053053646?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Architecture_BIM_Model_Overview"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
+
+> We do not grow absolutely, chronologically. We grow sometimes in one dimension,
+> —Anais Nin
+> 
 <!-- Include Swiper.js Library -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css">
 <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
