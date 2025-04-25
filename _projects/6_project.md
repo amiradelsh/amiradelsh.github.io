@@ -1,8 +1,8 @@
 ---
 layout: page
-title: <strong>[CBDX]</strong>
+title: <strong>[GREEN CITY]</strong>
 description: Design Competition
-img: /assets/img/Postheader3.jpg
+img: /assets/img/GreenCityThumbnail2.jpg
 importance: 3
 category: Architecture
 related_publications: False
@@ -40,13 +40,16 @@ A year ago, the owner awarded a comprehensive Design + BIM contract to RENA Engi
   <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/ParksideDay.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/GreenCityRender2.jpg" title="Example Image 4" class="img-fluid rounded" %}
     </div>
   </div>
+
+  Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon.
+
 <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/ParksideNight.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/GreenCityDiagram.jpg" title="Example Image 4" class="img-fluid rounded" %}
     </div>
   </div>
 Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon.
@@ -54,95 +57,30 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
   <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/ParksideSectionPerspective2.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/GreenCityDiagram3.jpg" title="Example Image 4" class="img-fluid rounded" %}
     </div>
   </div>
 
 Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon.
+<!-- Another Row of Images -->
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="/assets/img/GreenCityDiagram4.jpg" title="Example Image 4" class="img-fluid rounded" %}
+    </div>
+  </div>
+
+  <!-- Another Row of Images -->
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="/assets/img/GreenCityDiagram2.jpg" title="Example Image 4" class="img-fluid rounded" %}
+    </div>
+  </div>
 
 ## Image Comparison Slider
 <img-comparison-slider>
-  {% include figure.liquid path="assets/img/ParksideNightComp.jpg" class="img-fluid rounded z-depth-1" slot="first" %}
-  {% include figure.liquid path="assets/img/ParksideDayComp.jpg" class="img-fluid rounded z-depth-1" slot="second" %}
+  {% include figure.liquid path="assets/img/GreenCityDiagram3.jpg" class="img-fluid rounded z-depth-1" slot="first" %}
+  {% include figure.liquid path="assets/img/GreenCityDiagram4.jpg" class="img-fluid rounded z-depth-1" slot="second" %}
 </img-comparison-slider>
-
-
-
-
- <!-- Another Row of Images -->
-  <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/ParksideFacade.jpg" title="Example Image 4" class="img-fluid rounded" %}
-    </div>
-  </div>
-
-
-
-
-> The structural BIM model was developed using Tekla Structures, ensuring precision in steel detailing. The MEP and architectural models were subsequently completed in Revit based on the Structure Model in IFC2x3 Steel Detailing View file, enabling seamless coordination and integration among disciplines.This approach ensured an optimized workflow, improved constructibility, and enhanced project efficiency.
-
- <!-- Another Row of Images -->
-  <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/ParksideMEPOverview.jpg" title="Example Image 4" class="img-fluid rounded" %}
-    </div>
-  </div>
-
-
-
-
-
- <!-- Another Row of Images -->
-  <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/ParksideMEP2.jpg" title="Example Image 4" class="img-fluid rounded" %}
-    </div>
-  </div>
-
-
-
-
-
-
-<!-- Another Row of Images -->
-  <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/ParksideMEP.jpg" title="Example Image 4" class="img-fluid rounded" %}
-    </div>
-  </div>
-
-
-
-
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-<!-- Another Row of Images -->
-  <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/ParksideSTR1.jpg" title="Example Image 4" class="img-fluid rounded" %}
-    </div>
-  </div>
-
-
-
-
-
-
-
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension,
-> —Anais Nin
-
-
-
-<!-- Another Row of Images -->
-  <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/ParksideSTR5.jpg" title="Example Image 4" class="img-fluid rounded" %}
-    </div>
-  </div>
 
 
 <!-- Image Slider -->
@@ -151,17 +89,27 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
     <div class="swiper-wrapper">
       <!-- Slide 1 -->
       <div class="swiper-slide">
-        <img src="/assets/img/ParksideSTR3.jpg" alt="Render 1">
+        <img src="/assets/img/GreenCityPlanBasement.jpg" alt="Render 1">
         <div class="caption"></div>
       </div>
       <!-- Slide 2 -->
       <div class="swiper-slide">
-        <img src="/assets/img/ParksideSTR2.jpg" alt="Diagram">
+        <img src="/assets/img/GreenCityPlanFirst.jpg" alt="Diagram">
         <div class="caption"></div>
       </div>
       <!-- Slide 3 -->
       <div class="swiper-slide">
-        <img src="/assets/img/ParksideSTR4.jpg" alt="Plan">
+        <img src="/assets/img/GreenCityPlanGround.jpg" alt="Plan">
+        <div class="caption"></div>
+      </div>
+      <!-- Slide 4 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/GreenCityPlanSecond.jpg" alt="New Image 1">
+        <div class="caption"></div>
+      </div>
+      <!-- Slide 5 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/GreenCitySection.jpg" alt="New Image 2">
         <div class="caption"></div>
       </div>
     </div>
@@ -174,13 +122,57 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
 </div>
 
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension,
-> —Anais Nin
+
+ <!-- Another Row of Images -->
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="/assets/img/GreenCityRender3.jpg" title="Example Image 4" class="img-fluid rounded" %}
+    </div>
+  </div>
 
 
 
-<div style="padding:46.17% 0 0 0;position:relative;">
-  <iframe src="https://www.youtube.com/embed/boUGCuRIPxE" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Architecture_BIM_Model_Overview"></iframe>
+
+> The structural BIM model was developed using Tekla Structures, ensuring precision in steel detailing. The MEP and architectural models were subsequently completed in Revit based on the Structure Model in IFC2x3 Steel Detailing View file, enabling seamless coordination and integration among disciplines.This approach ensured an optimized workflow, improved constructibility, and enhanced project efficiency.
+
+
+
+<!-- Image Slider -->
+<div class="slider-container">
+  <div class="swiper mySwiper">
+    <div class="swiper-wrapper">
+      <!-- Slide 1 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/GreenCityInterior5.jpg" alt="Render 1">
+        <div class="caption"></div>
+      </div>
+      <!-- Slide 2 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/GreenCityInterior2.jpg" alt="Diagram">
+        <div class="caption"></div>
+      </div>
+      <!-- Slide 3 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/GreenCityInterior3.jpg" alt="Plan">
+        <div class="caption"></div>
+      </div>
+      <!-- Slide 4 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/GreenCityInterior4.jpg" alt="New Image 1">
+        <div class="caption"></div>
+      </div>
+      <!-- Slide 5 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/GreenCityInterior.jpg" alt="New Image 2">
+        <div class="caption"></div>
+      </div>
+    </div>
+    <!-- Navigation Buttons -->
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+    <!-- Pagination Dots -->
+    <div class="swiper-pagination"></div>
+  </div>
 </div>
 
 

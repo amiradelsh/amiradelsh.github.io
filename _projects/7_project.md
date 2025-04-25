@@ -1,8 +1,8 @@
 ---
 layout: page
-title: <strong>[SIMIN COMMERCIAL]</strong>
+title: <strong>[BAAMLAND]</strong>
 description: Office Building
-img: /assets/img/Postheader15.jpg
+img: /assets/img/Postheader1.jpg
 importance: 3
 category: Architecture
 related_publications: False
@@ -37,42 +37,41 @@ Parkside is a six-story office building with a total built-up area of 3,500 squa
 A year ago, the owner awarded a comprehensive Design + BIM contract to RENA Engineering & Construction Management. Under my lead as Managing Director, RENA took full responsibility for feasibility studies, sales programs, and financing strategies. Upon ensuring the project's feasibility, the architectural design process commenced alongside LOD 350 BIM modeling.
 
 
-  <!-- Another Row of Images -->
-  <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/ParksideDay.jpg" title="Example Image 4" class="img-fluid rounded" %}
-    </div>
-  </div>
+
+
+
+
 <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/ParksideNight.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/Baamland Location.jpg" title="Example Image 4" class="img-fluid rounded" %}
     </div>
   </div>
+
+
+  <!-- Another Row of Images -->
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="/assets/img/BaamlandVisual.jpg" title="Example Image 4" class="img-fluid rounded" %}
+    </div>
+  </div>
+
 Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon.
 
   <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/ParksideSectionPerspective2.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/BaamlandDiagram3.jpg" title="Example Image 4" class="img-fluid rounded" %}
     </div>
   </div>
 
 Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon.
-
-## Image Comparison Slider
-<img-comparison-slider>
-  {% include figure.liquid path="assets/img/ParksideNightComp.jpg" class="img-fluid rounded z-depth-1" slot="first" %}
-  {% include figure.liquid path="assets/img/ParksideDayComp.jpg" class="img-fluid rounded z-depth-1" slot="second" %}
-</img-comparison-slider>
-
-
 
 
  <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/ParksideFacade.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/BaamLandDiagram2.jpg" title="Example Image 4" class="img-fluid rounded" %}
     </div>
   </div>
 
@@ -81,13 +80,7 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
 
 > The structural BIM model was developed using Tekla Structures, ensuring precision in steel detailing. The MEP and architectural models were subsequently completed in Revit based on the Structure Model in IFC2x3 Steel Detailing View file, enabling seamless coordination and integration among disciplines.This approach ensured an optimized workflow, improved constructibility, and enhanced project efficiency.
 
- <!-- Another Row of Images -->
-  <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/ParksideMEPOverview.jpg" title="Example Image 4" class="img-fluid rounded" %}
-    </div>
-  </div>
-
+ 
 
 
 
@@ -95,7 +88,7 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
  <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/ParksideMEP2.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/BaamlandPhoto3.jpg" title="Example Image 4" class="img-fluid rounded" %}
     </div>
   </div>
 
@@ -107,7 +100,7 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
 <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/ParksideMEP.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/BaamlandPhoto1.jpg" title="Example Image 4" class="img-fluid rounded" %}
     </div>
   </div>
 
@@ -121,7 +114,7 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
 <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/ParksideSTR1.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/BaamlandPhoto2.jpg" title="Example Image 4" class="img-fluid rounded" %}
     </div>
   </div>
 
@@ -134,54 +127,13 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
 
 > We do not grow absolutely, chronologically. We grow sometimes in one dimension,
 > —Anais Nin
-
-
 
 <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/ParksideSTR5.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/BaamlandDiagram1.jpg" title="Example Image 4" class="img-fluid rounded" %}
     </div>
   </div>
-
-
-<!-- Image Slider -->
-<div class="slider-container">
-  <div class="swiper mySwiper">
-    <div class="swiper-wrapper">
-      <!-- Slide 1 -->
-      <div class="swiper-slide">
-        <img src="/assets/img/ParksideSTR3.jpg" alt="Render 1">
-        <div class="caption"></div>
-      </div>
-      <!-- Slide 2 -->
-      <div class="swiper-slide">
-        <img src="/assets/img/ParksideSTR2.jpg" alt="Diagram">
-        <div class="caption"></div>
-      </div>
-      <!-- Slide 3 -->
-      <div class="swiper-slide">
-        <img src="/assets/img/ParksideSTR4.jpg" alt="Plan">
-        <div class="caption"></div>
-      </div>
-    </div>
-    <!-- Navigation Buttons -->
-    <div class="swiper-button-next"></div>
-    <div class="swiper-button-prev"></div>
-    <!-- Pagination Dots -->
-    <div class="swiper-pagination"></div>
-  </div>
-</div>
-
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension,
-> —Anais Nin
-
-
-
-<div style="padding:46.17% 0 0 0;position:relative;">
-  <iframe src="https://www.youtube.com/embed/boUGCuRIPxE" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Architecture_BIM_Model_Overview"></iframe>
-</div>
 
 
 
