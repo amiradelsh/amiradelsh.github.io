@@ -409,7 +409,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-paintings",
           title: '[PAINTINGS]',
-          description: "Office Building",
+          description: "Personal Works",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
             },},{id: "projects-melal",
@@ -427,18 +427,18 @@ ninja.data = [{
           description: "Office Hub",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-green-villa",
-          title: '[GREEN VILLA]',
+            },},{id: "projects-simin-commercial",
+          title: '[SIMIN COMMERCIAL]',
           description: "Office Building",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-cbdx",
-          title: '[CBDX]',
+            },},{id: "projects-green-city",
+          title: '[GREEN CITY]',
           description: "Design Competition",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-simin-commercial",
-          title: '[SIMIN COMMERCIAL]',
+            },},{id: "projects-baamland",
+          title: '[BAAMLAND]',
           description: "Office Building",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
