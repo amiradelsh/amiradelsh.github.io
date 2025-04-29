@@ -36,113 +36,91 @@ Parkside is a six-story office building with a total built-up area of 3,500 squa
 
 A year ago, the owner awarded a comprehensive Design + BIM contract to RENA Engineering & Construction Management. Under my lead as Managing Director, RENA took full responsibility for feasibility studies, sales programs, and financing strategies. Upon ensuring the project's feasibility, the architectural design process commenced alongside LOD 350 BIM modeling.
 
-
-  <!-- Another Row of Images -->
-  <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/ParksideDay.jpg" title="Example Image 4" class="img-fluid rounded" %}
-    </div>
-  </div>
-<!-- Another Row of Images -->
-  <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/ParksideNight.jpg" title="Example Image 4" class="img-fluid rounded" %}
-    </div>
-  </div>
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon.
-
-  <!-- Another Row of Images -->
-  <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/ParksideSectionPerspective2.jpg" title="Example Image 4" class="img-fluid rounded" %}
-    </div>
-  </div>
-
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon.
-
 ## Image Comparison Slider
 <img-comparison-slider>
-  {% include figure.liquid path="assets/img/ParksideNightComp.jpg" class="img-fluid rounded z-depth-1" slot="first" %}
-  {% include figure.liquid path="assets/img/ParksideDayComp.jpg" class="img-fluid rounded z-depth-1" slot="second" %}
+  {% include figure.liquid path="assets/img/Postheader66.jpg" class="img-fluid rounded z-depth-1" slot="first" %}
+  {% include figure.liquid path="assets/img/Postheader65.jpg" class="img-fluid rounded z-depth-1" slot="second" %}
 </img-comparison-slider>
 
 
-
-
- <!-- Another Row of Images -->
+  <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/ParksideFacade.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/Postheader55.jpg" title="Example Image 4" class="img-fluid rounded" %}
     </div>
   </div>
-
-
-
-
-> The structural BIM model was developed using Tekla Structures, ensuring precision in steel detailing. The MEP and architectural models were subsequently completed in Revit based on the Structure Model in IFC2x3 Steel Detailing View file, enabling seamless coordination and integration among disciplines.This approach ensured an optimized workflow, improved constructibility, and enhanced project efficiency.
-
- <!-- Another Row of Images -->
-  <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/ParksideMEPOverview.jpg" title="Example Image 4" class="img-fluid rounded" %}
-    </div>
-  </div>
-
-
-
-
-
- <!-- Another Row of Images -->
-  <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/ParksideMEP2.jpg" title="Example Image 4" class="img-fluid rounded" %}
-    </div>
-  </div>
-
-
-
-
-
-
-<!-- Another Row of Images -->
-  <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/ParksideMEP.jpg" title="Example Image 4" class="img-fluid rounded" %}
-    </div>
-  </div>
-
-
-
-
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-<!-- Another Row of Images -->
-  <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/ParksideSTR1.jpg" title="Example Image 4" class="img-fluid rounded" %}
-    </div>
-  </div>
-
-
-
-
-
-
-
 
 > We do not grow absolutely, chronologically. We grow sometimes in one dimension,
 > —Anais Nin
 
-
-
-<!-- Another Row of Images -->
-  <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/ParksideSTR5.jpg" title="Example Image 4" class="img-fluid rounded" %}
+<!-- Image Slider -->
+<div class="slider-container">
+  <div class="swiper mySwiper">
+    <div class="swiper-wrapper">
+      <!-- Slide 1 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/LOGOPROJECTWONDER3.jpg" alt="Progress">
+        <div class="caption"></div>
+      </div>
+      <!-- Slide 2 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/LOGOPROJECTWONDER4.jpg" alt="Waffle Structure">
+        <div class="caption"></div>
+      </div>
+      <!-- Slide 3 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/LOGOPROJECTWONDER14.jpg" alt="Waffle Lightning">
+        <div class="caption"></div>
+      </div>
     </div>
+    <!-- Navigation Buttons -->
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+    <!-- Pagination Dots -->
+    <div class="swiper-pagination"></div>
   </div>
+</div>
+Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon.
+
+
+## Image Comparison Slider
+<img-comparison-slider>
+  {% include figure.liquid path="assets/img/LOGOPROJECT13.jpg" class="img-fluid rounded z-depth-1" slot="first" %}
+  {% include figure.liquid path="assets/img/LOGOPROJECT14.jpg" class="img-fluid rounded z-depth-1" slot="second" %}
+</img-comparison-slider>
+
+> We do not grow absolutely, chronologically. We grow sometimes in one dimension,
+> —Anais Nin
+
+<!-- Image Slider -->
+<div class="slider-container">
+  <div class="swiper mySwiper">
+    <div class="swiper-wrapper">
+      <!-- Slide 1 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/LOGOPROJECT28.jpg" alt="Progress">
+        <div class="caption"></div>
+      </div>
+      <!-- Slide 2 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/LOGOPROJECT23.jpg" alt="Waffle Structure">
+        <div class="caption"></div>
+      </div>
+      <!-- Slide 3 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/LOGOPROJECT25.jpg" alt="Waffle Lightning">
+        <div class="caption"></div>
+      </div>
+    </div>
+    <!-- Navigation Buttons -->
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+    <!-- Pagination Dots -->
+    <div class="swiper-pagination"></div>
+  </div>
+</div>
+
+Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon.
 
 
 <!-- Image Slider -->
@@ -151,17 +129,141 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
     <div class="swiper-wrapper">
       <!-- Slide 1 -->
       <div class="swiper-slide">
-        <img src="/assets/img/ParksideSTR3.jpg" alt="Render 1">
+        <img src="/assets/img/LOGOPROJECTRADIO9.jpg" alt="Render 1">
         <div class="caption"></div>
       </div>
       <!-- Slide 2 -->
       <div class="swiper-slide">
-        <img src="/assets/img/ParksideSTR2.jpg" alt="Diagram">
+        <img src="/assets/img/LOGOPROJECTRADIO3.jpg" alt="Diagram">
         <div class="caption"></div>
       </div>
       <!-- Slide 3 -->
       <div class="swiper-slide">
-        <img src="/assets/img/ParksideSTR4.jpg" alt="Plan">
+        <img src="/assets/img/LOGOPROJECTRADIO4.jpg" alt="Plan">
+        <div class="caption"></div>
+      </div>
+      <!-- Slide 4 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/LOGOPROJECTRADIO5.jpg" alt="New Image 1">
+        <div class="caption"></div>
+      </div>
+      <!-- Slide 5 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/LOGOPROJECTRADIO11.jpg" alt="New Image 2">
+        <div class="caption"></div>
+      </div>
+    </div>
+    <!-- Navigation Buttons -->
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+    <!-- Pagination Dots -->
+    <div class="swiper-pagination"></div>
+  </div>
+</div>
+
+> We do not grow absolutely, chronologically. We grow sometimes in one dimension,
+> —Anais Nin
+
+
+<!-- Image Slider -->
+<div class="slider-container">
+  <div class="swiper mySwiper">
+    <div class="swiper-wrapper">
+      <!-- Slide 1 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/LOGOPROJECT4.jpg" alt="Render 1">
+        <div class="caption"></div>
+      </div>
+      <!-- Slide 2 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/LOGOPROJECTADVENTURE11.jpg" alt="Diagram">
+        <div class="caption"></div>
+      </div>
+      <!-- Slide 3 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/LOGOPROJECTADVENTURE10.jpg" alt="Plan">
+        <div class="caption"></div>
+      </div>
+      <!-- Slide 4 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/LOGOPROJECTADVENTURE14.jpg" alt="New Image 1">
+        <div class="caption"></div>
+      </div>
+      <!-- Slide 5 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/LOGOPROJECTADVENTURE15.jpg" alt="New Image 2">
+        <div class="caption"></div>
+      </div>
+    </div>
+    <!-- Navigation Buttons -->
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+    <!-- Pagination Dots -->
+    <div class="swiper-pagination"></div>
+  </div>
+</div>
+
+> We do not grow absolutely, chronologically. We grow sometimes in one dimension,
+> —Anais Nin
+
+<!-- Image Slider -->
+<div class="slider-container">
+  <div class="swiper mySwiper">
+    <div class="swiper-wrapper">
+      <!-- Slide 1 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/LOGOPROJECTASPECT8.jpg" alt="Render 1">
+        <div class="cLOGOPROJECTASPECT8aption"></div>
+      </div>
+      <!-- Slide 2 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/LOGOPROJECTASPECT4.jpg" alt="Diagram">
+        <div class="caption"></div>
+      </div>
+      <!-- Slide 3 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/LOGOPROJECTASPECT6.jpg" alt="Plan">
+        <div class="caption"></div>
+      </div>
+      <!-- Slide 4 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/LOGOPROJECTASPECT11.jpg" alt="New Image 1">
+        <div class="caption"></div>
+      </div>
+      <!-- Slide 5 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/LOGOPROJECTASPECT7.jpg" alt="New Image 2">
+        <div class="caption"></div>
+      </div>
+    </div>
+    <!-- Navigation Buttons -->
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+    <!-- Pagination Dots -->
+    <div class="swiper-pagination"></div>
+  </div>
+</div>
+
+> We do not grow absolutely, chronologically. We grow sometimes in one dimension,
+> —Anais Nin
+
+<!-- Image Slider -->
+<div class="slider-container">
+  <div class="swiper mySwiper">
+    <div class="swiper-wrapper">
+      <!-- Slide 1 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/LOGOPROJECT31.jpg" alt="Progress">
+        <div class="caption"></div>
+      </div>
+      <!-- Slide 2 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/LOGOPROJECT32.jpg" alt="Waffle Structure">
+        <div class="caption"></div>
+      </div>
+      <!-- Slide 3 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/LOGOPROJECT33.jpg" alt="Waffle Lightning">
         <div class="caption"></div>
       </div>
     </div>
@@ -177,12 +279,106 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
 > We do not grow absolutely, chronologically. We grow sometimes in one dimension,
 > —Anais Nin
 
-
-
-<div style="padding:46.17% 0 0 0;position:relative;">
-  <iframe src="https://www.youtube.com/embed/boUGCuRIPxE" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Architecture_BIM_Model_Overview"></iframe>
+<!-- Image Slider -->
+<div class="slider-container">
+  <div class="swiper mySwiper">
+    <div class="swiper-wrapper">
+      <!-- Slide 1 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/LOGOPROJECTSPACE4.jpg" alt="Progress">
+        <div class="caption"></div>
+      </div>
+      <!-- Slide 2 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/LOGOPROJECTSPACE1.jpg" alt="Waffle Structure">
+        <div class="caption"></div>
+      </div>
+      <!-- Slide 3 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/LOGOPROJECTSPACE3.jpg" alt="Waffle Lightning">
+        <div class="caption"></div>
+      </div>
+    </div>
+    <!-- Navigation Buttons -->
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+    <!-- Pagination Dots -->
+    <div class="swiper-pagination"></div>
+  </div>
 </div>
 
+> We do not grow absolutely, chronologically. We grow sometimes in one dimension,
+> —Anais Nin
+
+
+<!-- Image Slider -->
+<div class="slider-container">
+  <div class="swiper mySwiper">
+    <div class="swiper-wrapper">
+      <!-- Slide 1 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/LOGOPROJECTISHMAN2.jpg" alt="Progress">
+        <div class="caption"></div>
+      </div>
+      <!-- Slide 2 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/LOGOPROJECTISHMAN4.jpg" alt="Waffle Structure">
+        <div class="caption"></div>
+      </div>
+      <!-- Slide 3 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/LOGOPROJECTISHMAN3.jpg" alt="Waffle Lightning">
+        <div class="caption"></div>
+      </div>
+    </div>
+    <!-- Navigation Buttons -->
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+    <!-- Pagination Dots -->
+    <div class="swiper-pagination"></div>
+  </div>
+</div>
+
+> Such an amazing design and work ethic. I total will be using him again on jobs with clients. Love it when you actually feel like someone loves what they do.
+> —Frank Ishman, United States
+
+<!-- Image Slider -->
+<div class="slider-container">
+  <div class="swiper mySwiper">
+    <div class="swiper-wrapper">
+      <!-- Slide 1 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/LOGOPROJECT35.jpg" alt="Render 1">
+        <div class="caption"></div>
+      </div>
+      <!-- Slide 2 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/LOGOPROJECT37.jpg" alt="Diagram">
+        <div class="caption"></div>
+      </div>
+      <!-- Slide 3 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/LOGOPROJECT39.jpg" alt="Plan">
+        <div class="caption"></div>
+      </div>
+      <!-- Slide 4 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/LOGOPROJECT40.jpg" alt="New Image 1">
+        <div class="caption"></div>
+      </div>
+      <!-- Slide 5 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/LOGOPROJECT36.jpg" alt="New Image 2">
+        <div class="caption"></div>
+      </div>
+    </div>
+    <!-- Navigation Buttons -->
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+    <!-- Pagination Dots -->
+    <div class="swiper-pagination"></div>
+  </div>
+</div>
 
 
 > We do not grow absolutely, chronologically. We grow sometimes in one dimension,
