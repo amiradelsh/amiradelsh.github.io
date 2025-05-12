@@ -1,7 +1,7 @@
 ---
 layout: page
 title: <strong>[IDENTITIY DESIGN]</strong>
-description: Office Building
+description: Graphic Design
 img: /assets/img/Postheader66.jpg
 importance: 3
 category: Graphics
@@ -19,13 +19,13 @@ images:
 
   <div class="row">
     <div class="col-md-6">
-      <p><strong>Project Location:</strong> Tehran, Iran</p>
-      <p><strong>Period of Contribution:</strong> 02/2024 – Present</p>
-      <p><strong>Team Members:</strong> Three BIM Modelers and one Site Engineer </p>
+      <p><strong>Platforms:</strong> Freelance, Fiverr, Private </p>
+      <p><strong>Period of Contribution:</strong> from 2015 </p>
+      <p><strong>Collaborators:</strong> None – Independent Project </p>
     </div>
     <div class="col-md-6">
-      <p><strong>My Responsibilities:</strong> Architectural Design | BIM Team Lead (3 BIM Modelers for Architecture, Structure & MEP) | Feasibility Study & Project Evaluation | Real Estate Marketing & Branding Coordinator</p>
-      <p><strong>Client:</strong> Private Client</p>
+      <p><strong>My Responsibilities:</strong> Sole Designer & Creative Lead</p>
+      <p><strong>Client:</strong> Private Client, Businesses</p>
     </div>
   </div>
 
@@ -161,6 +161,42 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
   </div>
 </div>
 
+Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon.
+
+
+<!-- Image Slider -->
+<div class="slider-container">
+  <div class="swiper mySwiper">
+    <div class="swiper-wrapper">
+      <!-- Slide 1 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/Postheader29.jpg" alt="Render 1">
+        <div class="caption"></div>
+      </div>
+      <!-- Slide 2 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/Postheader28.jpg" alt="Diagram">
+        <div class="caption"></div>
+      </div>
+      <!-- Slide 3 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/Postheader31.jpg" alt="Plan">
+        <div class="caption"></div>
+      </div>
+      <!-- Slide 4 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/Postheader32.jpg" alt="New Image 1">
+        <div class="caption"></div>
+      </div>
+    </div>
+    <!-- Navigation Buttons -->
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+    <!-- Pagination Dots -->
+    <div class="swiper-pagination"></div>
+  </div>
+</div>
+
 > We do not grow absolutely, chronologically. We grow sometimes in one dimension,
 > —Anais Nin
 
@@ -212,12 +248,12 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
     <div class="swiper-wrapper">
       <!-- Slide 1 -->
       <div class="swiper-slide">
-        <img src="/assets/img/LOGOPROJECTASPECT8.jpg" alt="Render 1">
+        <img src="/assets/img/Postheader64.jpg" alt="Render 1">
         <div class="cLOGOPROJECTASPECT8aption"></div>
       </div>
       <!-- Slide 2 -->
       <div class="swiper-slide">
-        <img src="/assets/img/LOGOPROJECTASPECT4.jpg" alt="Diagram">
+        <img src="/assets/img/LOGOPROJECTASPECT8.jpg" alt="Diagram">
         <div class="caption"></div>
       </div>
       <!-- Slide 3 -->
@@ -232,7 +268,7 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
       </div>
       <!-- Slide 5 -->
       <div class="swiper-slide">
-        <img src="/assets/img/LOGOPROJECTASPECT7.jpg" alt="New Image 2">
+        <img src="/assets/img/LOGOPROJECTASPECT4.jpg" alt="New Image 2">
         <div class="caption"></div>
       </div>
     </div>

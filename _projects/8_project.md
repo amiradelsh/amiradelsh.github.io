@@ -1,7 +1,7 @@
 ---
 layout: page
 title: <strong>[PHOTOGRAPHY]</strong>
-description: Office Building
+description: Personal Collection
 img: /assets/img/Postheader6.jpg
 importance: 5
 category: Graphics
@@ -37,142 +37,230 @@ Parkside is a six-story office building with a total built-up area of 3,500 squa
 A year ago, the owner awarded a comprehensive Design + BIM contract to RENA Engineering & Construction Management. Under my lead as Managing Director, RENA took full responsibility for feasibility studies, sales programs, and financing strategies. Upon ensuring the project's feasibility, the architectural design process commenced alongside LOD 350 BIM modeling.
 
 
-  <!-- Another Row of Images -->
-  <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/ParksideDay.jpg" title="Example Image 4" class="img-fluid rounded" %}
-    </div>
-  </div>
 <!-- Another Row of Images -->
-  <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/ParksideNight.jpg" title="Example Image 4" class="img-fluid rounded" %}
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0 text-center">
+    <img src="/assets/img/PhotographyProject18.jpg" alt="Shiraz University | 2017" class="img-fluid rounded">
+    <div style="color: black; font-size: 1rem; margin-top: 0.5rem;">
+      Shiraz University | 2017 | Nikon D7100, AF-P 18–55mm
     </div>
   </div>
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon.
-
-  <!-- Another Row of Images -->
-  <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/ParksideSectionPerspective2.jpg" title="Example Image 4" class="img-fluid rounded" %}
+</div>
+<!-- Another Row of Images -->
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0 text-center">
+    <img src="/assets/img/PhotographyProject5.jpg" alt="Somamoos mountain | located at south of Ramsar city | 2019" class="img-fluid rounded">
+    <div style="color: black; font-size: 1rem; margin-top: 0rem;">
+       Somamoos Mountain | South of Ramsar City | 2019 | Nikon D7100, AF-P 18–55m
     </div>
   </div>
+</div>
+<!-- Another Row of Images -->
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0 text-center">
+    <img src="/assets/img/PhotographyProject3.jpg" alt="Somamoos mountain | located at south of Ramsar city | 2019" class="img-fluid rounded">
+    <div style="color: black; font-size: 1rem; margin-top: 0rem;">
+       Kharedool | Masal County | 2020 | Nikon D7100, AF-P 18–55m
+    </div>
+  </div>
+</div>
+<!-- Another Row of Images -->
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0 text-center">
+    <img src="/assets/img/PhotographyProject4.jpg" alt="Somamoos mountain | located at south of Ramsar city | 2019" class="img-fluid rounded">
+    <div style="color: black; font-size: 1rem; margin-top: 0rem;">
+       Kharedool | Masal County | 2020 | Nikon D7100, AF-P 18–55m
+    </div>
+  </div>
+</div>
+<!-- Another Row of Images -->
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0 text-center">
+    <img src="/assets/img/PhotographyProject24.jpg" alt="Somamoos mountain | located at south of Ramsar city | 2019" class="img-fluid rounded">
+    <div style="color: black; font-size: 1rem; margin-top: 0rem;">
+       Hengam Island | Hormozgān Province | 2018 | Nikon D7100, AF-P 18–55m
+    </div>
+  </div>
+</div>
+<!-- Another Row of Images -->
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0 text-center">
+    <img src="/assets/img/PhotographyProject19.jpg" alt="Somamoos mountain | located at south of Ramsar city | 2019" class="img-fluid rounded">
+    <div style="color: black; font-size: 1rem; margin-top: 0rem;">
+       Palangan Village | Kurdistan Province | 2018 | Nikon D7100, AF-P 18–55m
+    </div>
+  </div>
+</div>
+<!-- Another Row of Images -->
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0 text-center">
+    <img src="/assets/img/PhotographyProject17.jpg" alt="Somamoos mountain | located at south of Ramsar city | 2019" class="img-fluid rounded">
+    <div style="color: black; font-size: 1rem; margin-top: 0rem;">
+       Hawraman Village | Kurdistan Province | 2018 | Nikon D7100, AF-P 18–55m
+    </div>
+  </div>
+</div>
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon.
+<!-- Another Row of Images -->
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0 text-center">
+    <img src="/assets/img/PhotographyProject24.jpg" alt="Qeshm East Island | Hormozgan Province | 2021" class="img-fluid rounded">
+    <div style="color: black; font-size: 1rem; margin-top: 0rem;">
+       Qeshm Eastern Island | Hormozgan Province | 2021 | Nikon D7100, AF-P 18–55m
+    </div>
+  </div>
+</div>
 
-## Image Comparison Slider
+<br>
+
+
+
 <img-comparison-slider>
-  {% include figure.liquid path="assets/img/ParksideNightComp.jpg" class="img-fluid rounded z-depth-1" slot="first" %}
-  {% include figure.liquid path="assets/img/ParksideDayComp.jpg" class="img-fluid rounded z-depth-1" slot="second" %}
+  {% include figure.liquid path="assets/img/PhotographyProject14.jpg" class="img-fluid rounded z-depth-1" slot="first" %}
+  {% include figure.liquid path="assets/img/PhotographyProject15.jpg" class="img-fluid rounded z-depth-1" slot="second" %}
 </img-comparison-slider>
 
 
 
-
  <!-- Another Row of Images -->
-  <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/ParksideFacade.jpg" title="Example Image 4" class="img-fluid rounded" %}
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0 text-center">
+    <img src="/assets/img/PhotographyProject9.jpg" alt="Urban Dawn | Eram Mountain View | Shiraz University | 2018" class="img-fluid rounded">
+    <div style="color: black; font-size: 1rem; margin-top: 0rem;">
+       Urban Dawn | Eram Mountain View | Shiraz University | 2018 | Nikon D7100, AF-P 18–55m
     </div>
-  </div>
-
-
-
-
-> The structural BIM model was developed using Tekla Structures, ensuring precision in steel detailing. The MEP and architectural models were subsequently completed in Revit based on the Structure Model in IFC2x3 Steel Detailing View file, enabling seamless coordination and integration among disciplines.This approach ensured an optimized workflow, improved constructibility, and enhanced project efficiency.
-
- <!-- Another Row of Images -->
-  <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/ParksideMEPOverview.jpg" title="Example Image 4" class="img-fluid rounded" %}
-    </div>
-  </div>
-
-
-
-
-
- <!-- Another Row of Images -->
-  <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/ParksideMEP2.jpg" title="Example Image 4" class="img-fluid rounded" %}
-    </div>
-  </div>
-
-
-
-
-
-
-<!-- Another Row of Images -->
-  <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/ParksideMEP.jpg" title="Example Image 4" class="img-fluid rounded" %}
-    </div>
-  </div>
-
-
-
-
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-<!-- Another Row of Images -->
-  <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/ParksideSTR1.jpg" title="Example Image 4" class="img-fluid rounded" %}
-    </div>
-  </div>
-
-
-
-
-
-
-
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension,
-> —Anais Nin
-
-
-
-<!-- Another Row of Images -->
-  <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/ParksideSTR5.jpg" title="Example Image 4" class="img-fluid rounded" %}
-    </div>
-  </div>
-
-
-<!-- Image Slider -->
-<div class="slider-container">
-  <div class="swiper mySwiper">
-    <div class="swiper-wrapper">
-      <!-- Slide 1 -->
-      <div class="swiper-slide">
-        <img src="/assets/img/ParksideSTR3.jpg" alt="Render 1">
-        <div class="caption"></div>
-      </div>
-      <!-- Slide 2 -->
-      <div class="swiper-slide">
-        <img src="/assets/img/ParksideSTR2.jpg" alt="Diagram">
-        <div class="caption"></div>
-      </div>
-      <!-- Slide 3 -->
-      <div class="swiper-slide">
-        <img src="/assets/img/ParksideSTR4.jpg" alt="Plan">
-        <div class="caption"></div>
-      </div>
-    </div>
-    <!-- Navigation Buttons -->
-    <div class="swiper-button-next"></div>
-    <div class="swiper-button-prev"></div>
-    <!-- Pagination Dots -->
-    <div class="swiper-pagination"></div>
   </div>
 </div>
 
+ <!-- Another Row of Images -->
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0 text-center">
+    <img src="/assets/img/PhotographyProject30.jpg" alt="OKO skyscrapers | Moscow International Business Center | Russia | 2019" class="img-fluid rounded">
+    <div style="color: black; font-size: 1rem; margin-top: 0rem;">
+       South Tower of OKO | MIBC | Moscow, Russia | 2019 | Nikon D7100, AF-S DX 18-105mm
+    </div>
+  </div>
+</div>
+
+ <!-- Another Row of Images -->
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0 text-center">
+    <img src="/assets/img/PhotographyProject28.jpg" alt="Saint Isaac's Cathedral | St. Petersburg, Russia | 2019" class="img-fluid rounded">
+    <div style="color: black; font-size: 1rem; margin-top: 0rem;">
+       Saint Isaac's Cathedral | St. Petersburg, Russia | 2019 | Nikon D7100, AF-P 18–55m
+    </div>
+  </div>
+</div>
+
+
+
+<!-- Another Row of Images -->
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0 text-center">
+    <img src="/assets/img/PhotographyProject29.jpg" alt="Saint Isaac's Cathedral | St. Petersburg, Russia | 2019" class="img-fluid rounded">
+    <div style="color: black; font-size: 1rem; margin-top: 0rem;">
+       Federation Tower | Moscow, Russia | 2019 | Nikon D7100, AF-S DX 18-105mm
+    </div>
+  </div>
+</div>
+
+
+<!-- Another Row of Images -->
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0 text-center">
+    <img src="/assets/img/PhotographyProject8.jpg" alt="Saint Isaac's Cathedral | St. Petersburg, Russia | 2019" class="img-fluid rounded">
+    <div style="color: black; font-size: 1rem; margin-top: 0rem;">
+       Urban Sunset | Eram Mountain View | Shiraz | 2016 | Nikon D7100, AF-P 18–55m
+    </div>
+  </div>
+</div>
+
+  <!-- Another Row of Images -->
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0 text-center">
+    <img src="/assets/img/PhotographyProject32.jpg" alt="Saint Isaac's Cathedral | St. Petersburg, Russia | 2019" class="img-fluid rounded">
+    <div style="color: black; font-size: 1rem; margin-top: 0rem;">
+       Evolution Tower | MIBC | Moscow, Russia | 2019 | Nikon D7100, AF-S DX 18-105mm
+    </div>
+  </div>
+</div>
+
+<!-- Another Row of Images -->
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0 text-center">
+    <img src="/assets/img/PhotographyProject33.jpg" alt="Saint Isaac's Cathedral | St. Petersburg, Russia | 2019" class="img-fluid rounded">
+    <div style="color: black; font-size: 1rem; margin-top: 0rem;">
+       Hidden Alley | Moscow City Center, Russia | 2019 | Nikon D7100, AF-P 18–55m
+    </div>
+  </div>
+</div>
+
+ <!-- Another Row of Images -->
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0 text-center">
+    <img src="/assets/img/PhotographyProject10.jpg" alt="Saint Isaac's Cathedral | St. Petersburg, Russia | 2019" class="img-fluid rounded">
+    <div style="color: black; font-size: 1rem; margin-top: 0rem;">
+       Zagros Mountains at Sunset | Kurdistan Province | 2019 | Nikon D7100, AF-P 18–55m
+    </div>
+  </div>
+</div>
+
+
+<!-- Another Row of Images -->
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0 text-center">
+    <img src="/assets/img/PhotographyProject26.jpg" alt="Saint Isaac's Cathedral | St. Petersburg, Russia | 2019" class="img-fluid rounded">
+    <div style="color: black; font-size: 1rem; margin-top: 0rem;">
+       Dolphins Hunting | Hengam Island | 2020 | Nikon D7100, AF-P 18–55m
+    </div>
+  </div>
+</div>
+
+<!-- Another Row of Images -->
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0 text-center">
+    <img src="/assets/img/PhotographyProject20.jpg" alt="Saint Isaac's Cathedral | St. Petersburg, Russia | 2019" class="img-fluid rounded">
+    <div style="color: black; font-size: 1rem; margin-top: 0rem;">
+       Architectural Reveal | Fin Garden | Kashan, Iran | 2019 | Nikon D7100, AF-P 18–55m
+    </div>
+  </div>
+</div>
+
+<!-- Another Row of Images -->
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="/assets/img/PhotographyProject7.jpg" title="Example Image 4" class="img-fluid rounded" %}
+    </div>
+  </div>
+
+
+<!-- Another Row of Images -->
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="/assets/img/PhotographyProject6.jpg" title="Example Image 4" class="img-fluid rounded" %}
+    </div>
+  </div>
+
+<!-- Another Row of Images -->
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="/assets/img/PhotographyProject17.jpg" title="Example Image 4" class="img-fluid rounded" %}
+    </div>
+  </div>
+
+  <!-- Another Row of Images -->
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="/assets/img/PhotographyProject22.jpg" title="Example Image 4" class="img-fluid rounded" %}
+    </div>
+  </div>
+
+  <!-- Another Row of Images -->
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="/assets/img/PhotographyProject23.jpg" title="Example Image 4" class="img-fluid rounded" %}
+    </div>
+  </div>
 
 > We do not grow absolutely, chronologically. We grow sometimes in one dimension,
 > —Anais Nin
