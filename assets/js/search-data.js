@@ -444,12 +444,12 @@ ninja.data = [{
               window.location.href = "/projects/7_project/";
             },},{id: "projects-photography",
           title: '[PHOTOGRAPHY]',
-          description: "Office Building",
+          description: "Personal Collection",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
             },},{id: "projects-identitiy-design",
           title: '[IDENTITIY DESIGN]',
-          description: "Office Building",
+          description: "Graphic Design",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
