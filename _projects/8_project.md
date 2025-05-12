@@ -19,12 +19,14 @@ images:
 
   <div class="row">
     <div class="col-md-6">
-      <p><strong>Project Location:</strong> Tehran, Iran</p>
-      <p><strong>Period of Contribution:</strong> 02/2024 – Present</p>
-      <p><strong>Team Members:</strong> Three BIM Modelers and one Site Engineer </p>
+      <p><strong>Personal Collection:</strong> 2015 - 2020</p>
+      <p><strong>Focus & Themes:</strong> Urban, architecture, and landscape—framing space, time, and form</p>
+      <p><strong>Exhibitions:</strong> Shown in 10+ local and 3 national galleries. 20+ prints sold.
+ </p>
     </div>
     <div class="col-md-6">
-      <p><strong>My Responsibilities:</strong> Architectural Design | BIM Team Lead (3 BIM Modelers for Architecture, Structure & MEP) | Feasibility Study & Project Evaluation | Real Estate Marketing & Branding Coordinator</p>
+      <p><strong>Current Status:</strong> Inactive since 2022. This is a curated look back.
+</p>
       <p><strong>Client:</strong> Private Client</p>
     </div>
   </div>
@@ -32,11 +34,11 @@ images:
 
 
 
-Parkside is a six-story office building with a total built-up area of 3,500 square meters, located in a newly developed neighborhood west of Tehran, Iran. The project received municipal approval ten years ago; however, due to a lack of investment appeal, financing through pre-selling— a common method in the local real estate market—was unsuccessful.
+Photography has always been more than a hobby for me—it’s an extension of how I experience space, light, and time. As an architect with a deep passion for visual arts, photography has long served as both a creative outlet and a complementary practice that informs my architectural thinking, visualizations, and sense of composition.
 
-A year ago, the owner awarded a comprehensive Design + BIM contract to RENA Engineering & Construction Management. Under my lead as Managing Director, RENA took full responsibility for feasibility studies, sales programs, and financing strategies. Upon ensuring the project's feasibility, the architectural design process commenced alongside LOD 350 BIM modeling.
+This collection brings together personal works captured between 2015 and 2022, primarily exploring urban environments, architectural forms, and landscapes. Whether documenting the shifting rhythms of city life or the subtle transformation of nature over time, each frame reflects my interest in structure, narrative, and the quiet dialogues between space and temporality.
 
-
+My work has been featured in over ten local and three national exhibitions in Iran, with more than twenty pieces sold to private collectors. What you see here, however, is a curated selection of photographs that have never been sold or publicly available before—offered as a personal visual archive and a glimpse into how I see the built and natural world.
 <!-- Another Row of Images -->
 <div class="row">
   <div class="col-sm mt-3 mt-md-0 text-center">
@@ -73,21 +75,13 @@ A year ago, the owner awarded a comprehensive Design + BIM contract to RENA Engi
     </div>
   </div>
 </div>
-<!-- Another Row of Images -->
-<div class="row">
-  <div class="col-sm mt-3 mt-md-0 text-center">
-    <img src="/assets/img/PhotographyProject24.jpg" alt="Somamoos mountain | located at south of Ramsar city | 2019" class="img-fluid rounded">
-    <div style="color: black; font-size: 1rem; margin-top: 0rem;">
-       Hengam Island | Hormozgān Province | 2018 | Nikon D7100, AF-P 18–55m
-    </div>
-  </div>
-</div>
+
 <!-- Another Row of Images -->
 <div class="row">
   <div class="col-sm mt-3 mt-md-0 text-center">
     <img src="/assets/img/PhotographyProject19.jpg" alt="Somamoos mountain | located at south of Ramsar city | 2019" class="img-fluid rounded">
     <div style="color: black; font-size: 1rem; margin-top: 0rem;">
-       Palangan Village | Kurdistan Province | 2018 | Nikon D7100, AF-P 18–55m
+       Arbaba Hills | Kurdistan Province | 2018 | Nikon D7100, AF-P 18–55m
     </div>
   </div>
 </div>
@@ -106,19 +100,10 @@ A year ago, the owner awarded a comprehensive Design + BIM contract to RENA Engi
   <div class="col-sm mt-3 mt-md-0 text-center">
     <img src="/assets/img/PhotographyProject24.jpg" alt="Qeshm East Island | Hormozgan Province | 2021" class="img-fluid rounded">
     <div style="color: black; font-size: 1rem; margin-top: 0rem;">
-       Qeshm Eastern Island | Hormozgan Province | 2021 | Nikon D7100, AF-P 18–55m
+       Hengam Island | Hormozgān Province | 2018 | Nikon D7100, AF-P 18–55m
     </div>
   </div>
 </div>
-
-<br>
-
-
-
-<img-comparison-slider>
-  {% include figure.liquid path="assets/img/PhotographyProject14.jpg" class="img-fluid rounded z-depth-1" slot="first" %}
-  {% include figure.liquid path="assets/img/PhotographyProject15.jpg" class="img-fluid rounded z-depth-1" slot="second" %}
-</img-comparison-slider>
 
 
 
@@ -131,6 +116,17 @@ A year ago, the owner awarded a comprehensive Design + BIM contract to RENA Engi
     </div>
   </div>
 </div>
+
+<br>
+
+<img-comparison-slider>
+  {% include figure.liquid path="assets/img/PhotographyProject14.jpg" class="img-fluid rounded z-depth-1" slot="first" %}
+  {% include figure.liquid path="assets/img/PhotographyProject11.jpg" class="img-fluid rounded z-depth-1" slot="second" %}
+</img-comparison-slider>
+
+
+
+
 
  <!-- Another Row of Images -->
 <div class="row">
@@ -226,56 +222,28 @@ A year ago, the owner awarded a comprehensive Design + BIM contract to RENA Engi
   </div>
 </div>
 
-<!-- Another Row of Images -->
-  <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/PhotographyProject7.jpg" title="Example Image 4" class="img-fluid rounded" %}
-    </div>
-  </div>
 
 
 <!-- Another Row of Images -->
-  <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/PhotographyProject6.jpg" title="Example Image 4" class="img-fluid rounded" %}
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0 text-center">
+    <img src="/assets/img/PhotographyProject22.jpg" alt="Saint Isaac's Cathedral | St. Petersburg, Russia | 2019" class="img-fluid rounded">
+    <div style="color: black; font-size: 1rem; margin-top: 0rem;">
+       Dolphins Hunting | Hengam Island | 2020 | Nikon D7100, AF-P 18–55m
     </div>
   </div>
-
-<!-- Another Row of Images -->
-  <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/PhotographyProject17.jpg" title="Example Image 4" class="img-fluid rounded" %}
-    </div>
-  </div>
-
-  <!-- Another Row of Images -->
-  <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/PhotographyProject22.jpg" title="Example Image 4" class="img-fluid rounded" %}
-    </div>
-  </div>
-
-  <!-- Another Row of Images -->
-  <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/PhotographyProject23.jpg" title="Example Image 4" class="img-fluid rounded" %}
-    </div>
-  </div>
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension,
-> —Anais Nin
-
-
-
-<div style="padding:46.17% 0 0 0;position:relative;">
-  <iframe src="https://www.youtube.com/embed/boUGCuRIPxE" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Architecture_BIM_Model_Overview"></iframe>
 </div>
 
+<!-- Another Row of Images -->
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0 text-center">
+    <img src="/assets/img/PhotographyProject7.jpg" alt="Saint Isaac's Cathedral | St. Petersburg, Russia | 2019" class="img-fluid rounded">
+    <div style="color: black; font-size: 1rem; margin-top: 0rem;">
+       Tabatabai House/Museum | Kashan, Iran | 2017 | Nikon D7100, AF-P 18–55m
+    </div>
+  </div>
+</div>
 
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension,
-> —Anais Nin
-> 
 <!-- Include Swiper.js Library -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css">
 <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
