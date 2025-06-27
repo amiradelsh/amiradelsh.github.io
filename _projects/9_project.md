@@ -32,11 +32,10 @@ images:
 
 
 
-Parkside is a six-story office building with a total built-up area of 3,500 square meters, located in a newly developed neighborhood west of Tehran, Iran. The project received municipal approval ten years ago; however, due to a lack of investment appeal, financing through pre-selling— a common method in the local real estate market—was unsuccessful.
+Since 2015, I have worked both independently and in collaboration with several creative groups and design offices, contributing to a wide range of branding and visual identity projects. The examples highlighted here represent projects where I was solely responsible for the design development, taking the lead as Sole Designer and Creative Lead. I crafted distinctive communication systems for businesses, private clients, and special initiatives—spanning corporate identities, logo design, pitch decks, marketing materials, and special event posters. Delivered across print, digital, and environmental platforms, these designs have played a strategic role in driving pre-sales, improving stakeholder engagement, and elevating brand visibility for a diverse client base including KSB, AdventureCation, Wonder Industries, Franklin Ishman, and Falling Awake Radio. In several cases, rebranding efforts directly contributed to successful presales campaigns and increased investor interest.
 
-A year ago, the owner awarded a comprehensive Design + BIM contract to RENA Engineering & Construction Management. Under my lead as Managing Director, RENA took full responsibility for feasibility studies, sales programs, and financing strategies. Upon ensuring the project's feasibility, the architectural design process commenced alongside LOD 350 BIM modeling.
 
-## Image Comparison Slider
+
 <img-comparison-slider>
   {% include figure.liquid path="assets/img/Postheader66.jpg" class="img-fluid rounded z-depth-1" slot="first" %}
   {% include figure.liquid path="assets/img/Postheader65.jpg" class="img-fluid rounded z-depth-1" slot="second" %}
@@ -50,8 +49,7 @@ A year ago, the owner awarded a comprehensive Design + BIM contract to RENA Engi
     </div>
   </div>
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension,
-> —Anais Nin
+I approach visual identity with a strategic mindset, aligning design with project objectives and audience expectations to deliver systems that resonate across multiple touchpoints. From early research and concept development to final rollout, I combine visual storytelling with technical fluency, using tools such as Adobe Illustrator, InDesign, Photoshop, and Figma, alongside Microsoft PowerPoint, GitHub for version control, and manual techniques like photography and hand drawing. This multifaceted toolkit enables me to create polished deliverables tailored for both creative industries and the technical rigor of corporate and construction environments. Whether working with city officials, corporate tenants, business owners, or local investors, my work consistently enhances communication, strengthens credibility, and drives engagement through thoughtful execution and design precision.
 
 <!-- Image Slider -->
 <div class="slider-container">
@@ -83,7 +81,6 @@ A year ago, the owner awarded a comprehensive Design + BIM contract to RENA Engi
 Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon.
 
 
-## Image Comparison Slider
 <img-comparison-slider>
   {% include figure.liquid path="assets/img/LOGOPROJECT13.jpg" class="img-fluid rounded z-depth-1" slot="first" %}
   {% include figure.liquid path="assets/img/LOGOPROJECT14.jpg" class="img-fluid rounded z-depth-1" slot="second" %}
@@ -106,9 +103,14 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
         <img src="/assets/img/LOGOPROJECT23.jpg" alt="Waffle Structure">
         <div class="caption"></div>
       </div>
-      <!-- Slide 3 -->
+        <!-- Slide 3 -->
       <div class="swiper-slide">
-        <img src="/assets/img/LOGOPROJECT25.jpg" alt="Waffle Lightning">
+        <img src="/assets/img/LOGOPROJECT23.jpg" alt="Waffle Structure">
+        <div class="caption"></div>
+      </div>
+      <!-- Slide 4 -->
+      <div class="swiper-slide">
+        <img src="/assets/img/LOGOPROJECT24.jpg" alt="Waffle Lightning">
         <div class="caption"></div>
       </div>
     </div>

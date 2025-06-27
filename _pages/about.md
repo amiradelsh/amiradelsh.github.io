@@ -8,24 +8,23 @@ meta_keywords: "portfolio, minimalist, Amiradel, modern design"
 
 <head>
   <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet" rel="stylesheet" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Inter:wght@400;600&display=swap" rel="stylesheet">
   
   <!-- Add your custom styles -->
   <style>
     /* General Styling */
     body {
-       font-family: "Work Sans", serif;
-        font-optical-sizing: auto;
-        font-weight: <weight>;
-        font-style: normal;
-      color: #333;
-      margin: 0;
-      padding: 0;
-    }
+  font-family: "Inter", sans-serif;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
 
-    h1, h2 {
-      font-weight: 500;
-    }
+h1, h2, h3, .hero-title {
+  font-family: "Space Grotesk", sans-serif;
+  font-weight: 700;
+
+}
 
     a {
       color: #0077cc;
@@ -168,25 +167,25 @@ meta_keywords: "portfolio, minimalist, Amiradel, modern design"
 </head>
 
 
-
 <!-- Section with image on the right and text on the left -->
 <div class="section-with-image">
   <div class="text-left">
-    <h2><strong>Hello, I'm</strong> AMIRADEL SHAMSHIRGARAN</h2>
+    <h2><strong>Hello, I'm</strong> AMIRADEL,</h2>
     <p style="text-align: justify;">
       
-      Licensed architect with 3+ years of experience in solution-driven architectural design, BIM-based collaboration, and sustainability research. Proven track record of delivering BIM models up to LOD 350 and conducting clash detection tests. Skilled in enhancing stakeholder engagement through immersive AR/VR/XR and effective graphic communication.
-    </p>
+      Licensed architect with 3+ years of experience in solution-driven design, BIM-based collaboration, project management, and sustainability research. Proven track record in delivering BIM models up to LOD 350, conducting clash detection, and coordinating multidisciplinary workflows across architecture, structure, and MEP. Skilled in enhancing stakeholder engagement through immersive AR/VR/XR technologies and effective visual communication. Currently pursuing a second Master’s in Building Sustainability at TU Berlin, I’m seeking roles that intersect architecture, data-driven design, and climate innovation.
+ </p>
+    
   </div>
   <div class="image-right">
-    <img src="assets/img/14.jpg" alt="About Me Image" />
+    <img src="assets/img/UrbanFuture.jpg" alt="About Me Image" />
   </div>
 </div>
 
 <!-- Projects Section -->
 <div class="projects-section">
 
-  <!-- BIM Projects -->
+  <!-- BIM Projects ß-->
   <div class="projects">
     <h2>BIM Projects</h2>
     <div class="project-container">
@@ -225,6 +224,24 @@ meta_keywords: "portfolio, minimalist, Amiradel, modern design"
     <h2>Visual Designs</h2>
     <div class="project-container">
       {% assign graphics_projects = site.projects | where: "category", "Graphics" %}
+      {% for project in graphics_projects %}
+      <a href="{{ project.url }}" class="project-card">
+        <img src="{{ project.img }}" alt="{{ project.title }}">
+        <div class="project-caption">
+          <p class="project-title">{{ project.title }}</p>
+          <p class="project-description">{{ project.description }}</p>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+
+
+ <!-- Publications -->
+  <div class="projects">
+    <h2>Publications</h2>
+    <div class="project-container">
+      {% assign graphics_projects = site.projects | where: "category", "Publication" %}
       {% for project in graphics_projects %}
       <a href="{{ project.url }}" class="project-card">
         <img src="{{ project.img }}" alt="{{ project.title }}">

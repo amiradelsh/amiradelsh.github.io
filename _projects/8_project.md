@@ -244,6 +244,8 @@ My work has been featured in over ten local and three national exhibitions in Ir
   </div>
 </div>
 
+<br><br><br><br>
+
 <!-- Include Swiper.js Library -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css">
 <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
