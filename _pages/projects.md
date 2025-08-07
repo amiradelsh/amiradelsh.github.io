@@ -2,12 +2,16 @@
 layout: page
 title: BIM
 permalink: /BIM/
-description: A growing collection of your cool projects.
+description: 
 nav: true
 nav_order: 1
 display_categories: [BIM]
 horizontal: false
 ---
+
+<!-- Google Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Inter:wght@400;600&display=swap" rel="stylesheet">
+
 
 <!-- pages/projects.md -->
 <div class="projects">
@@ -99,5 +103,18 @@ horizontal: false
   .project-caption {
     font-size: 0.7rem; /* Smaller font on mobile */
   }
+}
+
+/* Font Setup */
+body {
+  font-family: "Inter", sans-serif;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, .project-title {
+  font-family: "Space Grotesk", sans-serif;
+  font-weight: 700;
 }
 </style>

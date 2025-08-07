@@ -2,12 +2,15 @@
 layout: page
 title: Visuals
 permalink: /Visuals/
-description: A Small collection of your cool projects.
+description: 
 nav: true
 nav_order: 3
-display_categories: [Graphic]
+display_categories: [Graphics]
 horizontal: false
 ---
+
+<!-- Google Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Inter:wght@400;600&display=swap" rel="stylesheet">
 
 <!-- pages/projects.md -->
 <div class="projects">
@@ -16,7 +19,7 @@ horizontal: false
     {% for category in page.display_categories %}
       <a id="{{ category }}" href=".#{{ category }}">
         <h2 class="category">{{ category }}</h2>
-      </a>
+      </a> 
       {% assign categorized_projects = site.projects | where: "category", category %}
       {% assign sorted_projects = categorized_projects | sort: "importance" %}
       <div class="container">
@@ -99,5 +102,17 @@ horizontal: false
   .project-caption {
     font-size: 0.7rem; /* Smaller font on mobile */
   }
+}
+/* Font Setup */
+body {
+  font-family: "Inter", sans-serif;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, .project-title {
+  font-family: "Space Grotesk", sans-serif;
+  font-weight: 700;
 }
 </style>

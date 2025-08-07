@@ -1,7 +1,7 @@
 ---
 layout: page
 title: <strong>[SIMIN COMMERCIAL]</strong>
-description: Office Building
+description: Commercial Building
 img: /assets/img/7tirThumbnail2.jpg
 importance: 3
 category: Architecture
@@ -19,22 +19,19 @@ images:
 
   <div class="row">
     <div class="col-md-6">
-      <p><strong>Project Location:</strong> Tehran, Iran</p>
-      <p><strong>Period of Contribution:</strong> 02/2024 – Present</p>
-      <p><strong>Team Members:</strong> Three BIM Modelers and one Site Engineer </p>
+      <p><strong>Project Location:</strong> Birjand, Iran</p>
+      <p><strong>Period of Contribution:</strong> 03/2023 – Present</p>
+      <p><strong>Team Members:</strong> Amirhossein Shamshirgaran, Mojtaba Mousavi </p>
     </div>
     <div class="col-md-6">
-      <p><strong>My Responsibilities:</strong> Architectural Design | BIM Team Lead (3 BIM Modelers for Architecture, Structure & MEP) | Feasibility Study & Project Evaluation | Real Estate Marketing & Branding Coordinator</p>
-      <p><strong>Client:</strong> Private Client</p>
+      <p><strong>My Responsibilities:</strong> Lead Architectural Design | BIM Team Lead | Feasibility Study & Project Evaluation | Real Estate Marketing & Branding Coordinator</p>
+      <p><strong>Client:</strong> Family Project | Self</p>
     </div>
   </div>
 
 
 
-
-Parkside is a six-story office building with a total built-up area of 3,500 square meters, located in a newly developed neighborhood west of Tehran, Iran. The project received municipal approval ten years ago; however, due to a lack of investment appeal, financing through pre-selling— a common method in the local real estate market—was unsuccessful.
-
-A year ago, the owner awarded a comprehensive Design + BIM contract to RENA Engineering & Construction Management. Under my lead as Managing Director, RENA took full responsibility for feasibility studies, sales programs, and financing strategies. Upon ensuring the project's feasibility, the architectural design process commenced alongside LOD 350 BIM modeling.
+ Contemporary archetypes in a compact urban fabric: This small-scale commercial building in Birjand reinterprets the architectural arch as a spatial and sculptural element. Designed as a composition of interlocking volumes and crafted in brick, concrete, and glass, the building balances transparency and mass. I led the architectural design, BIM modeling, and on-site supervision under RENA, where I served as CEO. The project is modeled in Revit with architecture, structure, and MEP integrated. Currently under construction, it aligns with Iran’s Chapter 19 energy standards, with the façade now being implemented.
 
 
   <!-- Another Row of Images -->
@@ -44,14 +41,17 @@ A year ago, the owner awarded a comprehensive Design + BIM contract to RENA Engi
     </div>
   </div>
 
-  > The structural BIM model was developed using Tekla Structures, ensuring precision in steel detailing. The MEP and architectural models were subsequently completed in Revit based on the Structure Model in IFC2x3 Steel Detailing View file, enabling seamless coordination and integration among disciplines.This approach ensured an optimized workflow, improved constructibility, and enhanced project efficiency.
+ The site is located in a high-value neighborhood where much of the surrounding architecture is older and often lacking in design quality. As the first newly designed building in the area in years, this project was an opportunity to gently introduce a different architectural approach. The hope was to offer a thoughtful response to the site while encouraging a more design-conscious direction for future developments.
+
+
 <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/7tirRender.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/7TirGIF.gif" title="Example Image 4" class="img-fluid rounded" %}
     </div>
   </div>
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon.
+
+ The building is shaped by clean, interlocking volumes, aiming for a simple yet expressive form. A restrained palette of brick, glass, and concrete was chosen to highlight contrasts between solid and void, and between textured and smooth surfaces. The arch motif appears throughout the design — in openings, balconies, and the ‘Elevated Vitrine,’ which allows the facade to engage more directly with the street.
 
   <!-- Another Row of Images -->
   <div class="row">
@@ -60,19 +60,15 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
     </div>
   </div>
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension,
-> —Anais Nin
-> 
  <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
       {% include figure.liquid path="/assets/img/7tirSection2.jpg" title="Example Image 4" class="img-fluid rounded" %}
     </div>
   </div>
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon.
-
-
-
+<br>
+It was developed using Revit Architecture, Structure, and MEP, modeled to an LOD 300 standard to ensure coordination across disciplines. BIM coordination was conducted in parallel with ongoing construction, allowing dynamic updates especially for MEP components. 
+<br><br>
 
  <!-- Another Row of Images -->
   <div class="row">
@@ -80,30 +76,8 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
       {% include figure.liquid path="/assets/img/7tirCeilingLightingPlan.jpg" title="Example Image 4" class="img-fluid rounded" %}
     </div>
   </div>
-
-
-
-
-
-
-
-
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-
-
-
-
-
-
-
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension,
-> —Anais Nin
-
-
+<br>
+Pre-placement of embedded electrical conduits and junction boxes for future recessed coffer lighting, prior to concrete pour in waffle slab construction.
 
 <!-- Another Row of Images -->
   <div class="row">
@@ -112,9 +86,7 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
     </div>
   </div>
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension,
-> —Anais Nin
-> 
+
 <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -122,8 +94,9 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
     </div>
   </div>
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension,
-> —Anais Nin
+<br>
+A sample of structural elements: Steel stair stringers welded to landing frame, with load transferred via anchor bolts and plates to concrete. 
+<br><br>
 
 <!-- Image Slider -->
 <div class="slider-container">
@@ -132,17 +105,17 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
       <!-- Slide 1 -->
       <div class="swiper-slide">
         <img src="/assets/img/7tirProgressPhoto.jpg" alt="Progress">
-        <div class="caption"></div>
+        <div class="caption">Rising structure perspective: Cantilevered balcony projecting from concrete frame. </div>
       </div>
       <!-- Slide 2 -->
       <div class="swiper-slide">
         <img src="/assets/img/7tirCeiling.jpg" alt="Waffle Structure">
-        <div class="caption"></div>
+        <div class="caption">Waffle slab coffer underside: Pre-pour embedded electrical infrastructure (junction boxes, conduits) visible post-concrete, ready for fixture integration.</div>
       </div>
       <!-- Slide 3 -->
       <div class="swiper-slide">
         <img src="/assets/img/7tirCeilingLighting2.jpg" alt="Waffle Lightning">
-        <div class="caption"></div>
+        <div class="caption"> Waffle slab electrical rough-in: Conduits and junction boxes embedded for future recessed lighting fixtures within the coffers. Ready for concrete pour.</div>
       </div>
     </div>
     <!-- Navigation Buttons -->
@@ -153,15 +126,9 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
   </div>
 </div>
 
+<br><br>
 
 
-
-
-
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension,
-> —Anais Nin
-> 
 <!-- Include Swiper.js Library -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css">
 <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>

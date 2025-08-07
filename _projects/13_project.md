@@ -1,7 +1,7 @@
 ---
 layout: page
 title: <strong>[Civilica]</strong>
-description: Natural Resources Management in Developing Countries
+description: Natural Resources Management
 img: /assets/img/Publication_CIVILICA.jpg
 importance: 2
 category: Publication
