@@ -11,31 +11,24 @@ ninja.data = [{
     },
   },{id: "nav-bim",
           title: "BIM",
-          description: "A growing collection of your cool projects.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/BIM/";
           },
         },{id: "nav-architecture",
           title: "Architecture",
-          description: "A growing collection of your cool projects.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/Architecture/";
           },
         },{id: "nav-visuals",
           title: "Visuals",
-          description: "A Small collection of your cool projects.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/Visuals/";
-          },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
           },
         },{id: "post-a-post-with-image-galleries",
       
@@ -417,7 +410,7 @@ ninja.data = [{
               window.location.href = "/projects/12_project/";
             },},{id: "projects-civilica",
           title: '[Civilica]',
-          description: "Natural Resources Management in Developing Countries",
+          description: "Natural Resources Management",
           section: "Projects",handler: () => {
               window.location.href = "/projects/13_project/";
             },},{id: "projects-melal",
@@ -437,7 +430,7 @@ ninja.data = [{
               window.location.href = "/projects/3_project/";
             },},{id: "projects-simin-commercial",
           title: '[SIMIN COMMERCIAL]',
-          description: "Office Building",
+          description: "Commercial Building",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-green-city",
@@ -465,7 +458,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%61%6D%69%72%61%64%65%6C.%73%68%61%6D%73%68%69%72%67%61%72%61%6E@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-inspire',
@@ -493,6 +486,6 @@ ninja.data = [{
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://www.shamshirgaran.com/", "_blank");
         },
       },];
