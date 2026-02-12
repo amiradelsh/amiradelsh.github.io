@@ -33,7 +33,7 @@ images:
 
 
 
-A year ago, the owner awarded a comprehensive Design + BIM contract to RENA Engineering & Construction Management. Under my lead as Managing Director, RENA took full responsibility for feasibility studies, sales programs, and financing strategies. Upon ensuring the project's feasibility, the architectural design process commenced alongside LOD 350 BIM modeling.
+A yetudies, sales programs, and financing strategies. Upon ensuring the project's feasibility, the architectural design process commenced alongside LOD 350 BIM modeling.
 
 
   <!-- Another Row of Images -->
