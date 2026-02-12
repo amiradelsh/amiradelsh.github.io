@@ -16,25 +16,19 @@ client: "XYZ Architecture Firm"
 
   <div class="row">
     <div class="col-md-6">
-      <p><strong>Project Location:</strong> Tehran, Iran</p>
       <p><strong>Period of Contribution:</strong> 10/2019 – 11/2021</p>
       <p><strong>Team Members:</strong> Three Architecture and five Structure & MEP BIM modelers</p>
     </div>
     <div class="col-md-6">
-      <p><strong>My Responsibilities:</strong> Architecture BIM Modeler | Clash Detection & Coordination Leads</p>
-      <p><strong>Client:</strong> Melal Hotel Group, Investment Department</p>
+      <p><strong>My Responsibilities:</strong>  Architectural BIM Modeller | Clash Detection & Coordination Briefing</p>
+      <p><strong>Client:</strong> Private Client</p>
     </div>
   </div>
 
 
+<p><strong>—Project Overview:</strong></p>
+This project is a 12-storey office building located in the city centre of Tehran. I joined during late design development and execution planning, at a point when the architectural and structural 2D documentation had already been completed. A detailed 3D model existed in Rhino; however, due to increasing requirements from the client and construction teams, the project transitioned to a Revit-based workflow to support higher levels of detail and interdisciplinary coordination, particularly for MEP systems.
 
-Melal Business Hotel is a 26-story mixed-use hospitality development strategically located near Vanak Square, Tehran's central business district. Designed to accommodate both business and leisure travelers, the hotel features 373 guest rooms, offering a diverse range of accommodations:
-•	Single Rooms: 18
-•	Standard Rooms: 256
-•	Junior Suites: 88
-•	Executive Suites: 9
-•	Presidential Suites: 2
-With a total built-up area of 65,346 sq. m, the project integrates high-end hospitality functions with state-of-the-art architectural and structural solutions. 
 
  <!-- Another Row of Images -->
   <div class="row">
@@ -42,7 +36,11 @@ With a total built-up area of 65,346 sq. m, the project integrates high-end hosp
       {% include figure.liquid path="/assets/img/OfficeDiagram2.jpg" title="Example Image 4" class="img-fluid rounded" %}
     </div>
   </div>
-The building’s structural system consists of a reinforced concrete core combined with a steel frame, ensuring both seismic resilience and construction efficiency.
+
+
+<p><strong>—Context & Technical challenges:</strong></p>
+I joined as an Architectural BIM Modeller within a two-person architecture team while the firm was in an early BIM adoption phase. The project lacked an active Common Data Environment and the previously prepared BIM Execution Plan was not implemented. These conditions produced key technical challenges: interoperability and data loss during Rhino → Revit transfers, inconsistent modelling protocols and naming conventions across disciplines, and varying LOD definitions that complicated model integration.
+
  <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -50,6 +48,9 @@ The building’s structural system consists of a reinforced concrete core combin
     </div>
   </div>
   
+<p><strong>—Role & Modelling Scope:</strong></p>
+My primary responsibility was the development of architectural BIM models in Revit at high LODs, using approved briefs, existing models, and pre-approved technical documentation. Components were modelled to different LODs according to construction relevance: typical elements (floor assemblies, exterior wall layers) at lower LODs, and less common systems for the contractor—notably the ventilated façade and its connections—at higher LOD to support constructability.
+
   <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -57,10 +58,8 @@ The building’s structural system consists of a reinforced concrete core combin
     </div>
   </div>
 
-
-
-The building’s structural system consists of a reinforced concrete core combined with a steel frame, ensuring both seismic resilience and construction efficiency.
-Currently in the under-construction phase, the project is progressing with the facade installation, marking a significant milestone toward completion. The architectural design emphasizes functionality, spatial efficiency, and contemporary aesthetics, contributing to Tehran’s evolving urban landscape.
+<p><strong>—Coordination & Collaboration:</strong></p>
+Because coordination mechanisms were limited, I temporarily joined structural and MEP modelling teams to review modelling approaches and confirm alignment with architectural requirements. Coordination was organised around monthly Navisworks Manage clash detection cycles and follow-up interdisciplinary meetings. I prepared meeting briefs and technical reports, reported architecture-related clashes, and served as the architectural point of contact during resolution sessions; my work was reviewed by the Architecture Department Head.
 
  <!-- Another Row of Images -->
   <div class="row">
@@ -69,16 +68,16 @@ Currently in the under-construction phase, the project is progressing with the f
     </div>
   </div>
 
-The diagram presents three orthographic axonometric views (West, South, and East) of the Melal Business Hotel, illustrating the vertical organization and spatial distribution of its core functions.
 
-> Below are sample technical floor plans from the project, demonstrating the spatial organization and architectural detailing of the finalized documents. Specific areas have been enlarged to emphasize the precision of these drawings, showcasing key design elements, architectural components, and technical annotations.
-> — 10 Documents
 
-> Below are callout sheets highlighting the design of various rooms and spaces within the project. Each sheet includes isometric 3D models, detailed plans, and section drawings, providing comprehensive documentation for over 400 specific space within the building model.
-> —5 Documents
 
+<p><strong>—Constraints & Responsibilities:</strong></p>
+The project was primarily constrained by time (budgets and regulatory approvals had already been secured) so rapid production of execution-level models was required. Design decisions, permitting, and overall BIM management were outside my scope. My remit focused on producing model-based deliverables and supporting coordination rather than project-level decision making.
+
+<p><strong>—Deliverables & Outcome:</strong></p>
+At the close of my involvement I delivered high-LOD federated Revit and IFC models along with monthly clash reports and coordination briefs. These outputs were used by the wider project team to clarify interfaces, reduce coordination ambiguity, and support execution planning and procurement activities.
 <hr>
-The interior design of the project has been developed by a renowned consulting firm, drawing inspiration from both modern and historical architecture of Tehran. The raw renderings were produced using Revit's V-Ray renderer, providing realistic visualizations of the design. All materials, from tiles to wall, ceiling, and floor coverings, are based on actual material references selected by the consultant, ensuring alignment with the construction specifications.
+
 <div class="slider-container">
   <div class="swiper mySwiper">
     <div class="swiper-wrapper">
@@ -128,8 +127,7 @@ The interior design of the project has been developed by a renowned consulting f
 </div>
 
 
-> Every material and design element has been meticulously modeled within the BIM environment, ensuring a high level of accuracy and coordination.
-> — 8 Visualizations
+
 
 <div class="slider-container">
   <div class="swiper mySwiper">
@@ -155,8 +153,6 @@ The interior design of the project has been developed by a renowned consulting f
   </div>
 </div>
 
-> Every material and design element has been meticulously modeled within the BIM environment, ensuring a high level of accuracy and coordination.
-> — 8 Visualizations
 <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -164,8 +160,13 @@ The interior design of the project has been developed by a renowned consulting f
     </div>
   </div>
 
-> Every material and design element has been meticulously modeled within the BIM environment, ensuring a high level of accuracy and coordination.
-> — 8 Visualizations
+
+<p><strong>—Reflection & Key Learnings:</strong></p>
+This project was my first sustained exposure to BIM within a real project environment, where challenges emerged less from modelling itself and more from how information was structured, exchanged, and coordinated across disciplines. Inconsistent naming, unclear modelling assumptions, and partial interoperability only became apparent during coordination cycles, when separate models were reviewed together and their limitations surfaced through clashes, rework, and follow-up discussions.
+
+Through this process, BIM became tangible to me not as a standalone tool but as a sequence of interdependent workflows. The presence (or absence) of a functioning CDE, a clearly applied BEP, and shared modelling conventions directly influenced how much effort was required to maintain consistency and constructability. Rather than learning BIM as a set of rules, I experienced it as a method for managing information loss under real coordination pressure.
+
+
 <div class="slider-container">
   <div class="swiper mySwiper">
     <div class="swiper-wrapper">
@@ -197,13 +198,7 @@ The interior design of the project has been developed by a renowned consulting f
     <div class="swiper-pagination"></div>
   </div>
 </div>
-The Architectural BIM model has been continuously coordinated with the MEP and Structural BIM models to ensure seamless integration across disciplines. All structural, mechanical, plumbing, and electrical elements have been modeled to a Level of Development (LOD) 350, allowing for detailed representation and precise constructability analysis. Ongoing coordination meetings were conducted to identify and resolve conflicts, with a total of 185 hard clashes detected using Navisworks and successfully resolved before finalizing the construction documents.
-> I was responsible for conducting clash detection tests using Navisworks and played a key role in organizing and managing coordination meetings to facilitate interdisciplinary collaboration and issue resolution.
 
-This isometric view showcases the fully integrated MEP systems modeled at LOD 350, ensuring precise coordination and constructability. 
-
-  This video presents the Revit Architecture Model using the Section Box tool, revealing detailed architectural elements of the architecture BIM model.
-<div style="padding:46.17% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1053053646?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Architecture_BIM_Model_Overview"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 <!-- Include Swiper.js Library -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css">

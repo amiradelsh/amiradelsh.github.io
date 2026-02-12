@@ -175,13 +175,14 @@ h1, h2, h3, .hero-title {
       
       Licensed architect with 3+ years of experience in solution-driven design, BIM-based collaboration, project management, and sustainability research. Proven track record in delivering BIM models up to LOD 350, conducting clash detection, and coordinating multidisciplinary workflows across architecture, structure, and MEP. Skilled in enhancing stakeholder engagement through immersive AR/VR/XR technologies and effective visual communication. Currently pursuing a second Master’s in Building Sustainability at TU Berlin, I’m seeking roles that intersect architecture, data-driven design, and climate innovation.
  </p>
-
+<!--
   <p> 
   <a href="/assets/pdf/Amiradel_Shamshirgaran.pdf" download>
     <i class="fas fa-file-pdf" style="margin-right: 0.5em; color: #2f71d3;"></i>
     Download CV
   </a>
 </p>
+-->
   </div>
   <div class="image-right">
     <img src="assets/img/UrbanFuture.jpg" alt="About Me Image" />
@@ -258,5 +259,3 @@ h1, h2, h3, .hero-title {
       {% endfor %}
     </div>
   </div>
-
-</div>
