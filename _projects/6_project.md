@@ -1,7 +1,7 @@
 ---
 layout: page
 title: <strong>[GREEN CITY]</strong>
-description: Design Competition
+description: Residential Building
 img: /assets/img/GreenCityThumbnail2.jpg
 importance: 3
 category: Architecture
