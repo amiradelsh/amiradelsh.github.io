@@ -32,7 +32,6 @@ images:
 
 
 
-Parkside is a six-story office building with a total built-up area of 3,500 square meters, located in a newly developed neighborhood west of Tehran, Iran. The project received municipal approval ten years ago; however, due to a lack of investment appeal, financing through pre-selling— a common method in the local real estate market—was unsuccessful.
 
 A year ago, the owner awarded a comprehensive Design + BIM contract to RENA Engineering & Construction Management. Under my lead as Managing Director, RENA took full responsibility for feasibility studies, sales programs, and financing strategies. Upon ensuring the project's feasibility, the architectural design process commenced alongside LOD 350 BIM modeling.
 
