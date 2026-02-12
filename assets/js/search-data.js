@@ -14,21 +14,35 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/BIM/";
+            window.location.href = "/bim/";
           },
         },{id: "nav-architecture",
           title: "Architecture",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/Architecture/";
+            window.location.href = "/architecture/";
           },
         },{id: "nav-visuals",
           title: "Visuals",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/Visuals/";
+            window.location.href = "/visuals/";
+          },
+        },{id: "nav-publication",
+          title: "Publication",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/Publication/";
+          },
+        },{id: "nav-publications",
+          title: "Publications",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
           },
         },{id: "post-a-post-with-image-galleries",
       
