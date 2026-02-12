@@ -435,7 +435,7 @@ ninja.data = [{
               window.location.href = "/projects/5_project/";
             },},{id: "projects-green-city",
           title: '[GREEN CITY]',
-          description: "Design Competition",
+          description: "Residential Building",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-baamland",
