@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Visuals
-permalink: /Visuals/
+permalink: /visuals/
 description: 
 nav: true
 nav_order: 3
+autogen: null
 display_categories: [Graphics]
 horizontal: false
 ---
@@ -52,6 +53,10 @@ horizontal: false
 /* Full-width container */
 .projects .container {
   padding: 0 15px;
+}
+
+.category {
+  display: none;
 }
 
 .project-card {

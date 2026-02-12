@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Architecture
-permalink: /Architecture/
+permalink: /architecture/
 description:
 nav: true
 nav_order: 2
+autogen: null
 display_categories: [Architecture]
 horizontal: false
 ---
@@ -53,6 +54,10 @@ horizontal: false
 /* Full-width container */
 .projects .container {
   padding: 0 15px;
+}
+
+.category {
+  display: none;
 }
 
 .project-card {

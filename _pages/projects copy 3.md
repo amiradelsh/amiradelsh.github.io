@@ -1,18 +1,16 @@
 ---
 layout: page
-title: BIM
-permalink: /bim/
+title: Publication
+permalink: /Publication/
 description: 
 nav: true
-nav_order: 1
-autogen: null
-display_categories: [BIM]
+nav_order: 4
+display_categories: [Publication]
 horizontal: false
 ---
 
 <!-- Google Fonts -->
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Inter:wght@400;600&display=swap" rel="stylesheet">
-
 
 <!-- pages/projects.md -->
 <div class="projects">
@@ -21,7 +19,7 @@ horizontal: false
     {% for category in page.display_categories %}
       <a id="{{ category }}" href=".#{{ category }}">
         <h2 class="category">{{ category }}</h2>
-      </a>
+      </a> 
       {% assign categorized_projects = site.projects | where: "category", category %}
       {% assign sorted_projects = categorized_projects | sort: "importance" %}
       <div class="container">
@@ -109,7 +107,6 @@ horizontal: false
     font-size: 0.7rem; /* Smaller font on mobile */
   }
 }
-
 /* Font Setup */
 body {
   font-family: "Inter", sans-serif;
