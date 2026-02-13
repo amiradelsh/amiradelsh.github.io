@@ -32,13 +32,6 @@ images:
   </div>
 
 
-
-
-Photography has always been more than a hobby for me—it’s an extension of how I experience space, light, and time. As an architect with a deep passion for visual arts, photography has long served as both a creative outlet and a complementary practice that informs my architectural thinking, visualizations, and sense of composition.
-
-This collection brings together personal works captured between 2015 and 2022, primarily exploring urban environments, architectural forms, and landscapes. Whether documenting the shifting rhythms of city life or the subtle transformation of nature over time, each frame reflects my interest in structure, narrative, and the quiet dialogues between space and temporality.
-
-My work has been featured in over ten local and three national exhibitions in Iran, with more than twenty pieces sold to private collectors. What you see here, however, is a curated selection of photographs that have never been sold or publicly available before—offered as a personal visual archive and a glimpse into how I see the built and natural world.
 <!-- Another Row of Images -->
 <div class="row">
   <div class="col-sm mt-3 mt-md-0 text-center">

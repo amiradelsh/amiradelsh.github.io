@@ -21,25 +21,59 @@ images:
     <div class="col-md-6">
       <p><strong>Platforms:</strong> Freelance, Fiverr, Private </p>
       <p><strong>Period of Contribution:</strong> from 2015 </p>
-      <p><strong>Collaborators:</strong> None – Independent Project </p>
+      <p><strong>Collaborators:</strong> None – Independent Projects </p>
     </div>
     <div class="col-md-6">
-      <p><strong>My Responsibilities:</strong> Sole Designer & Creative Lead</p>
-      <p><strong>Client:</strong> Private Client, Businesses</p>
+      <p><strong>Role:</strong> Designer & Creative Lead</p>
+      <p><strong>Client:</strong> Private Clients</p>
     </div>
   </div>
 
 
 
 
-Since 2015, I have worked both independently and in collaboration with several creative groups and design offices, contributing to a wide range of branding and visual identity projects. The examples highlighted here represent projects where I was solely responsible for the design development, taking the lead as Sole Designer and Creative Lead. I crafted distinctive communication systems for businesses, private clients, and special initiatives—spanning corporate identities, logo design, pitch decks, marketing materials, and special event posters. Delivered across print, digital, and environmental platforms, these designs have played a strategic role in driving pre-sales, improving stakeholder engagement, and elevating brand visibility for a diverse client base including KSB, AdventureCation, Wonder Industries, Franklin Ishman, and Falling Awake Radio. In several cases, rebranding efforts directly contributed to successful presales campaigns and increased investor interest.
+I designed logos and brand identities for clients across a wide range of fields — from technical engineering and landscape architecture to sustainable fashion, software development, adventure travel, renewable energy, music, and the visual arts.
+The selected projects below reflect this breadth: engineering consultancies, creative platforms, cultural institutions, and independent creators. Each identity is developed through close collaboration, aiming for clarity, longevity, and a strong fit with the client’s world.
 
 
 
-<img-comparison-slider>
-  {% include figure.liquid path="assets/img/Postheader66.jpg" class="img-fluid rounded z-depth-1" slot="first" %}
-  {% include figure.liquid path="assets/img/Postheader65.jpg" class="img-fluid rounded z-depth-1" slot="second" %}
-</img-comparison-slider>
+  <!-- Another Row of Images -->
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="/assets/img/Postheader65.jpg" title="Example Image 4" class="img-fluid rounded" %}
+    </div>
+  </div>
+
+ <!-- Another Row of Images -->
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="/assets/img/Postheader66.jpg" title="Example Image 4" class="img-fluid rounded" %}
+    </div>
+  </div>
+
+<p><strong>Selected clients:</strong></p>
+<div class="row">
+  <div class="col-md-6">
+    <ul class="list-unstyled">
+      <li>Frank Ishman – New York based Artist & Illustrator, USA</li>
+      <li>Falling Awake Radio – Spotify Album</li>
+      <li>KSBTeknik – Technical consultancy, Sweden</li>
+      <li>Aspect Studios – International landscape architecture & urban design studio</li>
+      <li>The Wind – Sustainable fashion sourcing ecosystem, UK/Europe</li>
+      <li>Guiild – AI & software development experts</li>
+    </ul>
+  </div>
+  <div class="col-md-6">
+    <ul class="list-unstyled">
+      <li>Adventurecation – Local-led adventure travel, Denmark</li>
+      <li>Solar Museum – Online archive & education platform for solar energy</li>
+      <li>Brighty Keys – Creative collaboration platform</li>
+      <li>Dorsan – Dental clinic, Iran</li>
+      <li>Tranåspumpen – Heat pump operator, Sweden</li>
+      <li>Ben Harbour – Electronic music producer</li>
+    </ul>
+  </div>
+</div>
 
 
   <!-- Another Row of Images -->
@@ -49,7 +83,9 @@ Since 2015, I have worked both independently and in collaboration with several c
     </div>
   </div>
 
-I approach visual identity with a strategic mindset, aligning design with project objectives and audience expectations to deliver systems that resonate across multiple touchpoints. From early research and concept development to final rollout, I combine visual storytelling with technical fluency, using tools such as Adobe Illustrator, InDesign, Photoshop, and Figma, alongside Microsoft PowerPoint, GitHub for version control, and manual techniques like photography and hand drawing. This multifaceted toolkit enables me to create polished deliverables tailored for both creative industries and the technical rigor of corporate and construction environments. Whether working with city officials, corporate tenants, business owners, or local investors, my work consistently enhances communication, strengthens credibility, and drives engagement through thoughtful execution and design precision.
+<p class="text-center mt-2 mb-5">
+  <strong>RENA Engineering & Construction Management</strong> — Logo & Identity
+</p>
 
 <!-- Image Slider -->
 <div class="slider-container">
@@ -78,7 +114,10 @@ I approach visual identity with a strategic mindset, aligning design with projec
     <div class="swiper-pagination"></div>
   </div>
 </div>
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon.
+
+<p class="text-center mt-2 mb-5">
+  <strong>The Wind</strong> — Sustainable fashion sourcing ecosystem, UK/Europe
+</p>
 
 
 <img-comparison-slider>
@@ -86,8 +125,9 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
   {% include figure.liquid path="assets/img/LOGOPROJECT14.jpg" class="img-fluid rounded z-depth-1" slot="second" %}
 </img-comparison-slider>
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension,
-> —Anais Nin
+<p class="text-center mt-2 mb-5">
+  <strong>Brightykeys</strong> – Creative collaboration platform
+</p>
 
 <!-- Image Slider -->
 <div class="slider-container">
@@ -122,7 +162,9 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
   </div>
 </div>
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon.
+<p class="text-center mt-2 mb-5">
+  <strong>NOOK</strong> – Work from anywhere platform
+</p>
 
 
 <!-- Image Slider -->
@@ -163,7 +205,10 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
   </div>
 </div>
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon.
+<p class="text-center mt-2 mb-5">
+  <strong>Falling Awake Radio</strong> – Ben Harbour – Electronic music producer
+</p>
+
 
 
 <!-- Image Slider -->
@@ -199,8 +244,9 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
   </div>
 </div>
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension,
-> —Anais Nin
+<p class="text-center mt-2 mb-5">
+  <strong>Book Cover Design</strong> – Personal Journal
+</p>
 
 
 <!-- Image Slider -->
@@ -241,8 +287,10 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
   </div>
 </div>
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension,
-> —Anais Nin
+<p class="text-center mt-2 mb-5">
+  <strong>Adventurecation</strong> – Local-led adventure travel to Africa, Denmark
+</p>
+
 
 <!-- Image Slider -->
 <div class="slider-container">
@@ -282,8 +330,9 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
   </div>
 </div>
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension,
-> —Anais Nin
+<p class="text-center mt-2 mb-5">
+  <strong>Aspect Studios</strong> – International landscape architecture & urban design studio
+</p>
 
 <!-- Image Slider -->
 <div class="slider-container">
@@ -314,8 +363,10 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
 </div>
 
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension,
-> —Anais Nin
+<p class="text-center mt-2 mb-5">
+  <strong>Tranåspumpen</strong> – Heat pump operator, Sweden
+</p>
+
 
 <!-- Image Slider -->
 <div class="slider-container">
@@ -345,8 +396,10 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
   </div>
 </div>
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension,
-> —Anais Nin
+<p class="text-center mt-2 mb-5">
+  <strong>Solar Museum</strong> – Online archive & education platform for solar energy
+</p>
+
 
 
 <!-- Image Slider -->
@@ -377,8 +430,10 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
   </div>
 </div>
 
-> Such an amazing design and work ethic. I total will be using him again on jobs with clients. Love it when you actually feel like someone loves what they do.
-> —Frank Ishman, United States
+<p class="text-center mt-2 mb-5">
+  <strong>Frank Ishman</strong> – New York based Artist & Illustrator, USA
+</p>
+
 
 <!-- Image Slider -->
 <div class="slider-container">
@@ -419,8 +474,10 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
 </div>
 
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension,
-> —Anais Nin
+<p class="text-center mt-2 mb-5">
+  <strong>Guiild</strong> – AI & software development experts
+</p>
+
 > 
 <!-- Include Swiper.js Library -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css">

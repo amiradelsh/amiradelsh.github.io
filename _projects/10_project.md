@@ -29,23 +29,20 @@ images:
     </div>
   </div>
 
-
-
   <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
       {% include figure.liquid path="/assets/img/Postheader70.jpg" title="Example Image 4" class="img-fluid rounded" %}
     </div>
   </div>
-  > We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
+ 
 <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
       {% include figure.liquid path="/assets/img/Postheader36.jpg" title="Example Image 4" class="img-fluid rounded" %}
     </div>
   </div>
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon.
+
 
   <!-- Another Row of Images -->
   <div class="row">
@@ -53,13 +50,6 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
       {% include figure.liquid path="/assets/img/Postheader72.jpg" title="Example Image 4" class="img-fluid rounded" %}
     </div>
   </div>
-
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon.
-
-
-
-
-
 
 
  <!-- Another Row of Images -->
@@ -70,7 +60,6 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
   </div>
 
 
-> The structural BIM model was developed using Tekla Structures, ensuring precision in steel detailing. The MEP and architectural models were subsequently completed in Revit based on the Structure Model in IFC2x3 Steel Detailing View file, enabling seamless coordination and integration among disciplines.This approach ensured an optimized workflow, improved constructibility, and enhanced project efficiency.
 
 
  <!-- Another Row of Images -->
@@ -81,18 +70,4 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
   </div>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension,
-> —Anais Nin
 
