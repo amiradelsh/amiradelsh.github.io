@@ -1,7 +1,7 @@
 ---
 layout: page
 title: <strong>[BAAMLAND]</strong>
-description: Office Building
+description: Commercial Complex
 img: /assets/img/Postheader1.jpg
 importance: 3
 category: Architecture
@@ -21,15 +21,19 @@ images:
     <div class="col-md-6">
     <p><strong>Project Location:</strong> Tehran, Iran</p>
     <p><strong>Role:</strong> Architectural Modeller, Visualizations, Presentation Boards, and Competition Submission</p>
+    <p><strong>Project Status:</strong> Completed (Built)</p>
     </div>
     <div class="col-md-6">
-          <p><strong>Period of Contribution:</strong> 02/2024 – Present</p>      
+          <p><strong>Period of Contribution:</strong> 09/2016 – 09/2018</p>      
       <p><strong>Client:</strong> Investment Organization of Tehran Municipality, District 22</p>
+      <p><strong>Credits & Ownership:</strong> Collaborative, Third-Party Ownership</p>
     </div>
   </div>
 
+<hr style="margin: 2.5rem 0; border-top: 1px solid #dee2e6;">
 
-
+<p><strong>—Portfolio Note:</strong></p>
+The material shown on this page is a selective, simplified, and non-buildable representation of a collaborative project. More information is available at the end of this page and in the Legal Notice & Copyright section.
 
 <p><strong>—Project Overview:</strong></p>
 This project is a commercial complex located in the western foothill lands of Tehran, Municipal District 22, directly adjacent to the Persian Gulf Lake. I joined in the design development phase, after the studio had secured the commission with initial concept designs, and stayed through to the completion of execution planning. The scope included a landscape area of 32,080 m² and a total gross built area of 26,290 m², distributed across three phases with net floor areas of 1,864 m² (Phase 1), 3,596 m² (Phase 2), 2,618 m² (Phase 3), and a total commercial area of 13,414 m².
@@ -138,7 +142,14 @@ I delivered a low-LOD architectural Revit model (functioning as the federated ar
 
 <p><strong>—Reflection & Key Learnings:</strong></p>
 The project demonstrated the immediate value of moving from fragmented, multi-platform workflows to a single Revit environment, even at modest LOD levels. The biggest gains came from eliminating repeated manual conversions and establishing one reliable source of truth for both documentation and visualization. The award success confirmed that a well-structured model, paired with high-quality visual deliverables produced by a single modeller, can decisively support competition outcomes under real time and budget pressure. On a future project I would implement basic shared naming conventions and a lightweight Common Data Environment from day one to reduce coordination overhead even further.
-> 
+
+<p><strong>—Project-Specific Portfolio Disclaimer:</strong></p>
+This project was developed as part of a collaborative design and delivery team. The materials presented on this page are selective, simplified, and modified representations, prepared solely for portfolio and academic purposes.
+The drawings, diagrams, and renderings shown may include simplified or cropped views, partial systems, and redacted or altered notes, dimensions, and technical information. The technical materials have been intentionally selected from non-final stages of the project, such as early design or execution-development phases, or from components that were later revised or significantly changed.
+Accordingly, the material presented here is non-final and non-buildable and does not represent issued, coordinated, tender, or construction documentation. It is provided only to illustrate the author’s contribution to the project.
+Authorship is limited to the specific work scope and contributions described on this page. Project copyrights and ownership remain with the respective client and/or firm unless otherwise stated.
+The full Portfolio Disclaimer and detailed copyright information applicable to this project are provided in the Legal Notice & Copyright section of this website.
+>
 <!-- Include Swiper.js Library -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css">
 <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>

@@ -14,20 +14,26 @@ client: "XYZ Architecture Firm"
 ---
 <!-- Project Details Section -->
 
-  <div class="row">
+ <div class="row">
     <div class="col-md-6">
-      <p><strong>Project Location:</strong> Tehran, Iran</p>
-      <p><strong>Period of Contribution:</strong> 10/2019 – 11/2021</p>
-      <p><strong>Team Members:</strong> Three Architecture and five Structure & MEP BIM modelers</p>
+    <p><strong>Project Location:</strong> Tehran, Iran</p>
+    <p><strong>Role:</strong> Freelance Architectural BIM Modeller </p>
+    <p><strong>Project Status:</strong> Under Construction</p>
     </div>
     <div class="col-md-6">
-      <p><strong>My Responsibilities:</strong> Architecture BIM Modeler | Clash Detection & Coordination Leads</p>
+          <p><strong>Period of Contribution:</strong> 10/2019 – 11/2021</p>      
       <p><strong>Client:</strong> Melal Hotel Group, Investment Department</p>
+      <p><strong>Credits & Ownership:</strong> Collaborative, Third-Party Ownership</p>
     </div>
   </div>
 
+<hr style="margin: 2.5rem 0; border-top: 1px solid #dee2e6;">
 
 
+<p><strong>—Portfolio Note:</strong></p>
+The material shown on this page is a selective, simplified, and non-buildable representation of a collaborative project. More information is available at the end of this page and in the Legal Notice & Copyright section.
+
+<p><strong>—Project Overview:</strong></p>
 Melal Business Hotel is a 26-story mixed-use hospitality development strategically located near Vanak Square, Tehran's central business district. Designed to accommodate both business and leisure travelers, the hotel features 373 guest rooms, offering a diverse range of accommodations:
 •	Single Rooms: 18
 •	Standard Rooms: 256
@@ -338,6 +344,13 @@ Key secondary structural elements such as staircases, elevator shafts, balconies
   This video presents the Revit Architecture Model using the Section Box tool, revealing detailed architectural elements of the architecture BIM model.
 <div style="padding:46.17% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1053053646?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Architecture_BIM_Model_Overview"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
+<p><strong>—Project-Specific Portfolio Disclaimer:</strong></p>
+This project was developed as part of a collaborative design and delivery team. The materials presented on this page are selective, simplified, and modified representations, prepared solely for portfolio and academic purposes.
+The drawings, diagrams, and renderings shown may include simplified or cropped views, partial systems, and redacted or altered notes, dimensions, and technical information. The technical materials have been intentionally selected from non-final stages of the project, such as early design or execution-development phases, or from components that were later revised or significantly changed.
+Accordingly, the material presented here is non-final and non-buildable and does not represent issued, coordinated, tender, or construction documentation. It is provided only to illustrate the author’s contribution to the project.
+Authorship is limited to the specific work scope and contributions described on this page. Project copyrights and ownership remain with the respective client and/or firm unless otherwise stated.
+The full Portfolio Disclaimer and detailed copyright information applicable to this project are provided in the Legal Notice & Copyright section of this website.
+>
 <!-- Include Swiper.js Library -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css">
 <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>

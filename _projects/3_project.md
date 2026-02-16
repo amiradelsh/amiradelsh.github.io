@@ -16,14 +16,21 @@ client: "XYZ Architecture Firm"
 
   <div class="row">
     <div class="col-md-6">
-      <p><strong>Period of Contribution:</strong> 10/2019 – 11/2021</p>
-      <p><strong>Team Members:</strong> Three Architecture and five Structure & MEP BIM modelers</p>
+    <p><strong>Project Location:</strong> Tehran, Iran</p>
+    <p><strong>Role:</strong> Freelance Architectural BIM Modeller </p>
+    <p><strong>Project Status:</strong> Completed (Built)</p>
     </div>
     <div class="col-md-6">
-      <p><strong>My Responsibilities:</strong>  Architectural BIM Modeller | Clash Detection & Coordination Briefing</p>
+          <p><strong>Period of Contribution:</strong> 06/2019 – 08/2021</p>      
       <p><strong>Client:</strong> Private Client</p>
+      <p><strong>Credits & Ownership:</strong> Collaborative, Third-Party Ownership</p>
     </div>
   </div>
+
+<hr style="margin: 2.5rem 0; border-top: 1px solid #dee2e6;">
+
+<p><strong>—Portfolio Note:</strong></p>
+The material shown on this page is a selective, simplified, and non-buildable representation of a collaborative project. More information is available at the end of this page and in the Legal Notice & Copyright section.
 
 
 <p><strong>—Project Overview:</strong></p>
@@ -167,6 +174,7 @@ This project was my first sustained exposure to BIM within a real project enviro
 Through this process, BIM became tangible to me not as a standalone tool but as a sequence of interdependent workflows. The presence (or absence) of a functioning CDE, a clearly applied BEP, and shared modelling conventions directly influenced how much effort was required to maintain consistency and constructability. Rather than learning BIM as a set of rules, I experienced it as a method for managing information loss under real coordination pressure.
 
 
+
 <div class="slider-container">
   <div class="swiper mySwiper">
     <div class="swiper-wrapper">
@@ -199,6 +207,13 @@ Through this process, BIM became tangible to me not as a standalone tool but as 
   </div>
 </div>
 
+<p><strong>—Project-Specific Portfolio Disclaimer:</strong></p>
+This project was developed as part of a collaborative design and delivery team. The materials presented on this page are selective, simplified, and modified representations, prepared solely for portfolio and academic purposes.
+The drawings, diagrams, and renderings shown may include simplified or cropped views, partial systems, and redacted or altered notes, dimensions, and technical information. The technical materials have been intentionally selected from non-final stages of the project, such as early design or execution-development phases, or from components that were later revised or significantly changed.
+Accordingly, the material presented here is non-final and non-buildable and does not represent issued, coordinated, tender, or construction documentation. It is provided only to illustrate the author’s contribution to the project.
+Authorship is limited to the specific work scope and contributions described on this page. Project copyrights and ownership remain with the respective client and/or firm unless otherwise stated.
+The full Portfolio Disclaimer and detailed copyright information applicable to this project are provided in the Legal Notice & Copyright section of this website.
+>
 
 <!-- Include Swiper.js Library -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css">

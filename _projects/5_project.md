@@ -17,18 +17,23 @@ images:
 ---
 <!-- Project Details Section -->
 
-  <div class="row">
+   <div class="row">
     <div class="col-md-6">
-      <p><strong>Project Location:</strong> Birjand, Iran</p>
-      <p><strong>Period of Contribution:</strong> 03/2023 – Present</p>
-      <p><strong>Team Members:</strong> Amirhossein Shamshirgaran, Mojtaba Mousavi </p>
+    <p><strong>Project Location:</strong> Birjand, Iran</p>
+    <p><strong>Role:</strong> Lead Architectural Design | BIM Team Lead | Feasibility Study & Project Evaluation | Real Estate Marketing & Branding Coordinator </p>
+    <p><strong>Project Status:</strong> Under Construction</p>
     </div>
     <div class="col-md-6">
-      <p><strong>My Responsibilities:</strong> Lead Architectural Design | BIM Team Lead | Feasibility Study & Project Evaluation | Real Estate Marketing & Branding Coordinator</p>
-      <p><strong>Client:</strong> Family Project | Self</p>
+          <p><strong>Period of Contribution:</strong>  01/2023 – Present</p>      
+      <p><strong>Client:</strong> Self-Commissioned Project</p>
+      <p><strong>Credits & Ownership:</strong> Independent, Author-owned</p>
     </div>
   </div>
 
+<hr style="margin: 2.5rem 0; border-top: 1px solid #dee2e6;">
+
+<p><strong>—Portfolio Note:</strong></p>
+This project is fully owned and authored by Amiradel Shamshirgaran. All materials are protected by copyright and may not be reused without permission. See the Legal Notice & Copyright page for details.
 
 
  Contemporary archetypes in a compact urban fabric: This small-scale commercial building in Birjand reinterprets the architectural arch as a spatial and sculptural element. Designed as a composition of interlocking volumes and crafted in brick, concrete, and glass, the building balances transparency and mass. I led the architectural design, BIM modeling, and on-site supervision under RENA, where I served as CEO. The project is modeled in Revit with architecture, structure, and MEP integrated. Currently under construction, it aligns with Iran’s Chapter 19 energy standards, with the façade now being implemented.

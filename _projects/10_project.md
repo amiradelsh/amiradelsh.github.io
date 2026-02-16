@@ -29,6 +29,11 @@ images:
     </div>
   </div>
 
+  <hr style="margin: 2.5rem 0; border-top: 1px solid #dee2e6;">
+
+<p><strong>—Portfolio Note:</strong></p>
+This project is fully owned and authored by Amiradel Shamshirgaran. All materials are protected by copyright and may not be reused without permission. See the Legal Notice & Copyright page for details.
+
   <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">

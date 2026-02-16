@@ -17,20 +17,23 @@ images:
 ---
 <!-- Project Details Section -->
 
-  <div class="row">
+   <div class="row">
     <div class="col-md-6">
-      <p><strong>Project Location:</strong> Tehran, Iran</p>
-      <p><strong>Period of Contribution:</strong> 02/2024 – Present</p>
-      <p><strong>Team Members:</strong> Three BIM Modelers and one Site Engineer </p>
+    <p><strong>Project Location:</strong> Tehran, Iran</p>
+    <p><strong>Role:</strong> Lead Architectural Design | BIM Team Lead | BIM Coordinator | Real Estate Marketing & Branding </p>
+    <p><strong>Project Status:</strong> Under Construction</p>
     </div>
     <div class="col-md-6">
-      <p><strong>My Responsibilities:</strong> Architectural Design | BIM Team Lead (3 BIM Modelers for Architecture, Structure & MEP) | Feasibility Study & Project Evaluation | Real Estate Marketing & Branding Coordinator</p>
+          <p><strong>Period of Contribution:</strong>  02/2023 – 01/2025</p>      
       <p><strong>Client:</strong> Private Client</p>
+      <p><strong>Credits & Ownership:</strong> Independent, Author-owned</p>
     </div>
   </div>
 
+<hr style="margin: 2.5rem 0; border-top: 1px solid #dee2e6;">
 
-
+<p><strong>—Portfolio Note:</strong></p>
+This project is fully owned and authored by Amiradel Shamshirgaran. All materials are protected by copyright and may not be reused without permission. See the Legal Notice & Copyright page for details.
 
 Parkside is a six-story office building with a total built-up area of 3,500 square meters, located in a newly developed neighborhood west of Tehran, Iran. The project received municipal approval ten years ago; however, due to a lack of investment appeal, financing through pre-selling— a common method in the local real estate market—was unsuccessful.
 
