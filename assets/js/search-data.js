@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-legal",
+          title: "Legal",
+          description: "Legal notice and copyright information",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/legal/";
+          },
         },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
@@ -447,7 +454,7 @@ ninja.data = [{
               window.location.href = "/projects/6_project/";
             },},{id: "projects-baamland",
           title: '[BAAMLAND]',
-          description: "Office Building",
+          description: "Commercial Complex",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-photography",
