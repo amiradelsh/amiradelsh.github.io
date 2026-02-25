@@ -407,63 +407,63 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-paintings",
-          title: '[PAINTINGS]',
+          section: "News",},{id: "projects-quot-paintings-quot",
+          title: '[&amp;quot;PAINTINGS&amp;quot;]',
           description: "Personal Works",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
-            },},{id: "projects-asce",
-          title: '[ASCE]',
+            },},{id: "projects-quot-asce-quot",
+          title: '[&amp;quot;ASCE&amp;quot;]',
           description: "Journal of Infrastructure Systems",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_project/";
-            },},{id: "projects-elsevier",
-          title: '[Elsevier]',
+            },},{id: "projects-quot-elsevier-quot",
+          title: '[&amp;quot;Elsevier&amp;quot;]',
           description: "Building and Environment",
           section: "Projects",handler: () => {
               window.location.href = "/projects/12_project/";
-            },},{id: "projects-civilica",
-          title: '[Civilica]',
+            },},{id: "projects-quot-civilica-quot",
+          title: '[&amp;quot;Civilica&amp;quot;]',
           description: "Natural Resources Management",
           section: "Projects",handler: () => {
               window.location.href = "/projects/13_project/";
-            },},{id: "projects-melal",
-          title: '[MELAL]',
+            },},{id: "projects-quot-melal-quot",
+          title: '[&amp;quot;MELAL&amp;quot;]',
           description: "Business Hotel",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-parkside",
-          title: '[PARKSIDE]',
+            },},{id: "projects-quot-parkside-quot",
+          title: '[&amp;quot;PARKSIDE&amp;quot;]',
           description: "Office Building",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-ava",
-          title: '[AVA]',
+            },},{id: "projects-quot-ava-quot",
+          title: '[&amp;quot;AVA&amp;quot;]',
           description: "Office Hub",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-simin-commercial",
-          title: '[SIMIN COMMERCIAL]',
+            },},{id: "projects-quot-simin-commercial-quot",
+          title: '[&amp;quot;SIMIN COMMERCIAL&amp;quot;]',
           description: "Commercial Building",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-green-city",
-          title: '[GREEN CITY]',
+            },},{id: "projects-quot-green-city-quot",
+          title: '[&amp;quot;GREEN CITY&amp;quot;]',
           description: "Residential Building",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-baamland",
-          title: '[BAAMLAND]',
+            },},{id: "projects-quot-baamland-quot",
+          title: '[&amp;quot;BAAMLAND&amp;quot;]',
           description: "Commercial Complex",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-photography",
-          title: '[PHOTOGRAPHY]',
+            },},{id: "projects-quot-photography-quot",
+          title: '[&amp;quot;PHOTOGRAPHY&amp;quot;]',
           description: "Personal Collection",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-identitiy-design",
-          title: '[IDENTITIY DESIGN]',
+            },},{id: "projects-quot-identitiy-design-quot",
+          title: '[&amp;quot;IDENTITIY DESIGN&amp;quot;]',
           description: "Graphic Design",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
