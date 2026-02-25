@@ -93,7 +93,7 @@ horizontal: false
 
 /* Title styling */
 .project-caption .project-title {
-  font-weight: bold; /* Bold for the title */
+  font-weight: normal; /* Bold for the title */
   margin-bottom: 3px; /* Space between title and description */
   font-size: 1rem; /* Slightly larger font for the title */
 }

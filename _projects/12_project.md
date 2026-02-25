@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <strong>[Elsevier]</strong>
+title: [Elsevier]
 description: Building and Environment
 img: /assets/img/Publications_ELSEVIER1.jpg
 importance: 2

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <strong>[SIMIN COMMERCIAL]</strong>
+title: [SIMIN COMMERCIAL]
 description: Commercial Building
 img: /assets/img/7tirThumbnail2.jpg
 importance: 3
@@ -42,7 +42,7 @@ This project is fully owned and authored by Amiradel Shamshirgaran. All material
   <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/7tirDiagram.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/7tirDiagram.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
     </div>
   </div>
 
@@ -52,7 +52,7 @@ This project is fully owned and authored by Amiradel Shamshirgaran. All material
 <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/7TirGIF.gif" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/7TirGIF.gif" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
     </div>
   </div>
 
@@ -61,14 +61,14 @@ This project is fully owned and authored by Amiradel Shamshirgaran. All material
   <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/7tirSection1.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/7tirSection1.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
     </div>
   </div>
 
  <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/7tirSection2.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/7tirSection2.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
     </div>
   </div>
 <br>
@@ -78,7 +78,7 @@ It was developed using Revit Architecture, Structure, and MEP, modeled to an LOD
  <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/7tirCeilingLightingPlan.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/7tirCeilingLightingPlan.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
     </div>
   </div>
 <br>
@@ -87,7 +87,7 @@ Pre-placement of embedded electrical conduits and junction boxes for future rece
 <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/7tirStairs.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/7tirStairs.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
     </div>
   </div>
 
@@ -95,7 +95,7 @@ Pre-placement of embedded electrical conduits and junction boxes for future rece
 <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/7tirStairs2.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/7tirStairs2.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
     </div>
   </div>
 

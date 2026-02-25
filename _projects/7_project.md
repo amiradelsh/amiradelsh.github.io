@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <strong>[BAAMLAND]</strong>
+title: [BAAMLAND]
 description: Commercial Complex
 img: /assets/img/Postheader1.jpg
 importance: 3
@@ -46,7 +46,7 @@ This project is a commercial complex located in the western foothill lands of Te
 <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/Baamland Location.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/Baamland Location.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
     </div>
   </div>
 
@@ -54,7 +54,7 @@ This project is a commercial complex located in the western foothill lands of Te
   <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/BaamlandVisual.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/BaamlandVisual.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
     </div>
   </div>
 
@@ -64,7 +64,7 @@ The project started with highly fragmented workflows. Architectural information 
   <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/BaamlandDiagram3.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/BaamlandDiagram3.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
     </div>
   </div>
 
@@ -75,7 +75,7 @@ I worked as the sole Architectural BIM Modeller. My primary task was to convert 
  <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/BaamLandDiagram2.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/BaamLandDiagram2.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
     </div>
   </div>
 
@@ -93,7 +93,7 @@ Coordination between disciplines was initially minimal and unstructured. By deli
  <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/BaamlandPhoto3.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/BaamlandPhoto3.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
     </div>
   </div>
 
@@ -105,7 +105,7 @@ Coordination between disciplines was initially minimal and unstructured. By deli
 <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/BaamlandPhoto1.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/BaamlandPhoto1.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
     </div>
   </div>
 
@@ -119,7 +119,7 @@ The project was constrained by tight schedules and limited budget, which dictate
 <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/BaamlandPhoto2.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/BaamlandPhoto2.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
     </div>
   </div>
 
@@ -135,7 +135,7 @@ I delivered a low-LOD architectural Revit model (functioning as the federated ar
 <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/BaamlandDiagram1.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/BaamlandDiagram1.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
     </div>
   </div>
 

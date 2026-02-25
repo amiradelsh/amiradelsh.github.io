@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <strong>[AVA]</strong>
+title: [AVA]
 description: Office Hub
 img: /assets/img/OfficeThumbnail4.jpg
 importance: 3
@@ -40,7 +40,7 @@ This project is a 12-storey office building located in the city centre of Tehran
  <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/OfficeDiagram2.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/OfficeDiagram2.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
     </div>
   </div>
 
@@ -51,7 +51,7 @@ I joined as an Architectural BIM Modeller within a two-person architecture team 
  <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/OfficeDiagram3.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/OfficeDiagram3.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
     </div>
   </div>
   
@@ -61,7 +61,7 @@ My primary responsibility was the development of architectural BIM models in Rev
   <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/OfficeGIF (3).gif" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/OfficeGIF (3).gif" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
     </div>
   </div>
 
@@ -71,7 +71,7 @@ Because coordination mechanisms were limited, I temporarily joined structural an
  <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/OfficeDiagram.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/OfficeDiagram.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
     </div>
   </div>
 
@@ -163,7 +163,7 @@ At the close of my involvement I delivered high-LOD federated Revit and IFC mode
 <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/OfficeDetail3.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/OfficeDetail3.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
     </div>
   </div>
 

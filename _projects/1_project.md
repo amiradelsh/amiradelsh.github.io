@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <strong>[MELAL]</strong>
+title: [MELAL]
 description: Business Hotel
 img: /assets/img/MelalTumbnail.jpg
 importance: 1
@@ -45,7 +45,7 @@ With a total built-up area of 65,346 sq. m, the project integrates high-end hosp
   <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/MelalRender1920-3.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/MelalRender1920-3.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
     </div>
   </div>
 
@@ -56,7 +56,7 @@ Currently in the under-construction phase, the project is progressing with the f
   <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/MelalDiagram1920.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/MelalDiagram1920.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
     </div>
   </div>
 The diagram presents three orthographic axonometric views (West, South, and East) of the Melal Business Hotel, illustrating the vertical organization and spatial distribution of its core functions.
@@ -210,7 +210,7 @@ This isometric view showcases the fully integrated MEP systems modeled at LOD 35
  <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/MelalMEP.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/MelalMEP.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
     </div>
   </div>
 
@@ -336,7 +336,7 @@ Key secondary structural elements such as staircases, elevator shafts, balconies
 <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/MelalSTR9.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/MelalSTR9.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
     </div>
   </div>
 

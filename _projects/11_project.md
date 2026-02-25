@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <strong>[ASCE]</strong>
+title: [ASCE]
 description: Journal of Infrastructure Systems
 img: /assets/img/Publications_ASCE1.jpg
 importance: 2

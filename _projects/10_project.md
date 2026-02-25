@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <strong>[PAINTINGS]</strong>
+title: [PAINTINGS]
 description: Personal Works
 img: /assets/img/Postheader4.jpg
 importance: 2
@@ -37,14 +37,14 @@ This project is fully owned and authored by Amiradel Shamshirgaran. All material
   <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/Postheader70.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/Postheader70.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
     </div>
   </div>
  
 <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/Postheader36.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/Postheader36.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
     </div>
   </div>
 
@@ -52,7 +52,7 @@ This project is fully owned and authored by Amiradel Shamshirgaran. All material
   <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/Postheader72.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/Postheader72.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
     </div>
   </div>
 
@@ -60,7 +60,7 @@ This project is fully owned and authored by Amiradel Shamshirgaran. All material
  <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/Postheader34.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/Postheader34.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
     </div>
   </div>
 
@@ -70,7 +70,7 @@ This project is fully owned and authored by Amiradel Shamshirgaran. All material
  <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/Postheader74.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/Postheader74.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
     </div>
   </div>
 

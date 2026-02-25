@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <strong>[Civilica]</strong>
+title: [Civilica]
 description: Natural Resources Management
 img: /assets/img/Publication_CIVILICA.jpg
 importance: 2

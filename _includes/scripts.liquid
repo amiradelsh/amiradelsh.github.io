@@ -1,3 +1,21 @@
+<script>
+// Disable right-click
+document.addEventListener('contextmenu', function(e) {
+  e.preventDefault();
+});
+
+// Disable drag
+document.addEventListener('dragstart', function(e) {
+  e.preventDefault();
+});
+
+// Disable image selection
+document.addEventListener('selectstart', function(e) {
+  if (e.target.tagName === 'IMG') {
+    e.preventDefault();
+  }
+});
+</script>
 <!-- jQuery -->
 <script
   src="{{ site.third_party_libraries.jquery.url.js }}"

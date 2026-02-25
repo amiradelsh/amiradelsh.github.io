@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <strong>[PHOTOGRAPHY]</strong>
+title: [PHOTOGRAPHY]
 description: Personal Collection
 img: /assets/img/Postheader6.jpg
 importance: 5

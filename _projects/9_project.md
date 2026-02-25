@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <strong>[IDENTITIY DESIGN]</strong>
+title: [IDENTITIY DESIGN]
 description: Graphic Design
 img: /assets/img/Postheader66.jpg
 importance: 3
@@ -42,14 +42,14 @@ The selected projects below reflect this breadth: engineering consultancies, cre
   <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/Postheader65.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/Postheader65.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
     </div>
   </div>
 
  <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/Postheader66.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/Postheader66.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
     </div>
   </div>
 
@@ -81,7 +81,7 @@ The selected projects below reflect this breadth: engineering consultancies, cre
   <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/Postheader55.jpg" title="Example Image 4" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/Postheader55.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
     </div>
   </div>
 
