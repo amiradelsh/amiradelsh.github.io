@@ -126,18 +126,6 @@ The project began with initial concept development, massing studies, and section
 <p><strong>—Constraints & Responsibilities:</strong></p>
 The main constraints stemmed from the conservative urban context, which imposed strict limits on building scale, street-facing aesthetics, projections, orientations, and overall form, as well as compliance with local building codes and municipal regulations (including rules on maximum built-up area, allowable projections, and shadowing effects on adjacent properties). Because the design deviated from standard norms in massing and form to meet the programmatic needs, securing legal approvals and permits from the municipality required multiple rounds of discussion and revisions. Although the project was a luxury residence with no tight budget or pressing time constraints, navigating these regulatory requirements became the primary challenge. Responsibilities outside my scope included specialist engineering calculations; I relied on structural engineers for detailed structural calculations and on contractors for practical execution feedback. The workflow centered on Revit for architectural and MEP modeling, Tekla for structural modeling (handled by my brother), and shared Revit-to-Excel processes for quantity take-offs and coordination.
 
-  <!-- Another Row of Images -->
-  <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/GreenCityRenderNight.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
-    </div>
-  </div>
-
-<p><strong>—Deliverables & Outcome:</strong></p>
-The main deliverables included early concept sketches, massing studies and sectional diagrams, fully integrated Revit models for architecture, structure, and MEP at medium LOD, complete construction drawings, detailed documentation of the building form and key spatial arrangements, high-quality realistic renderings, visualizations of exteriors and interiors, as well as supplementary communication tools such as animated flythrough sequences and VR tour explorations.
-<br>
-These outputs served as the primary reference for contractors and subcontractors during execution and enabled technical validations by consultants. The combination of coordinated technical documentation, clear diagrams, and advanced visual media ensured that the intended design concept (particularly the carefully shaped massing, introverted organization, and non-standard form) was effectively communicated across all disciplines. This reduced ambiguities, supported better understanding of the spatial strategy, and helped maintain alignment during construction despite the challenges of regulatory negotiations.
-
 
 
 <!-- Image Slider -->
@@ -177,7 +165,28 @@ These outputs served as the primary reference for contractors and subcontractors
     <div class="swiper-pagination"></div>
   </div>
 </div>
+<br>
+<p><strong>—Deliverables & Outcome:</strong></p>
+The main deliverables included early concept sketches, massing studies and sectional diagrams, fully integrated Revit models for architecture, structure, and MEP at medium LOD, complete construction drawings, detailed documentation of the building form and key spatial arrangements, high-quality realistic renderings, visualizations of exteriors and interiors, as well as supplementary communication tools such as animated flythrough sequences and VR tour explorations.
+<br>
+These outputs served as the primary reference for contractors and subcontractors during execution and enabled technical validations by consultants. The combination of coordinated technical documentation, clear diagrams, and advanced visual media ensured that the intended design concept (particularly the carefully shaped massing, introverted organization, and non-standard form) was effectively communicated across all disciplines. This reduced ambiguities, supported better understanding of the spatial strategy, and helped maintain alignment during construction despite the challenges of regulatory negotiations.
 
+
+
+
+  <!-- Another Row of Images -->
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="/assets/img/GreenCityModel.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
+    </div>
+  </div>
+  <br>
+  <!-- Another Row of Images -->
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="/assets/img/GreenCityRenderNight.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
+    </div>
+  </div>
 <br>
 <p><strong>—Reflection & Key Learnings:</strong></p>
 Villa 63 in Mashhad was already a big puzzle: blending the calm everyday rhythm of family life (kids around the house, online classes, pool downtime) with the full energy of a folk music workspace (rehearsals, instrument workshops, recording, gatherings that could include close friends or total strangers), all in one home, in a city where privacy and discretion carry real weight because of its conservative and deeply religious atmosphere.

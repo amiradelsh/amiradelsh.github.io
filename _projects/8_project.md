@@ -39,6 +39,27 @@ This project is fully owned and authored by Amiradel Shamshirgaran. All material
 <!-- Another Row of Images -->
 <div class="row">
   <div class="col-sm mt-3 mt-md-0 text-center">
+    <img src="/assets/img/PhotographyProject1.jpg" alt="OKO skyscrapers | Moscow International Business Center | Russia | 2019" class="img-fluid rounded">
+    <div style="color: black; font-size: 1rem; margin-top: 0rem;">
+       Saint Isaac's Cathedral | St. Petersburg, Russia | 2019 | Nikon D7100, AF-P 18–55m
+    </div>
+  </div>
+</div>
+
+<!-- Another Row of Images -->
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0 text-center">
+    <img src="/assets/img/PhotographyProject30.jpg" alt="OKO skyscrapers | Moscow International Business Center | Russia | 2019" class="img-fluid rounded">
+    <div style="color: black; font-size: 1rem; margin-top: 0rem;">
+       South Tower of OKO | MIBC | Moscow, Russia | 2019 | Nikon D7100, AF-S DX 18-105mm
+    </div>
+  </div>
+</div>
+
+
+<!-- Another Row of Images -->
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0 text-center">
     <img src="/assets/img/PhotographyProject18.jpg" alt="Shiraz University | 2017" class="img-fluid rounded">
     <div style="color: black; font-size: 1rem; margin-top: 0.5rem;">
       Shiraz University | 2017 | Nikon D7100, AF-P 18–55mm
@@ -76,6 +97,21 @@ This project is fully owned and authored by Amiradel Shamshirgaran. All material
 <!-- Another Row of Images -->
 <div class="row">
   <div class="col-sm mt-3 mt-md-0 text-center">
+    <img src="/assets/img/PhotographyProject9.jpg" alt="Urban Dawn | Eram Mountain View | Shiraz University | 2018" class="img-fluid rounded">
+    <div style="color: black; font-size: 1rem; margin-top: 0rem;">
+       Urban Dawn | Eram Mountain View | Shiraz University | 2018 | Nikon D7100, AF-P 18–55m
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+<!-- Another Row of Images -->
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0 text-center">
     <img src="/assets/img/PhotographyProject19.jpg" alt="Somamoos mountain | located at south of Ramsar city | 2019" class="img-fluid rounded">
     <div style="color: black; font-size: 1rem; margin-top: 0rem;">
        Arbaba Hills | Kurdistan Province | 2018 | Nikon D7100, AF-P 18–55m
@@ -104,15 +140,7 @@ This project is fully owned and authored by Amiradel Shamshirgaran. All material
 
 
 
- <!-- Another Row of Images -->
-<div class="row">
-  <div class="col-sm mt-3 mt-md-0 text-center">
-    <img src="/assets/img/PhotographyProject9.jpg" alt="Urban Dawn | Eram Mountain View | Shiraz University | 2018" class="img-fluid rounded">
-    <div style="color: black; font-size: 1rem; margin-top: 0rem;">
-       Urban Dawn | Eram Mountain View | Shiraz University | 2018 | Nikon D7100, AF-P 18–55m
-    </div>
-  </div>
-</div>
+
 
 <br>
 
@@ -125,15 +153,7 @@ This project is fully owned and authored by Amiradel Shamshirgaran. All material
 
 
 
- <!-- Another Row of Images -->
-<div class="row">
-  <div class="col-sm mt-3 mt-md-0 text-center">
-    <img src="/assets/img/PhotographyProject30.jpg" alt="OKO skyscrapers | Moscow International Business Center | Russia | 2019" class="img-fluid rounded">
-    <div style="color: black; font-size: 1rem; margin-top: 0rem;">
-       South Tower of OKO | MIBC | Moscow, Russia | 2019 | Nikon D7100, AF-S DX 18-105mm
-    </div>
-  </div>
-</div>
+
 
  <!-- Another Row of Images -->
 <div class="row">

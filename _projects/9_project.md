@@ -49,7 +49,7 @@ The selected projects below reflect this breadth: engineering consultancies, cre
  <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/Postheader66.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/Postheader75.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
     </div>
   </div>
 
@@ -89,18 +89,25 @@ The selected projects below reflect this breadth: engineering consultancies, cre
   <strong>RENA Engineering & Construction Management</strong> — Logo & Identity
 </p>
 
+  <!-- Another Row of Images -->
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="/assets/img/Postheader57.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
+    </div>
+  </div>
+
 <!-- Image Slider -->
 <div class="slider-container">
   <div class="swiper mySwiper">
     <div class="swiper-wrapper">
       <!-- Slide 1 -->
       <div class="swiper-slide">
-        <img src="/assets/img/LOGOPROJECTWONDER3.jpg" alt="Progress">
+        <img src="/assets/img/LOGOPROJECTWONDER4.jpg" alt="Progress">
         <div class="caption"></div>
       </div>
       <!-- Slide 2 -->
       <div class="swiper-slide">
-        <img src="/assets/img/LOGOPROJECTWONDER4.jpg" alt="Waffle Structure">
+        <img src="/assets/img/LOGOPROJECTWONDER3.jpg" alt="Waffle Structure">
         <div class="caption"></div>
       </div>
       <!-- Slide 3 -->

@@ -79,7 +79,7 @@ I served as the lead architecture designer, financial analyst, BOQ creator, and 
       {% include figure.liquid path="/assets/img/7tirSection2.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
     </div>
   </div>
-<br>
+
 <p><strong>—Coordination & Collaboration:</strong></p>
 The project started with a site study and feasibility analysis to align ambitions with budget limits. Initial tasks focused on massing and sectional studies, quick concept sketches, and exploring cost-sensitive detailing options. Inputs included site surveys, local regulation constraints, a baseline structural model, and my own client brief as owner. Design progressed sequentially: ideation through sketches and massing, iterative refinements for form and materials, detailing with integrated modeling, and construction documentation. Coordination was organized via shared Revit models, milestone reviews, and on-site inspections. Changes or conflicts were identified through Revit markups and site checks, resolved by balancing design intent with budget via rapid contractor coordination. Quality was checked using internal checklists, model-to-site cross-verifications, and targeted mock-ups for façade details.
 <br><br>
@@ -147,18 +147,7 @@ Outputs produced included concept sketches, integrated Revit models (architectur
 
 <p><strong>—Constraints & Responsibilities:</strong></p>
 Main constraints involved a tight budget from self-funding, the existing urban context limiting scale and aesthetics, and adherence to local regulations including energy standards. Outside my responsibility were specialist engineering calculations and formal procurement/legal approvals. I relied on structural engineers for detailed calculations and contractors for execution insights. Key assumptions respected included maintaining cost predictability, ensuring buildability within the palette, and aligning with sustainability targets per Chapter 19. Tools like Revit for architecture/MEP modeling, Tekla for structure, and Revit-to-Excel for BOQ were essential, used in a shared workflow for integration and quantity take-offs.
-
-
-
-
-
-
-
-
-
-
-<br><br>
-
+<br>
 <!-- Image Slider -->
 <div class="slider-container">
   <div class="swiper mySwiper">
@@ -186,8 +175,14 @@ Main constraints involved a tight budget from self-funding, the existing urban c
     <div class="swiper-pagination"></div>
   </div>
 </div>
-
-<br><br>
+<br>
+<!-- Another Row of Images -->
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="/assets/img/7TirModel.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
+    </div>
+  </div>
+<br>
 <p><strong>—Reflection & Key Learnings:</strong></p>
 I applied lightweight ISO-inspired information management practices and a strengthened design-to-cost feedback loop tailored for small-scale projects, subtly leveraging BIM for integrated Revit modeling to ensure precision across disciplines. Feedback received led to simplifying façade details and earlier contractor involvement for practical refinements, which I implemented to enhance buildability. For a similar future project, I would engage contractors sooner, conduct quicker mock-ups for critical elements, and formalize a lightweight shared data workflow from the outset to further streamline coordination and reduce iterative adjustments.
 >

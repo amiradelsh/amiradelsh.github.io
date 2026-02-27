@@ -41,12 +41,7 @@ This project is fully owned and authored by Amiradel Shamshirgaran. All material
     </div>
   </div>
  
-<!-- Another Row of Images -->
-  <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/Postheader36.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
-    </div>
-  </div>
+
 
 
   <!-- Another Row of Images -->
@@ -74,5 +69,10 @@ This project is fully owned and authored by Amiradel Shamshirgaran. All material
     </div>
   </div>
 
-
+<!-- Another Row of Images -->
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="/assets/img/Postheader36.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
+    </div>
+  </div>
 
