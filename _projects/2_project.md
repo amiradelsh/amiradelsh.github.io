@@ -33,7 +33,7 @@ images:
 <hr style="margin: 2.5rem 0; border-top: 1px solid #dee2e6;">
 
 <p><strong>—Portfolio Note:</strong></p>
-This project is fully owned and authored by Amiradel Shamshirgaran. All materials are protected by copyright and may not be reused without permission. See the Legal Notice & Copyright page for details.
+This project represents original work and is shared here for portfolio purposes. Certain drawings and details have been selectively simplified, modified, or shown in non-final form.
 
 <p><strong>—Project Overview:</strong></p>
 Parkside is a six-story office building with a total built-up area of 3,500 square meters, located in a newly developed neighborhood west of Tehran, Iran. It received municipal approval ten years ago, but financing through pre-selling (common in the local real estate market) failed due to low investment appeal. The owner awarded a comprehensive Design + BIM contract to RENA Engineering & Construction Management. Under my role as Managing Director, we handled feasibility studies, initial sales programs, financing strategies, architectural design, and LOD 350 BIM modeling to revive and advance the project.

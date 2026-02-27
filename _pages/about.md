@@ -170,10 +170,35 @@ h1, h2, h3, .hero-title {
 <!-- Section with image on the right and text on the left -->
 <div class="section-with-image">
   <div class="text-left">
-    <h2><strong>Hello, I'm</strong> AMIRADEL,</h2>
+    <h2><strong>Hallo, I'm</strong> AMIRADEL,</h2>
     <p style="text-align: justify;">
       
-      Licensed architect with 3+ years of experience in solution-driven design, BIM-based collaboration, project management, and sustainability research. Proven track record in delivering BIM models up to LOD 350, conducting clash detection, and coordinating multidisciplinary workflows across architecture, structure, and MEP. Skilled in enhancing stakeholder engagement through immersive AR/VR/XR technologies and effective visual communication. Currently pursuing a second Master’s in Building Sustainability at TU Berlin, I’m seeking roles that intersect architecture, data-driven design, and climate innovation.
+I'm an architect based in Berlin with a Master’s degree in Construction Management. Over the years, I've worked in various areas, from sketching building designs and coordinating construction teams to using BIM tools for efficient project workflows, and now exploring sustainable building practices through my Master’s degree in Building Sustainability at TU Berlin.
+<br>
+This site showcases a range of my work across architecture, BIM coordination, visual arts, and research publications, reflecting experience from practical site work to technology-driven design and sustainability assessment.
+<br>
+I’m open to opportunities in Berlin and beyond.
+
+<!-- Social Links -->
+<div style="margin-top:20px; display:flex; gap:20px; justify-content:flex-start;">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/amiradelshamshirgaran/" target="_blank">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="#333">
+      <path d="M19 0h-14c-2.76 0-5 2.24-5 5v14c0 2.76 2.24 5 5 5h14c2.76 0 5-2.24 5-5v-14c0-2.76-2.24-5-5-5zm-11 19h-3v-10h3v10zm-1.5-11.25c-.966 0-1.75-.784-1.75-1.75s.784-1.75 1.75-1.75 1.75.784 1.75 1.75-.784 1.75-1.75 1.75zm13.5 11.25h-3v-5.5c0-3.299-4-3.05-4 0v5.5h-3v-10h3v1.528c1.396-2.586 7-2.777 7 2.476v6.996z"/>
+    </svg>
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:amiradel.shamshirgaran@gmail.com
+">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="#333">
+      <path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4-8 5-8-5V6l8 5 8-5v2z"/>
+    </svg>
+  </a>
+
+</div>
+
  </p>
 <!--
   <p> 

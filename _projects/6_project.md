@@ -33,7 +33,7 @@ images:
 <hr style="margin: 2.5rem 0; border-top: 1px solid #dee2e6;">
 
 <p><strong>—Portfolio Note:</strong></p>
-This project is fully owned and authored by Amiradel Shamshirgaran. All materials are protected by copyright and may not be reused without permission. See the Legal Notice & Copyright page for details.
+This project represents original work and is shared here for portfolio purposes. Certain drawings and details have been selectively simplified, modified, or shown in non-final form.
 
 <p><strong>—Project Overview:</strong></p>
 Villa 63 is a private residence and creative workplace in Mashhad, designed for a small family whose father is a respected folk music artist. The house serves as both a calm family sanctuary and the central hub for his professional life, accommodating music rehearsals, workshops, informal gatherings, and occasional mixed-gender artistic events. The principal challenge was to weave these two worlds, intimate domestic life and vibrant creative activity, into a single cohesive dwelling that feels generous, connected, and never compromised in either direction.

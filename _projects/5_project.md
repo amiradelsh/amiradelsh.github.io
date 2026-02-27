@@ -33,7 +33,7 @@ images:
 <hr style="margin: 2.5rem 0; border-top: 1px solid #dee2e6;">
 
 <p><strong>—Portfolio Note:</strong></p>
-This project is fully owned and authored by Amiradel Shamshirgaran. All materials are protected by copyright and may not be reused without permission. See the Legal Notice & Copyright page for details.
+This project represents original work and is shared here for portfolio purposes. Certain drawings and details have been selectively simplified, modified, or shown in non-final form.
 
 <p><strong>—Project Overview:</strong></p>
 This project is a small-scale commercial building in Birjand, Iran, reinterpreting the architectural arch as a spatial and sculptural element within a compact urban fabric. It spans 400 m² over two main floors, composed of interlocking volumes in Chamotte (fireclay) brick, Exposed concrete, Scratch-finished granite slabs, and High-performance glazing system to balance transparency and mass. Located in a high-value neighbourhood with mostly older, design-lacking architecture, it serves as the first new design in years, aiming to introduce a thoughtful approach. I contributed across all phases, from feasibility studies and concept design through schematic design, design development, construction documents, and on-site supervision, aligning with Iran’s Chapter 19 energy standards. The project is currently under construction, with the façade implementation ongoing.

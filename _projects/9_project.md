@@ -32,7 +32,7 @@ images:
 <hr style="margin: 2.5rem 0; border-top: 1px solid #dee2e6;">
 
 <p><strong>—Portfolio Note:</strong></p>
-This project is fully owned and authored by Amiradel Shamshirgaran. All materials are protected by copyright and may not be reused without permission. See the Legal Notice & Copyright page for details.
+This project represents original work and is shared here for portfolio purposes.
 
 I designed logos and brand identities for clients across a wide range of fields — from technical engineering and landscape architecture to sustainable fashion, software development, adventure travel, renewable energy, music, and the visual arts.
 The selected projects below reflect this breadth: engineering consultancies, creative platforms, cultural institutions, and independent creators. Each identity is developed through close collaboration, aiming for clarity, longevity, and a strong fit with the client’s world.
