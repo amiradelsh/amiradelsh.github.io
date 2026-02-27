@@ -442,13 +442,13 @@ ninja.data = [{
           description: "Office Hub",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-quot-simin-commercial-quot",
-          title: '[&amp;quot;SIMIN COMMERCIAL&amp;quot;]',
+            },},{id: "projects-quot-simin-quot",
+          title: '[&amp;quot;SIMIN&amp;quot;]',
           description: "Commercial Building",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-quot-green-city-quot",
-          title: '[&amp;quot;GREEN CITY&amp;quot;]',
+            },},{id: "projects-quot-villa-63-quot",
+          title: '[&amp;quot;VILLA 63&amp;quot;]',
           description: "Residential Building",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
