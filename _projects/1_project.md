@@ -34,13 +34,7 @@ client: "XYZ Architecture Firm"
 The material shown on this page is a selective, simplified, and non-buildable representation of a collaborative project. More information is available at the end of this page and in the Legal Notice & Copyright section.
 
 <p><strong>—Project Overview:</strong></p>
-Melal Business Hotel is a 26-story mixed-use hospitality development strategically located near Vanak Square, Tehran's central business district. Designed to accommodate both business and leisure travelers, the hotel features 373 guest rooms, offering a diverse range of accommodations:
-•	Single Rooms: 18
-•	Standard Rooms: 256
-•	Junior Suites: 88
-•	Executive Suites: 9
-•	Presidential Suites: 2
-With a total built-up area of 65,346 sq. m, the project integrates high-end hospitality functions with state-of-the-art architectural and structural solutions. 
+Mellal is a 26-story mixed-use hospitality development located near Vanak Square in Tehran’s central business district. It has a total built-up area of 65,346 sq. m and features 373 guest rooms, broken down as follows: 18 single rooms, 256 standard rooms, 88 junior suites, 9 executive suites, and 2 presidential suites. The design integrates high-end hospitality functions with advanced architectural and structural solutions. I contributed during the execution planning phase, with a primary focus on architecture BIM modelling. This involvement came after a decade-long project pause caused by municipal permission conflicts related to traffic issues. 
 
   <!-- Another Row of Images -->
   <div class="row">
@@ -49,8 +43,8 @@ With a total built-up area of 65,346 sq. m, the project integrates high-end hosp
     </div>
   </div>
 
-The building’s structural system consists of a reinforced concrete core combined with a steel frame, ensuring both seismic resilience and construction efficiency.
-Currently in the under-construction phase, the project is progressing with the facade installation, marking a significant milestone toward completion. The architectural design emphasizes functionality, spatial efficiency, and contemporary aesthetics, contributing to Tehran’s evolving urban landscape.
+<p><strong>—Context & Technical challenges:</strong></p>
+The project’s structure combines a reinforced concrete core with a steel frame, originally designed about a decade earlier and modelled in an older version of Tekla by the structural team. The foundation and several structural elements had already been erected before the pause. When the project restarted, our team took on architecture modelling at LOD 400 in Revit. The main technical challenges arose from the legacy Tekla data, including outdated modelling conventions, mismatched object intelligence, lost or flattened parameters, and structural elements appearing as “dumb geometry” without semantic meaning. Additional issues involved inconsistent profiles, materials, and naming logic. These were especially problematic given our team’s lack of prior experience with this hybrid structural system. On the organizational side, frequent client-requested design changes on the outdated base documents added complexity and required ongoing adaptations.
 
 
   <!-- Another Row of Images -->
@@ -61,8 +55,11 @@ Currently in the under-construction phase, the project is progressing with the f
   </div>
 The diagram presents three orthographic axonometric views (West, South, and East) of the Melal Business Hotel, illustrating the vertical organization and spatial distribution of its core functions.
 
-> Below are sample technical floor plans from the project, demonstrating the spatial organization and architectural detailing of the finalized documents. Specific areas have been enlarged to emphasize the precision of these drawings, showcasing key design elements, architectural components, and technical annotations.
-> — 10 Documents
+<p><strong>—Role & Modelling Scope:</strong></p>
+I worked as an architectural BIM modeller as part of the broader BIM team. My core responsibilities encompassed high-LOD architectural modelling, detailed façade systems modelling, creation of parametric families, and using Dynamo for automating repetitive tasks. The scope also included generating issued drawings for both tender and construction stages, along with developing and implementing drawing standards and view templates. I interfaced directly with the architecture and MEP disciplines to ensure alignment. In terms of decision-making, I was fully responsible for technical choices related to modelling approaches, parametric family setups, Dynamo automation, and the application of drawing standards within my assigned areas. I also contributed collaboratively to strategies for façade detailing, resolving coordination issues, and preparing/reviewing drawings as part of the team effort. Coordination-related work was reviewed jointly with structural and MEP teams through multidisciplinary BIM processes.
+
+Below are sample technical floor plans from the project, demonstrating the spatial organization and architectural detailing of the finalized documents.
+— 10 Documents
 
 <div class="slider-container">
   <div class="swiper mySwiper">
@@ -116,8 +113,11 @@ The diagram presents three orthographic axonometric views (West, South, and East
   </div>
 </div>
 
-> Below are callout sheets highlighting the design of various rooms and spaces within the project. Each sheet includes isometric 3D models, detailed plans, and section drawings, providing comprehensive documentation for over 400 specific space within the building model.
-> —5 Documents
+<hr>
+<p><strong>—Coordination & Collaboration:</strong></p>
+When I joined, the project was resuming after its long pause, starting with key inputs such as 2D CAD documents, existing permits, initial concept 3D models, and mood boards for reference. My first tasks centered on architecture BIM modelling, evaluating the legacy Tekla structural model, performing data remediation for seamless Revit integration, creating high-LOD elements, and engaging in iterative coordination cycles. Overall coordination adhered to BIMForum/AIA LOD specifications and ISO 19650 principles for information management and clash resolution. This involved federating discipline-specific Revit models (architecture, structure, MEP) using shared coordinates for precise alignment. Navisworks served as the primary tool for regular clash detection. Changes and conflicts were identified through automated hard/soft clash runs, supplemented by visual inspections and model audits. Resolution followed an iterative process: assigning clashes via reports to responsible disciplines, making updates in native Revit files (such as rerouting or adjustments), and re-federating models until achieving zero critical clashes at LOD 400 handover.
+
+Below are callout sheets highlighting the design of various rooms and spaces within the project.  —5 Documents
 
 <div class="slider-container">
   <div class="swiper mySwiper">
@@ -152,10 +152,10 @@ The diagram presents three orthographic axonometric views (West, South, and East
 </div>
 
 <hr>
-The interior design of the project has been developed by a renowned consulting firm, drawing inspiration from both modern and historical architecture of Tehran. The raw renderings were produced using Revit's V-Ray renderer, providing realistic visualizations of the design. All materials, from tiles to wall, ceiling, and floor coverings, are based on actual material references selected by the consultant, ensuring alignment with the construction specifications.
+<p><strong>—Constraints & Responsibilities:</strong></p>
+Key constraints shaping the work included tight time and budget limits due to the project restart, as well as the need to comply with pre-existing regulatory approvals and permissions. Areas outside my responsibility were concept design, overall architecture design, handling regulations and permissions, and any as-built modelling. I depended on inputs from others, particularly the structural team’s Tekla data and client-provided change requests. Assumptions that had to be respected centered on preserving LOD 400 semantic integrity and ensuring data interoperability through methods like IFC exports and shared coordinates. Quality assurance involved systematic model audits, detailed clash reports, and verification against established standards to maintain accuracy and consistency.
 
-> Every material and design element has been meticulously modeled within the BIM environment, ensuring a high level of accuracy and coordination.
-> — 8 Visualizations
+Every material and design element has been meticulously modeled within the BIM environment, ensuring a high level of accuracy and coordination. — 8 Visualizations
 
 <div class="slider-container">
   <div class="swiper mySwiper">
@@ -202,8 +202,8 @@ The interior design of the project has been developed by a renowned consulting f
 </div>
 <hr>
 
-The Architectural BIM model has been continuously coordinated with the MEP and Structural BIM models to ensure seamless integration across disciplines. All structural, mechanical, plumbing, and electrical elements have been modeled to a Level of Development (LOD) 350, allowing for detailed representation and precise constructability analysis. Ongoing coordination meetings were conducted to identify and resolve conflicts, with a total of 185 hard clashes detected using Navisworks and successfully resolved before finalizing the construction documents.
-> I was responsible for conducting clash detection tests using Navisworks and played a key role in organizing and managing coordination meetings to facilitate interdisciplinary collaboration and issue resolution.
+<p><strong>—Deliverables & Outcome:</strong></p>
+The primary outputs from my contributions included LOD 400 Revit models for architecture, custom parametric families, Dynamo automation scripts, issued drawings for tender and construction purposes, and comprehensive coordination reports. These deliverables were utilized by downstream project teams to support fabrication, on-site installation, and detailed execution planning. By clarifying interfaces and preemptively resolving clashes in the digital environment, the work helped minimize potential on-site conflicts. Ultimately, it enhanced multi-discipline coordination and informed better decision-making, especially in managing legacy data within a restarted high-rise hospitality context.
 
 This isometric view showcases the fully integrated MEP systems modeled at LOD 350, ensuring precise coordination and constructability. 
 
@@ -214,9 +214,8 @@ This isometric view showcases the fully integrated MEP systems modeled at LOD 35
     </div>
   </div>
 
-
 The model includes ventilation equipment such as FCUs, AHUs, and VRF units, along with a complete ductwork system featuring supply, return, and exhaust ducts with fittings, dampers, and insulation. The plumbing networks encompass hydronic systems, domestic hot and cold water, sanitary drainage, and venting, while utility piping includes gas lines, stormwater drainage, and fire suppression systems. Additionally, the fire protection system incorporates sprinklers, suppression equipment, and other fire safety components. The electrical systems are fully detailed with power distribution elements, conduits, cable trays, and panels, complemented by low-voltage components and lighting systems, including electrical devices, sensors, and lighting fixtures. This highly detailed BIM model facilitates clash detection, coordination, and seamless integration of all mechanical, electrical, and plumbing systems, optimizing project efficiency and accuracy.
-> — 10 Visualizations of the MEP Model
+— 10 Visualizations of the MEP Model
 <div class="slider-container">
   <div class="swiper mySwiper">
     <div class="swiper-wrapper">
@@ -270,11 +269,11 @@ The model includes ventilation equipment such as FCUs, AHUs, and VRF units, alon
 </div>
 
 <hr>
-> A highly detailed BIM structural model enables accurate coordination, clash detection, and constructability validation, ensuring an efficient and optimized design process for the hotel’s construction.
+<p><strong>—Reflection & Key Learnings:</strong></p>
+In this project, I applied new workflows for legacy model integration, using Revit to revive and remediate the outdated Tekla-based hybrid structure (reinforced concrete core plus steel frame). This involved reverse-engineering techniques to restore semantic intelligence, repair lost or flattened parameters, update legacy profiles, materials, and naming conventions, and transform “dumb geometry” into fully intelligent BIM objects, effectively tackling the unfamiliar hybrid challenges. I also started to learn advanced multi-discipline coordination practices in Navisworks, aligned with BIMForum LOD 400 and ISO 19650 principles, to manage constant client-driven changes on old documents. Key takeaways included robust change management in federated models, improved interoperability between Tekla and Revit via IFC and shared coordinates, and the importance of early semantic enrichment for delivering accurate LOD 400 fabrication-ready models in paused or restarted scenarios. 
 
-This isometric view showcases the LOD 300 BIM structural model, ensuring precise detailing, connection accuracy, and seamless constructability. The model integrates a combination of steel and concrete elements, including reinforced concrete foundations, columns, beams, and slabs, along with steel structural components such as columns, beams, girders, trusses, and bracing systems. It also features composite structures, including concrete-filled steel columns and beams, as well as composite floor decks.
 
-> 11 Visualizations of the Structure Model.
+11 Visualizations of the Structure Model.
 
 
 <div class="slider-container">
@@ -330,9 +329,10 @@ This isometric view showcases the LOD 300 BIM structural model, ensuring precise
 </div>
 
 <hr>
-Key secondary structural elements such as staircases, elevator shafts, balconies, and cantilever structures are precisely defined, ensuring smooth integration with architectural and MEP systems. The roof structure is modeled in detail, with steel purlins, rafters, decking, and reinforced concrete slabs, while seismic and wind load-resisting components such as braced frames, shear walls, and dampers enhance the building’s resilience.
 
->Concrete-filled steel columns (CFSTs) are represented with a steel core encased in concrete, including detailed connections to beams, slabs, and foundations. The model captures base plates, reinforcements, penetrations, and structural joints, as illustrated below. 
+
+Concrete-filled steel columns (CFSTs) are represented with a steel core encased in concrete, including detailed connections to beams, slabs, and foundations. The model captures base plates, reinforcements, penetrations, and structural joints, as illustrated below. 
+
 <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -343,7 +343,7 @@ Key secondary structural elements such as staircases, elevator shafts, balconies
 
   This video presents the Revit Architecture Model using the Section Box tool, revealing detailed architectural elements of the architecture BIM model.
 <div style="padding:46.17% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1053053646?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Architecture_BIM_Model_Overview"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
+<hr>
 <p><strong>—Project-Specific Portfolio Disclaimer:</strong></p>
 This project was developed as part of a collaborative design and delivery team. The materials presented on this page are selective, simplified, and modified representations, prepared solely for portfolio and academic purposes.
 The drawings, diagrams, and renderings shown may include simplified or cropped views, partial systems, and redacted or altered notes, dimensions, and technical information. The technical materials have been intentionally selected from non-final stages of the project, such as early design or execution-development phases, or from components that were later revised or significantly changed.

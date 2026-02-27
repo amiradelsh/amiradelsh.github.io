@@ -1,6 +1,6 @@
 ---
 layout: page
-title: [SIMIN COMMERCIAL]
+title: [SIMIN]
 description: Commercial Building
 img: /assets/img/7tirThumbnail2.jpg
 importance: 3
@@ -35,8 +35,8 @@ images:
 <p><strong>—Portfolio Note:</strong></p>
 This project is fully owned and authored by Amiradel Shamshirgaran. All materials are protected by copyright and may not be reused without permission. See the Legal Notice & Copyright page for details.
 
-
- Contemporary archetypes in a compact urban fabric: This small-scale commercial building in Birjand reinterprets the architectural arch as a spatial and sculptural element. Designed as a composition of interlocking volumes and crafted in brick, concrete, and glass, the building balances transparency and mass. I led the architectural design, BIM modeling, and on-site supervision under RENA, where I served as CEO. The project is modeled in Revit with architecture, structure, and MEP integrated. Currently under construction, it aligns with Iran’s Chapter 19 energy standards, with the façade now being implemented.
+<p><strong>—Project Overview:</strong></p>
+This project is a small-scale commercial building in Birjand, Iran, reinterpreting the architectural arch as a spatial and sculptural element within a compact urban fabric. It spans 400 m² over two main floors, composed of interlocking volumes in Chamotte (fireclay) brick, Exposed concrete, Scratch-finished granite slabs, and High-performance glazing system to balance transparency and mass. Located in a high-value neighbourhood with mostly older, design-lacking architecture, it serves as the first new design in years, aiming to introduce a thoughtful approach. I contributed across all phases, from feasibility studies and concept design through schematic design, design development, construction documents, and on-site supervision, aligning with Iran’s Chapter 19 energy standards. The project is currently under construction, with the façade implementation ongoing.
 
 
   <!-- Another Row of Images -->
@@ -46,8 +46,8 @@ This project is fully owned and authored by Amiradel Shamshirgaran. All material
     </div>
   </div>
 
- The site is located in a high-value neighborhood where much of the surrounding architecture is older and often lacking in design quality. As the first newly designed building in the area in years, this project was an opportunity to gently introduce a different architectural approach. The hope was to offer a thoughtful response to the site while encouraging a more design-conscious direction for future developments.
-
+ <p><strong>—Context & Technical challenges:</strong></p>
+The building features clean, interlocking volumes for a simple yet expressive form, using a restrained palette of brick, glass, and concrete to emphasize contrasts between solid/void and textured/smooth surfaces. The arch motif recurs in openings, balconies, and an ‘Elevated Vitrine’ that engages the street. The main technical challenge was balancing this expressive form with the material palette while ensuring integration of architecture, structure, and MEP in Revit modeling. Organizationally, as a self-funded project, the key issue was reconciling design ambition with strict budget constraints, requiring cost-sensitive decisions throughout to maintain quality without excess.
 
 <!-- Another Row of Images -->
   <div class="row">
@@ -56,7 +56,15 @@ This project is fully owned and authored by Amiradel Shamshirgaran. All material
     </div>
   </div>
 
- The building is shaped by clean, interlocking volumes, aiming for a simple yet expressive form. A restrained palette of brick, glass, and concrete was chosen to highlight contrasts between solid and void, and between textured and smooth surfaces. The arch motif appears throughout the design — in openings, balconies, and the ‘Elevated Vitrine,’ which allows the facade to engage more directly with the street.
+
+<img-comparison-slider>
+  {% include figure.liquid path="assets/img/SiminDay1.jpg" class="img-fluid rounded z-depth-1" slot="first" %}
+  {% include figure.liquid path="assets/img/SiminNight1.jpg" class="img-fluid rounded z-depth-1" slot="second" %}
+</img-comparison-slider>
+
+
+<p><strong>—Role & Modelling Scope:</strong></p>
+I served as the lead architecture designer, financial analyst, BOQ creator, and modeler for architecture and MEP, operating primarily as an individual lead with selective collaboration on structure (via Tekla) and contractors. As co-founder of RENA, I handled solo design leadership alongside consultant inputs for specialist tasks. I interfaced with all disciplines, including structural engineers, MEP consultants, contractors, and local authorities. Key decisions I was responsible for included concept development, design choices, material selection, BOQ creation, and execution strategy; I contributed to structural detailing and coordinated specialist inputs. Work was primarily self-approved as owner-designer, with structural and regulatory validations by engineers and authorities.
 
   <!-- Another Row of Images -->
   <div class="row">
@@ -72,7 +80,8 @@ This project is fully owned and authored by Amiradel Shamshirgaran. All material
     </div>
   </div>
 <br>
-It was developed using Revit Architecture, Structure, and MEP, modeled to an LOD 300 standard to ensure coordination across disciplines. BIM coordination was conducted in parallel with ongoing construction, allowing dynamic updates especially for MEP components. 
+<p><strong>—Coordination & Collaboration:</strong></p>
+The project started with a site study and feasibility analysis to align ambitions with budget limits. Initial tasks focused on massing and sectional studies, quick concept sketches, and exploring cost-sensitive detailing options. Inputs included site surveys, local regulation constraints, a baseline structural model, and my own client brief as owner. Design progressed sequentially: ideation through sketches and massing, iterative refinements for form and materials, detailing with integrated modeling, and construction documentation. Coordination was organized via shared Revit models, milestone reviews, and on-site inspections. Changes or conflicts were identified through Revit markups and site checks, resolved by balancing design intent with budget via rapid contractor coordination. Quality was checked using internal checklists, model-to-site cross-verifications, and targeted mock-ups for façade details.
 <br><br>
 
  <!-- Another Row of Images -->
@@ -83,6 +92,41 @@ It was developed using Revit Architecture, Structure, and MEP, modeled to an LOD
   </div>
 <br>
 Pre-placement of embedded electrical conduits and junction boxes for future recessed coffer lighting, prior to concrete pour in waffle slab construction.
+
+<p><strong>—Deliverables & Outcome:</strong></p>
+Outputs produced included concept sketches, integrated Revit models (architecture, structure, MEP), construction drawings, detailed façade documentation, and BOQs. These were used by contractors and subcontractors for on-site execution, mock-ups, and technical validations by consultants. The work clarified façade detailing and buildability issues, reducing potential construction uncertainties while meeting realistic cost expectations. It improved design feasibility and coordination by providing coordinated documentation and a tight design-to-cost loop, enabling informed decisions in a budget-constrained context and minimizing onsite revisions.
+
+
+<!-- Another Row of Images -->
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="/assets/img/7tirDetail1.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
+    </div>
+  </div>
+
+  <!-- Another Row of Images -->
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="/assets/img/7tirDetail2.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
+    </div>
+  </div>
+
+
+<!-- Another Row of Images -->
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="/assets/img/7tirDetail3.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
+    </div>
+  </div>
+
+
+<!-- Another Row of Images -->
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="/assets/img/7tirDetail4.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
+    </div>
+  </div>
+
 
 <!-- Another Row of Images -->
   <div class="row">
@@ -100,7 +144,19 @@ Pre-placement of embedded electrical conduits and junction boxes for future rece
   </div>
 
 <br>
-A sample of structural elements: Steel stair stringers welded to landing frame, with load transferred via anchor bolts and plates to concrete. 
+
+<p><strong>—Constraints & Responsibilities:</strong></p>
+Main constraints involved a tight budget from self-funding, the existing urban context limiting scale and aesthetics, and adherence to local regulations including energy standards. Outside my responsibility were specialist engineering calculations and formal procurement/legal approvals. I relied on structural engineers for detailed calculations and contractors for execution insights. Key assumptions respected included maintaining cost predictability, ensuring buildability within the palette, and aligning with sustainability targets per Chapter 19. Tools like Revit for architecture/MEP modeling, Tekla for structure, and Revit-to-Excel for BOQ were essential, used in a shared workflow for integration and quantity take-offs.
+
+
+
+
+
+
+
+
+
+
 <br><br>
 
 <!-- Image Slider -->
@@ -132,8 +188,9 @@ A sample of structural elements: Steel stair stringers welded to landing frame, 
 </div>
 
 <br><br>
-
-
+<p><strong>—Reflection & Key Learnings:</strong></p>
+I applied lightweight ISO-inspired information management practices and a strengthened design-to-cost feedback loop tailored for small-scale projects, subtly leveraging BIM for integrated Revit modeling to ensure precision across disciplines. Feedback received led to simplifying façade details and earlier contractor involvement for practical refinements, which I implemented to enhance buildability. For a similar future project, I would engage contractors sooner, conduct quicker mock-ups for critical elements, and formalize a lightweight shared data workflow from the outset to further streamline coordination and reduce iterative adjustments.
+>
 <!-- Include Swiper.js Library -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css">
 <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
