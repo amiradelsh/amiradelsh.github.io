@@ -251,7 +251,7 @@ I’m open to opportunities in Berlin and beyond.
 
   <!-- Graphics Projects -->
   <div class="projects">
-    <h2>Visual Designs</h2>
+    <h2>Visual Projects</h2>
     <div class="project-container">
       {% assign graphics_projects = site.projects | where: "category", "Graphics" %}
       {% for project in graphics_projects %}
