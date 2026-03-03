@@ -165,7 +165,7 @@ Primary outputs included feasibility studies with financing strategies, refined 
     <div class="swiper-pagination"></div>
   </div>
 </div>
-
+<hr>
 
 <div style="padding:46.17% 0 0 0;position:relative;">
   <iframe src="https://www.youtube.com/embed/boUGCuRIPxE" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Architecture_BIM_Model_Overview"></iframe>

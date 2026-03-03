@@ -173,11 +173,9 @@ h1, h2, h3, .hero-title {
     <h2><strong>Hallo, I'm</strong> AMIRADEL,</h2>
     <p style="text-align: justify;">
       
-an architect based in Berlin with a Master’s degree in Construction Management. Over the years, I've worked in various areas, from sketching building designs and coordinating construction teams to using BIM tools for efficient project workflows, and now exploring sustainable building practices through my Master’s degree in Building Sustainability at TU Berlin.
+Berlin-based architect with experience in site work, BIM and technology-driven design, finalizing a Master's in Building Sustainability at TU Berlin.
 <br>
-This site showcases a range of my work across architecture, BIM coordination, visual arts, and research publications, reflecting experience from practical site work to technology-driven design and sustainability assessment.
-<br>
-I’m open to opportunities in Berlin and beyond.
+DGNB registered professional with peer-reviewed publications in the field. Open to opportunities in Berlin and beyond.
 
 <!-- Social Links -->
 <div style="margin-top:20px; display:flex; gap:20px; justify-content:flex-start;">
@@ -197,7 +195,7 @@ I’m open to opportunities in Berlin and beyond.
 </a>
 
 </div>
-
+<br><br><br><br><br>
  </p>
 <!--
   <p> 
@@ -209,7 +207,7 @@ I’m open to opportunities in Berlin and beyond.
 -->
   </div>
   <div class="image-right">
-    <img src="assets/img/UrbanFuture.jpg" alt="About Me Image" />
+    <img src="assets/img/LandingPagePhoto2.jpg" alt="About Me Image" />
   </div>
 </div>
 
