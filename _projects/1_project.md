@@ -124,11 +124,11 @@ Below are callout sheets highlighting the design of various rooms and spaces wit
     <div class="swiper-wrapper">
       <!-- Slides -->
       <div class="swiper-slide">
-        <img src="/assets/img/MelalRoomdetail3.jpg" alt="Hotel Room Details3">
+        <img src="/assets/img/MelalRoomdetail4.jpg" alt="Hotel Room Details3">
         <div class="caption">Hotel Room Details</div>
       </div>
       <div class="swiper-slide">
-        <img src="/assets/img/MelalRoomdetail.jpg" alt="Hotel Room Details1">
+        <img src="/assets/img/MelalRoomdetail3.jpg" alt="Hotel Room Details1">
         <div class="caption">Hotel Room Details</div>
       </div>
       <div class="swiper-slide">
@@ -136,7 +136,7 @@ Below are callout sheets highlighting the design of various rooms and spaces wit
         <div class="caption">Hotel Room Details</div>
       </div>
       <div class="swiper-slide">
-        <img src="/assets/img/MelalRoomdetail4.jpg" alt="Hotel Room Details4">
+        <img src="/assets/img/MelalRoomdetail.jpg" alt="Hotel Room Details4">
         <div class="caption">Hotel Room Details</div>
       </div>
       <div class="swiper-slide">
