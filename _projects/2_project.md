@@ -62,6 +62,21 @@ The structure was already designed cost-effectively, with partial development co
   <hr>
 <p><strong>—Role & Modelling Scope:</strong></p>
 I served as CEO and Design + BIM Lead for the project, with a leadership-based role within a team structure. Functionally, I integrated feasibility studies, financing strategies, architectural design development, and LOD 350 BIM modeling. I directly led the architectural BIM process and supervised MEP modeling via a third-party contract, ensuring overall coordination, constructability, and alignment with financing goals. The team included three in-house architectural BIM modelers, a contracted MEP team, and structural engineers; while I was involved in technical modeling, my focus was on strategic coordination, quality control, and oversight. I interfaced with architecture (internal), MEP (external), structural engineers, cost/BOQ specialists, sales/financing stakeholders, and the owner. I was responsible for feasibility validation, architectural concept/development/execution, BIM coordination strategy (LOD 350), phasing for pre-sales, final approvals, and team management. I contributed to structural optimization, MEP decisions, and value engineering/cost strategies. Work was ultimately approved by the project owner/investor, especially on financial and major design aspects.
+
+  <!-- Another Row of Images -->
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="/assets/img/ParksideGIF.gif" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
+    </div>
+  </div>
+  <!-- Another Row of Images -->
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="/assets/img/ParksideDYNAMO.jpg" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
+    </div>
+  </div>
+A Dynamo script that reads construction sequence data from a shared parameter, interpolates a blue-to-red color gradient per element using a mathematical remap formula, and applies graphic overrides directly through the Revit API via a custom Python node, simulating a 4D build sequence driven by live schedule data.
+
   <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
