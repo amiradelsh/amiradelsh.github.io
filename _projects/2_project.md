@@ -66,7 +66,7 @@ I served as CEO and Design + BIM Lead for the project, with a leadership-based r
   <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid path="/assets/img/ParksideGIF.gif" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
+      {% include figure.liquid path="/assets/img/ParksideGIF.webp" title="© Amiradel Shamshirgaran" class="img-fluid rounded" %}
     </div>
   </div>
   <!-- Another Row of Images -->
