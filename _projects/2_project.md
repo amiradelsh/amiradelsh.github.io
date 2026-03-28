@@ -77,6 +77,10 @@ I served as CEO and Design + BIM Lead for the project, with a leadership-based r
   </div>
 A Dynamo script that reads construction sequence data from a shared parameter, interpolates a blue-to-red color gradient per element using a mathematical remap formula, and applies graphic overrides directly through the Revit API via a custom Python node, simulating a 4D build sequence driven by live schedule data.
 
+<div style="padding:42.18% 0 0 0;position:relative;">
+  <iframe src="https://www.youtube.com/embed/AcJfMTaRZXo" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Web-Based AR Architectural Walkthrough"></iframe>
+</div>
+
   <!-- Another Row of Images -->
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
